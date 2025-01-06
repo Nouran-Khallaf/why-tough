@@ -4,13 +4,17 @@ This study is driven by the universal right to accessible information, see the f
 
 This repository contains a novel dataset, which is driven by taxonomy for sentence-level TS tasks. Unlike previous resources like [WikiLarge](https://github.com/XingxingZhang/dress) and [ASSET](https://github.com/facebookresearch/asset), which emphasize word-level or predefined operations, this study focuses on **why** corrections are needed by providing annotations for lexical, syntactic, and semantic changes. The dataset itself stems from diverse public services in Scotland:
 
-|:---|---:|---:|---:|---:|---:|---:|---:|
-| **Source** | **\#Texts** | **Complex** |  |  | **Simple** |  |  |
-|  |  | \#Words | \#Sentences | IQR | \#Words | \#Sentences | IQR |
-| Health | 21 | 183677 | 7258 | (15.0-31.0) | 30253 | 1519 | (10.0-21.0) |
-| Public info | 4 | 12217 | 527 | (12.0-30.5) | 3378 | 217 | (9.0-18.0) |
-| Politics | 9 | 113412 | 4824 | (15.0-29.0) | 12474 | 832 | (9.0-17.0) |
-| Data selection | – | 4166 | 155 | (12-27) | 3259 | 161 | (9-20) |
+
+
+| **Source**       | **# Texts** | **Complex**               | **Simple**               |
+|-------------------|------------:|------------:|-------|-------|------------|-------|-------|
+|                  |             | **# Words** | **# Sentences** | **IQR** | **# Words** | **# Sentences** | **IQR** |
+| **Health**       | 21          | 183,677     | 7,258 | (15.0–31.0) | 30,253   | 1,519 | (10.0–21.0) |
+| **Public Info**  | 4           | 12,217      | 527   | (12.0–30.5) | 3,378    | 217   | (9.0–18.0) |
+| **Politics**     | 9           | 113,412     | 4,824 | (15.0–29.0) | 12,474   | 832   | (9.0–17.0) |
+| **Data Selection** | –         | 4,166       | 155   | (12–27)     | 3,259    | 161   | (9–20)     |
+
+---
 
 The study's contributions include (1) an extended taxonomy of text simplification strategies that integrates insights from translation studies, (2) a corpus of complex and simplified texts sourced from public services in Scotland, (3) experiments using transformer-based models to predict simplification strategies, and (4) the use of Explainable AI (XAI) techniques, such as Integrated Gradients, to interpret model predictions. 
 
