@@ -14,6 +14,67 @@ This repository contains a novel dataset, which is driven by taxonomy for senten
 | **Politics**     | 9           | 113,412     | 4,824 | (15.0–29.0) | 12,474   | 832   | (9.0–17.0) |
 | **Data Selection** | –         | 4,166       | 155   | (12–27)     | 3,259    | 161   | (9–20)     |
 
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Source</th>
+      <th rowspan="2"># Texts</th>
+      <th colspan="3">Complex</th>
+      <th colspan="3">Simple</th>
+    </tr>
+    <tr>
+      <th># Words</th>
+      <th># Sentences</th>
+      <th>IQR</th>
+      <th># Words</th>
+      <th># Sentences</th>
+      <th>IQR</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Health</td>
+      <td>21</td>
+      <td>183,677</td>
+      <td>7,258</td>
+      <td>(15.0–31.0)</td>
+      <td>30,253</td>
+      <td>1,519</td>
+      <td>(10.0–21.0)</td>
+    </tr>
+    <tr>
+      <td>Public Info</td>
+      <td>4</td>
+      <td>12,217</td>
+      <td>527</td>
+      <td>(12.0–30.5)</td>
+      <td>3,378</td>
+      <td>217</td>
+      <td>(9.0–18.0)</td>
+    </tr>
+    <tr>
+      <td>Politics</td>
+      <td>9</td>
+      <td>113,412</td>
+      <td>4,824</td>
+      <td>(15.0–29.0)</td>
+      <td>12,474</td>
+      <td>832</td>
+      <td>(9.0–17.0)</td>
+    </tr>
+    <tr>
+      <td>Data Selection</td>
+      <td>–</td>
+      <td>4,166</td>
+      <td>155</td>
+      <td>(12–27)</td>
+      <td>3,259</td>
+      <td>161</td>
+      <td>(9–20)</td>
+    </tr>
+  </tbody>
+</table>
+
 ---
 
 The study's contributions include (1) an extended taxonomy of text simplification strategies that integrates insights from translation studies, (2) a corpus of complex and simplified texts sourced from public services in Scotland, (3) experiments using transformer-based models to predict simplification strategies, and (4) the use of Explainable AI (XAI) techniques, such as Integrated Gradients, to interpret model predictions. 
