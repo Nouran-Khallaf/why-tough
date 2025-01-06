@@ -1,0 +1,1032 @@
+Category: National Care Services
+Version: Original
+URL: https://www.gov.scot/binaries/content/documents/govscot/publications/research-and-analysis/2022/06/national-care-service-social-care-support-service-provision-scotland/documents/social-care-support-service-provision-scotland/social-care-support-service-provision-scotland/govscot%3Adocument/social-care-support-service-provision-scotland.pdf
+
+ 
+ 
+ 
+ 
+1 
+ 
+NATIONAL CARE SERVICE 
+Social Care Support and Service Provision in 
+Scotland 
+ 
+This paper provides an overview of the key national trends in social care service 
+provision and support in Scotland. It is part of an initial collection of contextual 
+evidence papers, setting out key sources of information about social care and 
+related areas in Scotland, linking to the National Care Service Consultation 
+proposals published in August 2021. 
+Key findings 
+• An estimated 1 in 25 people of all ages in Scotland (231,925 people) were 
+reported as receiving social care support and services at some point during 
+2020/21. 
+• In 2020/21, 84.4% of people of all ages receiving social care support and 
+services were provided with Self-directed Support (SDS), up from 77.1% in 
+2017/18.  
+• The most frequent choice of SDS has consistently been Option 3, where the 
+person chooses to allow the health and social care partnership to arrange 
+their services. In 2020/21, Option 3 represented 88% of all people choosing 
+an SDS option. 
+• In general, care at home hours have increased year-on-year between 2010 
+and 2021. 
+• The average (mean) hours of care at home per person per week has 
+increased from around 9.5 hours in 2010 to 12.2 hours in 2021. 
+• In 2020/21, around 130,130 people were in receipt of a community alarm 
+and/or telecare package. The number of people in receipt of community alarm 
+and/or telecare packages increased year-on-year between 2015/16 and 
+2018/19 before declining in the most recent two years.  
+• As of 31 March 2021, there were 1,069 care homes for adults and 40,632 
+registered places. This compared to 1,329 care homes for adults and 42,810 
+registered places in 2011. A 20% and 5% reduction respectively. 
+• In 2020/21, there were 28,120 long-stay residents aged 65+ in care homes in 
+Scotland, with 10,420 self-funding care home residents aged 65+ receiving 
+Free Personal Care payments.
+ 
+2 
+ 
+Contents 
+ 
+1. 
+Introduction .................................................................................................... 3 
+2. 
+Context: Social Care Recipients .................................................................... 3 
+3. 
+Social Care Services and Support – Trends and Analysis ............................ 5 
+3.1 
+Trends in Self-Directed Support .............................................................. 5 
+3.2 
+Trends in Care at Home Hours ............................................................... 6 
+3.3 
+Trends in Community Alarms and Telecare ............................................ 8 
+3.4 
+Trends in Care Home Provision .............................................................. 9 
+3.5 
+Free Personal and Nursing Care .......................................................... 13 
+4. 
+Examples of factors that influence different service type/provision ............. 13 
+5. 
+How is this relevant to the NCS? ................................................................. 15 
+6. 
+Conclusion ................................................................................................... 15 
+Glossary ............................................................................................................... 17 
+ 
+ 
+ 
+ 
+3 
+ 
+NATIONAL CARE SERVICE 
+1. Introduction  
+This paper provides an overview of the national data on the main social care 
+services as reported by the Scottish Government and Public Health Scotland 
+(PHS). It does not provide exhaustive or fully comprehensive coverage of all social 
+care services but provides an insight into recent trends in social care use. The 
+focus is on adult social care but data that covers all age groups is indicated 
+throughout.  
+ 
+It forms one of an initial collection of contextual evidence papers, setting out key 
+sources of information about social care and related areas in Scotland, linking to 
+the National Care Service Consultation proposals published in August 2021. 
+ 
+The collection consists of the following 6 papers on social care: 
+ 
+1. Scotland’s Health and Demographic Profile 
+2. People who Access Social Care and Unpaid Carers in Scotland 
+3. Social Care Support and Service Provision in Scotland 
+4. Experiences of Social Care and Caring in Scotland 
+5. The Adult Social Care Workforce in Scotland 
+6. Adult Social Care in Scotland - Equality Evidence Overview 
+ 
+And papers on: 
+ 
+7. Children’s Social Services 
+8. Justice Social Work in Scotland 
+9. Learning and evidence from national social care systems in Nordic and 
+Scandinavian countries 
+10. Integrated Care Studies: The SCFNuka (Alaska) and Canterbury (New 
+Zealand) Models 
+ 
+While the focus of this set of evidence papers is social care, there is an intrinsic link 
+between social care and social work. Social work is a statutory role which involves 
+assessing need, managing risk, and promoting and protecting the wellbeing of 
+individuals and communities. Social care support is an umbrella term for adult, 
+children’s and justice services which directly support people to meet their personal 
+outcomes. A social work evidence paper is being prepared for publication in 
+summer 2022. 
+ 
+ 
+2. Context: Social Care Recipients 
+Social care support can be provided to people of all ages and encompasses a 
+range of services. These can be provided in the home or wider community or in 
+residential settings such as care homes. In this section, social care support/ 
+services are defined as services provided to people who have had an assessment 
+or review of their needs and who, as a result of this assessment, received support 
+or services which was provided or funded by the local authority. This paper is 
+4 
+ 
+focused on social care. While support for unpaid carers is an important aspect of 
+social care support, it is not covered in this paper.  
+ 
+The main source of information on people being supported by social care services 
+is PHS’s Insights in Social Care publication. The latest publication shows that an 
+estimated 1 in 25 people of all ages in Scotland (231,925 people) were reported as 
+receiving social care support and services at some point during 2020/211. This 
+included: 
+ 
+• Some 44,000 people received funding towards a long stay care home place 
+in Scotland during 2020/21, this is a decrease of around 1% from 2019/20. In 
+addition, a further 6,300 people were supported during a short stay in a care 
+home, such as for respite or for reablement during this time. This is a 
+decrease of around 36% from 2019/202. 
+• An estimated 130,130 people had an active community alarm and/or a 
+telecare service.  
+• Around 93,280 people in Scotland received care at home for the whole or 
+part of the year ending 31 March 2021.  
+• In 2020/21 the rate per 1,000 population of people receiving social care 
+support through any Self-directed Support option increased from 18.2 
+(2019/20) to 20.6 people per 1,000 population3. 
+ 
+Table 1: People in receipt of social care / support services, Scotland, 2020/21 
+Type of service / support 
+Number of people 
+Care Home 
+48,160 
+Community Alarms / Telecare 
+130,130 
+Day Care 
+6,240 
+Care at home 
+93,280 
+Meals 
+5,695 
+Social Worker 
+127,500 
+ 
+Source: Public Health Scotland 
+ 
+ 
+                                         
+1 Public Health Scotland (2022) Insights in social care: Statistics for Scotland 
+2 Figures exclude Comhairle nan Eilean Siar, as data was not submitted. Some other Health and 
+Social Care Partnerships were unable to provide care home information therefore previous year's 
+data were used where possible to provide an estimate. 
+3 People with only a care home record, a day care record or care at home outside of the ‘census 
+week’ for 2021 or any combination of these items have been excluded. In addition, people with the 
+following services are excluded from this calculation: only a community alarm/telecare service, only 
+a social worker, only a community alarm/telecare service and a social worker, only a meals 
+service. 
+Figures for Self-directed Support Option 4 have been derived and apply to people who have 
+received more than one self-directed support option at any point during the financial year 2020/21. 
+People may have more than one Self-directed Support ‘support need’ and/or self-directed Support 
+‘support organisation’ and therefore could be included in more than one category. 
+5 
+ 
+ 
+3. Social Care Services and Support – Trends and Analysis 
+3.1 
+Trends in Self-Directed Support4 
+Self-directed Support (SDS) was introduced in Scotland on 1st April 2014 following 
+the Social Care (Self-directed Support) (Scotland) Act 2013. Its introduction means 
+that everyone eligible for social care and support has the right to choice, control 
+and flexibility to meet their personal outcomes. Local authorities are required to 
+ensure clients are offered a range of choices on how they receive their social care 
+services and support. Self-directed Support allows people to choose a number of 
+different options for getting support. 
+ 
+The person’s individual budget can be:  
+Option 1: Taken as a Direct Payment.  
+Option 2: Allocated to an organisation that the person chooses – the council 
+holds the budget but the person is in charge of how it is spent.  
+Option 3: The person chooses to allow the council to arrange and determine 
+their service.  
+Option 4: The person can choose a mix of these options for different types of 
+support. 
+ 
+Table 2: Estimated number of people by Self-directed Support Options5,6, 
+Scotland, 2017/18 to 2020/21 
+ 
+2017/18 
+2018/19 
+2019/20 
+2020/21 
+Option 1 
+9,095 
+9,305 
+9,415 
+9,495 
+Option 2 
+7,460 
+7,020 
+9,030 
+8,735 
+Option 3 
+81,955 
+91,560 
+86,200 
+92,795 
+Option 4 
+4,485 
+5,010 
+5,440 
+5,340 
+Any SDS Option 
+93,900 
+102,905 
+99,245 
+105,790 
+Implementation 
+Rate 
+77.1% 
+81.3% 
+81.5% 
+84.4% 
+Sources: Public Health Scotland 
+ 
+It should be noted that people can choose more than one Self-directed Support 
+option, so the total number of options chosen will be higher than the number of 
+people involved in choosing their support. The implementation rate represents the 
+proportion of those people who received social care support and services who 
+                                         
+4 SDS figures are based on people of all ages who access social care and support.  
+5 Due to incomplete data all the Scotland level figures are estimated. 
+6 Figures for Self-directed Support Option 4 have been derived and apply to people who have 
+received more than one self-directed support option at any point during the financial year. 
+People may have more than one Self-directed Support ‘support need’ and/or Self-directed Support 
+‘support organisation’ and therefore could be included in more than one category. 
+6 
+ 
+received their support through Self-directed Support.  In 2020/21, 84.4% of people 
+receiving social care support and services were provided with Self-directed 
+Support, up from 77.1% in 2017/18. 
+ 
+In 2020/21, there were 105,790 people who chose to receive their support through 
+one or more of the Self-directed Support options.  Consistently over time, the most 
+frequent choice is Option 3, where the person chooses to allow the health and 
+social care partnership to arrange their services. In 2020/21, there were 92,795 
+people who chose Option 3, which represents around 88% of people who choose at 
+least one Self-directed Support option. The percentage of people choosing Option 1 
+(9%), Option 2 (8%) and Option 4 (5%) has remained relatively stable since 
+2017/18.  
+3.2 
+Trends in Care at Home Hours 
+This section presents national figures for care at home services provided or 
+purchased by Health and Social Care Partnerships in Scotland. It therefore 
+excludes any privately funded provision (on which data is not collected nationally). 
+Care at home services give people the support, practical help and personal care 
+that they need to live as independently as possible in the community (this includes 
+sheltered housing and equivalent accommodation)7.  
+ 
+Table 3: Number of people in receipt of care at home and number of hours 
+during the census week89(25 - 31 March).  
+Year 
+Number of 
+people 
+Number of 
+hours 
+2010 
+66,225 
+632,160 
+2011 
+63,460 
+607,415 
+2012 
+62,830 
+627,380 
+2013 
+61,070 
+631,145 
+2014 
+61,735 
+678,890 
+2015 
+61,500 
+700,335 
+2016 
+59,775 
+676,515 
+2017 
+59,640 
+696,620 
+2018 
+59,940 
+702,885 
+2019 
+59,875 
+686,130 
+2020 
+59,000 
+721,265 
+2021 
+59,960 
+733,505 
+Sources: Public Health Scotland 
+ 
+                                         
+7 Not included in this section are ‘live in’ and 24 hour services that are defined as ‘Housing 
+Support’. 
+8 See Glossary 
+9 Some Health and Social Care Partnerships were unable to provide home care information 
+therefore previous year's data were used where possible to provide an estimate. Home care hours 
+collected are actual hours from 2019/20 onwards (where submitted) which may not be directly 
+comparable to planned hours previously collected prior to 2019/20. 
+7 
+ 
+In 2021, there were an estimated 59,960 people in Scotland receiving care at home 
+during the census week (25 - 31 March). This compares to 66,225 in 2010, which 
+equates to a 9% decrease. Between 2010 and 2016 the number of people receiving 
+care at home decreased, but since then the numbers have been broadly similar at 
+just under 60,000.  
+ 
+In 2021, the total number of hours of care at home during census week was 
+733,505, a slight increase from 2020. In general, care at home hours have 
+increased year on year between 2010 and 2021, with only a few yearly decreases 
+(2011, 2016 and 2019).  
+ 
+The decrease in the number of people who have been receiving care at home 
+coupled with the rise in the overall number of hours of care at home means the 
+average (mean) hours per person has increased from 9.5 hours in 2010 to 12.2 
+hours in 2021. 
+ 
+Figure 1: People in receipt of care at home by service provider, 2021, 
+Scotland 
+ 
+Sources: Public Health Scotland 
+ 
+Over the last decade, Local Authority (LA)/Health & Social Care Partnership 
+(HSCP)/NHS Boards have been increasingly purchasing social care and support 
+services from the private and voluntary sector rather than providing it directly10. In 
+2021, 41% of care at home clients received their care via Local Authority/Health & 
+Social Care Partnership/NHS Board services only. Around 45% of care at home 
+clients received their Local Authority/Health & Social Care Partnership/NHS Boards 
+funded care only from private sector providers. 
+ 
+Figure 2, below, shows the distribution of care at home hours for people of all ages. 
+The majority of care at home clients tend to receive smaller amounts of care per 
+                                         
+10 Scottish Government (2017) Social Care Services Scotland, 2017 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+LA/HSCP/NHS Board
+ & Voluntary
+Other combination
+LA/HSCP/NHS Board
+& Private
+Voluntary only
+LA/HSCP/NHS Board
+Only
+Private only
+8 
+ 
+week. Around 62% received less than 10 hours of care per week, while 11% 
+received more than 20 hours of care per week in March 2021. 
+ 
+Figure 2: Distribution of care at home hours during the census week 
+Scotland, 2021 
+ 
+Source: Public Health Scotland 
+3.3 
+Trends in Community Alarms and Telecare 
+The use of equipment and technology can help people live safely and 
+independently at home. Telecare is the remote or enhanced delivery of care 
+services to people in their own home by means of telecommunications and 
+computerised services. Telecare usually refers to sensors or alerts which provide 
+continuous, automatic and remote monitoring of care needs, emergencies and 
+lifestyle changes, using information and communication technology (ICT) to trigger 
+human responses, or shut down equipment to prevent hazards.  
+ 
+Community alarms are considered to be the basic, introductory level of telecare. 
+Typically a community alarm includes a button/pull cord/pendant which transfers an 
+alert/alarm/data to a monitoring centre or individual responder.  
+ 
+ 
+0
+2,000
+4,000
+6,000
+8,000
+10,000
+12,000
+14,000
+16,000
+18,000
+20,000
+< 1
+1 - <5
+5 - <10
+10 - <20
+20 - <80
+80+
+Number of People
+Care at home Hours
+9 
+ 
+ 
+ 
+Table 4: Number of people in receipt of a community alarm and/or telecare 
+package from 2015/16 to 2020/2111 
+  
+2015/16 
+2016/17 
+2017/18 
+2018/19 
+2019/20 
+2020/21 
+Community alarm only 
+90,380 
+88,270 
+83,475 
+82,225 
+82,035 
+83,145 
+Telecare only 
+6,920 
+4,710 
+16,250 
+15,695 
+14,650 
+15,290 
+Receiving both 
+community alarm and 
+telecare 
+29,490 
+35,770 
+32,195 
+38,975 
+35,845 
+31,695 
+Total community alarms 
+and/or telecare 
+126,790 
+128,750 
+131,915 
+136,900 
+132,535 
+130,130 
+Sources: Public Health Scotland 
+ 
+In 2020/21, around 130,130 people were in receipt of a community alarm and/or 
+telecare package. The number of people in receipt of community alarm and/or 
+telecare packages increased year-on-year between 2015/16 and 2018/19 before 
+declining in the most recent two years (2019/20 and 2020/21). This decline may 
+have been due to the Covid-19 pandemic. 
+3.4 
+Trends in Care Home Provision 
+This section presents national figures about care homes and care home residents 
+in Scotland based on the Scottish Care Home Census (SCHC)12. The SCHC 
+collects information about care home residents regardless of whether they are 
+funded publically or privately. The Care Home Census includes all care homes for 
+adults aged 18 years and over in Scotland, including care homes for older people 
+(65 years and over) and for those with learning disabilities, mental health problems, 
+physical and sensory impairment, acquired brain injury, alcohol and drug problems, 
+and blood borne viruses. 
+ 
+A ‘care home’  provides 24-hour care to its residents, and residents within the same 
+care home may receive residential care or residential and nursing care if this is 
+required by the individuali. Further information about the strengths and limitations of 
+the Scottish Care Home Census can be found in the publication ‘Data Resource 
+Profile The Scottish Social Care Survey (SCS) and the Scottish Care Home Census 
+(SCHC)13’. 
+ 
+                                         
+11 Some Health and Social Care Partnerships were unable to provide information to Public Health 
+Scotland; Public Health Scotland have provided estimates for partnerships that have not supplied 
+the required data. Details of the estimated figure calculations can be found here: Insights in Social 
+Care: Technology Enabled Care.  
+12 Scottish Government (2022) Scottish Care Homes Census 
+13 Henderson DAG, Burton JK, Lynch E, Clark D, Rintoul J, Bailey N. (2019) Data resource profile 
+the Scottish social care survey (SCS) and the Scottish care home census (SCHC). Int J Popul 
+Data Stud 4 
+10 
+ 
+Scotland’s population is ageing with an increasing number of people in older age 
+groups compared with previous decades14. The gradual rise in the number of older 
+people has not been accompanied by an increase in the provision of care home 
+places. Proportionally, more people with care and support needs are living at 
+home15. 
+ 
+As at 31 March 2021: 
+• There were 1,069 care homes for adults and 40,632 registered places. This 
+compared to 1,329 care homes for adults and 42,810 registered places in 
+2011. A 20% and 5% reduction respectively. 
+• There were an estimated 33,353 residents. This was 11% fewer than 31 
+March 2011 (37,511 residents).  
+• The estimated percentage occupancy was 82%, compared with 88% on 31 
+March 2011.  
+• Around 63% of care homes for adults were run by the private sector. This 
+compared to around 55% as at 31 March 2011. Across all sectors (public, 
+private and voluntary / not for profit) there has been a decrease in the 
+number of care homes for adults between 2011 and 2021, but the largest 
+decrease (38%) has been in the voluntary sector.  
+• The above trends have continued during the Covid-19 pandemic. In 
+particular, the voluntary / not for profit sector has seen the largest decline in 
+number of care homes, registered places and therefore, number of residents 
+between 2019 and 2021. 
+• There has been a large reduction in the estimated number of short stay and 
+respite admissions to care homes between 2018/19 and 2020/21. This may 
+be connected to the Covid-19 pandemic. Similarly, there has been a large 
+reduction in people being discharged from care homes over the same time 
+period (excluding deaths, which increased over the Covid-19 pandemic). 
+• Residents in care homes for older people accounted for 91% of residents in 
+all care homes for adults (30,502 out of 33,353). 
+ 
+ 
+ 
+                                         
+14 National Records of Scotland (2022) Mid-year Population Estimates, 2020: Report 
+(nrscotland.gov.uk) 
+ 
+15 Public Health Scotland (2021) Care Home Census for Adults in Scotland  
+11 
+ 
+Figure 3: Number of Registered Places in Care Homes, Scotland, as at 31 
+March 2011 and 2021 
+ 
+Sources: Scottish Care Home Census, Public Health Scotland and Care Inspectorate 
+38,341
+630
+1,123
+2,431
+285
+37,252
+600
+930
+1,542
+308
+0
+5,000
+10,000
+15,000
+20,000
+25,000
+30,000
+35,000
+40,000
+45,000
+Older People
+Physical and
+Sensory
+Impairment
+Mental Health
+Problems
+Learning
+Disabilities
+Other Groups
+Number of registered places
+Care home type
+Mar-11
+Mar-21
+ 
+ 
+ 
+12 
+ 
+NATIONAL CARE SERVICE 
+Table 5: Number of Care Homes for Adults, Number of Registered Places, Estimated Number of Residents, in Scotland. 
+By Sector. For Years 2011 to 2021 (at 31 March). 
+Key Statistic 
+2011 
+2012 
+2013 
+2014 
+2015 
+2016 
+2017 
+2018 
+2019 
+2020 
+2021 
+% 
+change 
+2011 to 
+2021 
+% 
+change 
+2019 to 
+2021 
+Total Number of Care Homes for 
+Adults 
+ 1,329 
+ 1,307 
+ 1,282 
+ 1,249 
+ 1,216 
+ 1,175 
+ 1,142 
+ 1,126 
+ 1,102 
+n/a 
+ 1,069 
+-20 
+-3 
+Local Authority/Health Board Sectors 
+   203 
+   203 
+   199 
+   185 
+   178 
+   167 
+   160 
+   151 
+   146 
+n/a 
+   142 
+-30 
+-3 
+Private Sector 
+   725 
+   715 
+   716 
+   711 
+   701 
+   704 
+   691 
+   691 
+   689 
+n/a 
+   677 
+-7 
+-2 
+Voluntary or Not for Profit Sector 
+   401 
+   389 
+   367 
+   353 
+   337 
+   304 
+   291 
+   284 
+   267 
+n/a 
+   250 
+-38 
+-6 
+Total Number of Registered Places 
+42,810 
+42,807 
+42,755 
+42,502 
+42,026 
+41,461 
+40,926 
+41,007 
+41,032 
+n/a 
+40,632 
+-5 
+-1 
+Local Authority/Health Board Sectors 
+ 5,162 
+ 5,147 
+ 5,114 
+ 4,763 
+ 4,680 
+ 4,502 
+ 4,274 
+ 4,211 
+ 4,160 
+n/a 
+ 4,219 
+-18 
+1 
+Private Sector 
+31,662 
+31,705 
+31,677 
+31,856 
+31,566 
+31,583 
+31,483 
+31,597 
+31,868 
+n/a 
+31,757 
+0 
+0 
+Voluntary or Not for Profit Sector 
+ 5,986 
+ 5,955 
+ 5,964 
+ 5,883 
+ 5,780 
+ 5,376 
+ 5,169 
+ 5,199 
+ 5,004 
+n/a 
+ 4,656 
+-22 
+-7 
+Total Number of Residents  
+37,511 
+37,335 
+36,578 
+36,751 
+36,193 
+36,621 
+35,989 
+35,202 
+35,630 
+n/a 
+33,353 
+-11 
+-6 
+Local Authority/Health Board Sectors 
+ 4,606 
+ 4,492 
+ 4,334 
+ 4,071 
+ 3,917 
+ 3,836 
+ 3,762 
+ 3,701 
+ 3,469 
+n/a 
+ 3,198 
+-31 
+-8 
+Private Sector 
+27,457 
+27,513 
+26,926 
+27,297 
+27,064 
+27,850 
+27,471 
+26,750 
+27,579 
+n/a 
+26,066 
+-5 
+-5 
+Voluntary or Not for Profit Sector 
+ 5,448 
+ 5,330 
+ 5,318 
+ 5,383 
+ 5,212 
+ 4,935 
+ 4,756 
+ 4,751 
+ 4,582 
+n/a 
+ 4,089 
+-25 
+-11 
+Sources: Scottish Care Home Census, Public Health Scotland and Care Inspectorate 
+Note: The Scottish Care Home Census did not run in 2020 due to the Covid-19 pandemic.
+ 
+ 
+ 
+13 
+ 
+NATIONAL CARE SERVICE 
+3.5 
+Free Personal and Nursing Care 
+Since July 2002, people aged 65 and over can no longer be charged for personal 
+care services provided in their own home. For those aged under 65, free personal 
+care was introduced in April 2019.  
+ 
+In 2020/2116: 
+ 
+• There were 46,820 people aged 65+ who received a personal care service in 
+their own home, receiving an average 8.8 hours per week. 
+• There were 28,120 long-stay residents aged 65+ in care homes in Scotland. 
+Of these, 6,870 self-funding care home residents aged 65+ received both 
+Free Nursing Care payments and Free Personal Care payments, and a 
+further 3,550 self-funders received Free Personal Care payments only. 
+ 
+In the last quarter of 2020/2117: 
+ 
+• There were 12,110 people aged 18 – 64 receiving personal care at home, 
+compared to 10,550 in the last quarter of 2018/19 (prior to the extension). 
+The number of hours provided increased with the extension of Free Personal 
+Care to under 65s in 2019, but decreased by nearly 10% in 2020/21. 
+• There were 3,350 long-stay care home residents aged 18 – 64 in Scotland, 
+with 120 self-funding residents receiving Free Personal Care payments. In 
+addition, 60 self-funding care home residents aged 18 – 64 received Free 
+Nursing Care payments. 
+ 
+4. Examples of factors that influence different service 
+type/provision  
+There are several factors which influence service type/provision as shown in Figure 
+4. Scotland’s demography is a leading factor as discussed further in the paper 
+Scotland’s Health and Demographic Profile. The recent Audit Scotland Social Care 
+Briefing18 states that “by 2038, forecasts suggest that nearly a quarter of people 
+living in Scotland will be over the age of 65. Scotland’s increasingly ageing 
+population means that the demand for social care services will rise, and more 
+resources will be required for social care over the long term. Around a fifth of the 
+population of Scotland define themselves as having a disability and disability is 
+more prevalent in older people. As our older population rises, the number of people 
+with a disability, as a proportion of the population, is expected to increase too”.  
+Other factors include resources, both financial and workforce. Further information 
+on the workforce is available in the paper on The Adult Social Care Workforce in 
+                                         
+16 Scottish Government (2022) Free Personal and Nursing Care, Scotland, 2020-21  
+17 Scottish Government (2022) Extension of Free Personal Care to those under the age of 65, 
+Scotland, 2020-21  
+18 Audit Scotland (2022) Social care briefing 
+14 
+ 
+Scotland. The Independent Review of Adult Social Care19 and the Audit Scotland 
+Social Care Briefing20 discuss the sustainability challenge for services. Audit 
+Scotland reports that “the 209,690 people working in social care are under 
+immense pressure, and the sector faces ongoing challenges with recruitment and 
+retention. Staff are not adequately valued, engaged, or rewarded for their vitally 
+important role. The workforce is predominantly female and poor terms and 
+conditions for staff contribute to recruitment difficulties, rising sickness absence and 
+high vacancy levels. This puts the capacity, sustainability, and quality of care 
+services at a considerable risk”21. Some of these challenges may have been 
+exacerbated by the Covid-19 pandemic.  
+ 
+Figure 4: Examples of factors that influence service type/provision 
+ 
+ 
+Decisions about services are currently made locally by each Health and Social 
+Care Partnership. To date, how services have been commissioned and procured 
+locally has varied, which has impacted the types of services and provision in local 
+authorities. An Audit Scotland report published in 2016 stated that “councils have a 
+challenging task to manage the market for providing services in their local area. 
+There are potential tensions around making savings while ensuring high-quality 
+services at a fair cost in an environment of increasing demand and financial 
+pressures. There are risks to the quality of services if councils continue to drive 
+down costs at the rate they have in the past without changing how they provide 
+                                         
+19 Scottish Government (2021) Independent Review of Adult Social Care in Scotland 
+20 Audit Scotland (2022) Social care briefing 
+21 Audit Scotland (2022) Social care briefing 
+Social 
+care 
+services 
+Demographics
+Policies
+Commissioning 
+and 
+procurement
+Workforce
+Financial 
+resources
+15 
+ 
+services”22. Both the more recently published Audit Scotland Social Care Briefing 
+and The Independent Review of Adult Social Care discuss the need to improve the 
+commissioning and procurement process.  
+ 
+Finally, policy decisions can influence service provision. In the Independent Review 
+of Adult Social Care, as an example, it cites the introduction of the Free Personal 
+and Nursing Care policy and the increase in use of services. A study published by 
+the Joseph Rowntree Foundation in 200723 found that following the introduction of 
+the Free Personal and Nursing Care policy in Scotland, there had “been a 
+Scotland-wide increase in demand for care at home: 
+• 
+Between 2002 and 2005, the overall number of local authority care at 
+home clients rose by 10 per cent. 
+• 
+Within this group, 62 per cent more received personal care”24.  
+5. How is this relevant to the NCS? 
+ The National Care Service will be responsible for social work and social care 
+services, including support for carers.  It will also be responsible for planning and 
+commissioning primary care and community health services, including mental 
+health services. The existing data and analytical evidence provides useful context 
+for informing the new National Care Service. The changing demographics both 
+nationally and locally are key to informing future social care demand. The trends in 
+changing social care service use and support will inform how existing services 
+evolve. For example, proportionately more people are having their support needs 
+met at home rather than in a care home. However, care homes have been seeing 
+an increase in short stay admissions over time, reflecting a change in the types of  
+services some care homes are providing25.  
+ 
+In the future, there will also be a requirement for new data and analytical evidence 
+to monitor new services, for example, around prevention and anticipatory care.  
+Furthermore, having more holistic data and evidence, particularly around the 
+experiences and outcomes of people who access care and support will inform the 
+development and provision of better services. 
+ 
+6. Conclusion 
+This paper summarises the key trends in social care services and support in 
+Scotland over the last decade or so, in order to support the development of the 
+National Care Service.  
+ 
+                                         
+22 Audit Scotland (2016) Social work in Scotland (audit-scotland.gov.uk) 
+23 Joseph Rowntree Foundation (2007) Free personal care in Scotland: recent developments | JRF  
+24 Joseph Rowntree Foundation (2007) Free personal care in Scotland: recent developments | JRF 
+25 Public Health Scotland (2021) Care Home Census for Adults in Scotland 
+(publichealthscotland.scot) 
+16 
+ 
+It can be seen that, while the number of people receiving care at home has fallen 
+over the last 10 years, the number of hours of care at home provision has 
+increased over the same time period.  This may suggest that resources have 
+become more focused on those in greatest need.  Over the same time period, Local 
+Authority/Health and Social Care Partnership/NHS Boards have been increasingly 
+purchasing social care and support services from the private and voluntary sectors. 
+ 
+The number of care homes has fallen by 20% over the last 10 years, with the 
+number of registered places falling by 5%.  Proportionally, more people with 
+support needs are living at home.  
+ 
+In 2020/21, 84.4% of people receiving social care support and services were 
+provided with Self-directed Support, up from 77.1% in 2017/18. 
+ 
+The trends in social care provision outlined in this paper are, along with 
+demographic factors, key considerations in the development of a National Care 
+Service. 
+ 
+ 
+ 
+ 
+17 
+ 
+Glossary 
+Community alarm: type of equipment for communication, especially useful as an alert 
+should the user have an incident where they need to call for help quickly. 
+Day Care: involves attendance at a location other than the person’s own home for 
+personal, social, therapeutic, training or leisure purposes. Day care services can be 
+registered or unregistered services. 
+Care at Home: practical services which assist a person to function as independently as 
+possible and/or continue to live in their own home. This can include personal care, 
+reablement, respite and household tasks such as housework, shopping, laundry and/or 
+paying bills. 
+Care at Home Census week: To allow comparison with figures previously published by 
+the Scottish Government an estimated number of people receiving Care at Home as well 
+as Care at Home hours has been calculated for a 'census week' (last week in March, 25 
+March to 31 March). The home care hours were estimated by calculating the average 
+number of hours per day for each individual. This was then multiplied by the number of 
+days the person received home care in the 'census week'. 
+Care Home: A ‘care home’ is defined as a nursing or residential care facility that provides 
+24-hour care to its residents. Care home residents within the same care home may receive 
+residential care or residential and nursing care if this is required by the individual26. 
+Personal Care: includes assistance with activities such as eating or bathing, as well as 
+other care of a personal nature. A fuller list of the types of care counted as personal care 
+can be found on the Care Information Scotland website27. 
+Residential Care: A residential care home provides accommodation and 24-hour personal 
+care and support to older people and others who may find it difficult to manage daily life at 
+home. 
+Residential and Nursing Care: A residential and nursing care home provides care and 
+support for people with specific conditions or different types of disabilities who struggle 
+significantly with daily life and need the added support. In a nursing home care facility, 
+there is always at least one qualified and registered nurse on site, meaning residents have 
+access to 24-hour medical care and skilled nursing support. 
+Self Directed Support (SDS): Self-directed Support legislation means that all people 
+accessing care and support should be given a choice as to how they wish to receive their 
+support. There are four different ways of accessing social care support through SDS: 
+• 
+Option 1: Taken as a Direct Payment. 
+                                         
+26 Burton JK, Lynch E, Love S, Rintoul J, Starr JM, Shenkin SD (2019) Who lives in Scotland’s 
+care homes? Descriptive analysis using routinely collected social care data 2012–16. J R Coll 
+Physicians Edinburgh 49 
+27 Source: Care Information Scotland website. Accessed May 2022. 
+18 
+ 
+• 
+Option 2: Allocated to an organisation that the person chooses and the person is in 
+charge of how it is spent. 
+• 
+Option 3: The person chooses to allow the council to arrange and determine their 
+services. 
+• 
+Option 4: The person can choose a mix of these options for different types of 
+support. 
+Telecare: remote or enhanced delivery of care services to people in their own home by 
+means of telecommunications and computerised services.  
+19 
+ 
+How to access background or source data 
+☒ may be made available on request, subject to consideration of legal and ethical 
+factors. Please contact SWstat@gov.scot for further information.  
+ 
+ 
+ 
+                                         
+ 
+ 
+© Crown copyright 2022
+You may re-use this information (excluding logos and images) free of charge 
+in any format or medium, under the terms of the Open Government Licence. 
+To view this licence, visit http://www.nationalarchives.gov.uk/doc/open-
+government-licence/or e-mail: psi@nationalarchives.gsi.gov.uk.
+Where we have identified any third party copyright information you will need 
+to obtain permission from the copyright holders concerned.
+The views expressed in this report are those of the researcher and do not 
+necessarily represent those of the Scottish Government or Scottish Ministers.
+This report is available on the Scottish Government Publications Website  
+(http://www.gov.scot/Publications/Recent)
+The Scottish Government
+St Andrew’s House
+Edinburgh
+EH1 3DG
+ISBN: 978-1-80435-495-7
+Published by the Scottish Government, June 2022
+Produced for the Scottish Government by APS Group Scotland, 21 Tennant Street, Edinburgh EH6 5NA
+PPDAS1093062 (06/22)

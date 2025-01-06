@@ -1,0 +1,791 @@
+Category: National Care Services
+Version: Original
+URL: https://www.gov.scot/binaries/content/documents/govscot/publications/research-and-analysis/2022/06/national-care-service-scotlands-health-demographic-profile/documents/scotlands-health-demographic-profile/scotlands-health-demographic-profile/govscot%3Adocument/scotlands-health-demographic-profile.pdf
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scotland’s Health and Demographic Profile 
+ 
+This paper provides an overview of Scotland’s health and demographic profile, 
+drawing on evidence about life expectancy, healthy life expectancy, the 
+burden of disease and multimorbidity, as well as population projections. It is 
+part of an initial collection of contextual evidence papers, setting out key 
+sources of information about social care and related areas in Scotland, linking 
+to the National Care Service Consultation proposals published in August 
+2021. 
+Key findings 
+• Scotland’s population has the lowest life expectancy and widest socio-
+economic inequalities in health in Western Europe. In 2018-20, life 
+expectancy at birth in Scotland was 76.8 years for males and 81.0  
+years for females. The gap in life expectancy between the most and 
+least deprived Scottish Index of Multiple Deprivation (SIMD) deciles was 
+13.5 years for males and 10.2 years for females. 
+ 
+• The estimated healthy life expectancy of a child born in Scotland in 
+2018-20 was 60.9 (± 0.5) years for males and 61.8 (± 0.5) years for 
+females. While socio-economic inequalities in life expectancy are stark, 
+socio-economic inequalities in healthy life expectancy are even wider. 
+The estimated gap in healthy life expectancy between males and 
+females across the most and least deprived deciles in 2018-20 was 
+24.4 and 24.2 years, respectively. 
+ 
+• While predicting future demand for social care is extremely challenging, 
+National Records of Scotland project that Scotland’s population is 
+expected to age across the coming decades, with a substantial increase 
+in the proportion of the population over the age of 65 years. The trend 
+towards an increasing number of single adult households is also set to 
+continue.  
+ 
+• A recent study found that 93% of people aged over 65 who received 
+social care had two or more medical conditions simultaneously 
+(multimorbidity). 
+NATIONAL CARE SERVICE 
+ 
+ 
+ 
+Contents 
+ 
+1. 
+Introduction .......................................................................................................... 3 
+2. 
+Factors associated with Demand for Social Care ................................................ 4 
+3. 
+Overview of Scotland’s Health Profile .................................................................. 4 
+3.1 
+Life Expectancy ............................................................................................. 5 
+3.1.1 
+Overview ................................................................................................. 5 
+3.1.2 
+Socio-economic Inequalities in Life Expectancy ..................................... 6 
+3.1.3 
+Geographic Inequalities in Life Expectancy ............................................ 7 
+3.1.4 
+Life Expectancy at Older Ages, and ‘Time to Death’ ............................... 8 
+3.2 
+Healthy Life Expectancy ................................................................................ 9 
+3.2.1 
+Overview ................................................................................................. 9 
+3.2.2 
+Socio-economic Inequalities in Healthy Life Expectancy ...................... 10 
+3.2.3 
+Geographic Inequalities in Healthy Life Expectancy ............................. 12 
+3.2.4 
+Healthy Life Expectancy at Older Ages ................................................. 12 
+3.3 
+Burden of Disease ....................................................................................... 13 
+3.4 
+Multimorbidity ............................................................................................... 14 
+4. 
+Projections ......................................................................................................... 16 
+4.1 
+Life Expectancy ........................................................................................... 16 
+4.2 
+Ageing Population ........................................................................................ 17 
+4.3 
+Increase in Single-Person Households ........................................................ 18 
+5. 
+Conclusion ......................................................................................................... 19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+1. 
+Introduction 
+ 
+Following a brief overview of the drivers associated with demand for social 
+care across the population, this paper provides an overview of the health 
+profile of Scotland’s population, including the distribution across the population 
+of indicators such as life expectancy, healthy life expectancy, the burden of 
+disease and multimorbidity. It then draws on projections made by National 
+Records for Scotland (NRS) in relation to health and demographics across the 
+coming decades, laying a foundation for discussion of how these shifts will 
+come to shape demand for social care. Throughout the paper, focus is placed 
+on aspects of population health and demographics which are relevant to the 
+demand for social care. This paper incorporates evidence from both peer-
+reviewed academic and grey literature, including a number of recent statistical 
+publications from National Records for Scotland (NRS). 
+ 
+This paper forms one of an initial collection of contextual evidence papers, 
+setting out key sources of information about social care and related areas in 
+Scotland, linking to the National Care Service Consultation proposals 
+published in August 2021. 
+  
+The collection consists of the following 6 papers on social care: 
+ 
+1. Scotland’s Health and Demographic Profile 
+2. People who Access Social Care and Unpaid Carers in Scotland 
+3. Social Care Support and Service Provision in Scotland 
+4. Experiences of Social Care and Caring in Scotland 
+5. The Adult Social Care Workforce in Scotland 
+6. Adult Social Care in Scotland - Equality Evidence Overview 
+ 
+And papers on: 
+ 
+7. Children’s Social Services 
+8. Justice Social Work in Scotland 
+9. Learning and evidence from national social care systems in Nordic and 
+Scandinavian countries 
+10. Integrated Care Studies: The SCFNuka (Alaska) and Canterbury (New 
+Zealand) Models 
+ 
+While the focus of this set of evidence papers is social care, there is an 
+intrinsic link between social care and social work. Social work is a statutory 
+role which involves assessing need, managing risk, and promoting and 
+protecting the wellbeing of individuals and communities. Social care support is 
+an umbrella term for adult, children’s and justice services which directly 
+support people to meet their personal outcomes. A social work evidence 
+paper is being prepared for publication in summer 2022. 
+ 
+4 
+ 
+ 
+2. 
+Factors associated with Demand for Social Care 
+ 
+Accurately forecasting demands for social care is highly complex, given that 
+there is a vast range of mental and physical illnesses and conditions 
+associated with need for social care, a range of associated treatments and 
+services, and the factors which interplay with demand are wide-reaching and 
+challenging to predict (including technological developments in healthcare and 
+treatment)1. Factors which have been noted as associated with demand for 
+social care in the previous literature include prevalence rates of disease2, 
+mortality rates3, cultural attitudes towards social care of older adults4, future 
+health profile projections5, living arrangements6 and the socio-economic profile 
+of the population7. However, making projections based on current rates of 
+social care utilisation, or by the current health profile of the population is 
+complex and uncertain. 
+ 
+3. 
+Overview of Scotland’s Health Profile 
+ 
+This section provides an overview of the health profile of Scotland’s 
+population, placing focus on aspects relevant to the development of a National 
+Care Service. It outlines the country’s health profile in terms of overall life 
+expectancy, healthy life expectancy, the burden of disease and multimorbidity. 
+Throughout these subsections, it explores how these indicators are shaped by 
+socio-economic and demographic factors. While some emphasis is placed on 
+measures such as life expectancy, it is important to note that demand for 
+social care is not restricted to those of older age. As noted in the section on 
+multimorbidity and healthy life expectancy, demand for social care is seen 
+across a far wider section of Scotland’s population. 
+ 
+ 
+ 
+                                             
+1 Worral, P. & Chaussalet, T.J. (2015). A structured review of long-term care demand modelling. 
+Health Care Management Science, 18: 173-194. 
+2 Macdonald A, Cooper B (2007) Long-term care and dementia services: an impending crisis. Age 
+and Ageing 36(1):16–22. 
+3 Comas-Herrera A, Whittenberg R, Pickard L, Knapp M (2007) Cognitive impairment in older people: 
+future demand for long-term care services and the associated costs. Int J Geriatr Psychiatr 
+22(10):1037–1045 
+4 Kim E-Y, Kim C-Y (2004) Who wants to enter a long-term care facility in a rapidly ageing Non-
+western society? attitudes of older Koreans toward long-term care facilities. J Am Geriatr Soc 
+52(12):2114–2119 
+5 Karlsson M, Mayhew L, Plumb R, Rickayzen B (2006) Future costs for long-term care - cost 
+projections for long-term care for older people in the united kingdom. Health Policy 75(2):187–213 
+6 Martikainen P, Moustgaard H, Murphy M, Einio EK, Koskinin S. et al (2009) Gender, living 
+arrangements and social circumstances as determinants of entry into/exit from long-term institutional 
+care at older ages: a 6-year follow-up study of older Finns. The Gerontologist 49(1):35–45. 
+7 Henderson, D.A.G.; Atherton, I.; McCowan, C.; Mercer, S.W. & Bailey, N. (2021). Linkage of national 
+health and social care data: a cross-sectional study of multimorbidity and social care use in people 
+aged over 65 years in Scotland. Age & Ageing, 50: 176-182. 
+ 
+5 
+ 
+3.1 
+Life Expectancy 
+ 
+3.1.1 Overview 
+ 
+Scotland has the lowest life expectancy at birth of any Western European 
+country8,9. In 2018-2020, life expectancy at birth10 in Scotland was 76.8 years 
+for males and 81.0 years for females11; 2.3 and 1.8 years shorter than across the 
+UK as a whole, respectively. 
+ 
+Figure 1: Trends in life expectancy in Scotland. 2000-2002 to 2018-2020 
+ 
+Source: Life Expectancy in Scotland 2018-2020: Report (nrscotland.gov.uk) 
+ 
+Having increased since the early 1980s, life expectancy in Scotland remained 
+virtually unchanged between 2012-2014 and 2017-2019. Between 2017-2019 
+and 2018-20, life expectancy across Scotland declined, dropping below the 
+2012-2014 figure (Figure 1). This represents a decrease of around 17.6 weeks 
+(0.3 years) for males and 6.1 weeks (0.1 years) for females since the previous 
+year’s estimates - the biggest annual decrease since the series began. A 
+similar stalling in trends has been seen across the rest of the UK and some 
+other countries including the USA, with life expectancy having fallen over the 
+latest year in all UK countries.  
+                                             
+8 Eurostat Data browser. Life expectancy at birth by sex  
+9 National Records of Scotland (2021) Life Expectancy in Scotland 2018-2020 
+10 The life expectancy estimates presented in this report relate to ‘period’ life expectancy. They are 
+calculated assuming that mortality rates for each age group in the time period (here 2018-2020) are 
+constant throughout a person’s life. Given that future changes in factors such as medicine and 
+legislation are not taken into consideration, period life expectancy is not an accurate prediction of how 
+long a person born today will actually live, but is a useful measure of population health at a point in 
+time and is most useful for comparing trends over time, between areas of a country and with other 
+countries. 
+11 National Records of Scotland (2021) Life Expectancy in Scotland 2018-2020 
+ 
+6 
+ 
+ 
+In terms of direct causes underlying this decrease, deaths from Covid-19 
+accounted for the majority, while drug-related deaths and deaths from external 
+causes (including accidents and suicides) also had a negative effect on life 
+expectancy. Wider analyses have suggested that UK Government changes to 
+tax and welfare from 2010/11 have contributed to these trends12. 
+ 
+3.1.2 Socio-economic Inequalities in Life Expectancy 
+ 
+As well as the lowest life expectancy, Scotland has the widest socio-economic 
+inequalities in health13 of any country in Western Europe. While life 
+expectancy varies between geographical areas, like local authorities and 
+health boards, the difference in life expectancy is far greater when levels of 
+deprivation are taken into account. In 2018-20, the gap in life expectancy 
+between the most and least deprived Scottish Index of Multiple Deprivation 
+(SIMD) deciles14 was 13.5 years for males (68.9 – 82.4 years) and 10.2 years 
+for females (75.4 – 85.6 years) (Figure 2). This gap has widened over the past 
+few years, growing by 1.3 years for males and 1.6 years for females since 
+2013-2015, with life expectancy falling in the most deprived and increasing in 
+the least deprived areas15. 
+ 
+                                             
+12 Richardson E, Taulbut M, Robinson M, et al (2021) The contribution of changes to tax and social 
+security to stalled life expectancy trends in Scotland: a modelling study. J Epidemiol Community 
+Health 2021;75:365-370.  
+13 Popham F. and Boyle, P. (2011) Assessing Socio-Economic Inequalities in Mortality and Other 
+Health Outcomes at the Scottish National Level: Final Report. Scottish Collaboration for Public Health 
+Research and Policy 
+14 The Scottish Index of Multiple Deprivation (SIMD) is a measure of how deprived an area is. A score 
+is given to all of Scotland’s datazones (small area geographies) based on several indicators of 
+deprivation. The datazones are then ranked 1 to 6,976 based on their score. The rankings are split 
+into 10 equally sized groups for SIMD deciles and five groups for SIMD quintiles. More information 
+can be found on the Scottish Government website: Scottish Index of Multiple Deprivation 2020 - 
+gov.scot (www.gov.scot) 
+15 Walsh D, McCartney G, Minton J, et al. Changing mortality trends in countries and cities of the UK: 
+a population based trend analysis. BMJ Open 2020;10:e038135  
+ 
+7 
+ 
+Figure 2: Life Expectancy at birth by SIMD decile, 2018-2020
+ 
+Source: Life Expectancy in Scotland 2018-2020: Report (nrscotland.gov.uk)  
+ 
+3.1.3 Geographic Inequalities in Life Expectancy 
+ 
+There are also substantial geographic inequalities in health across Scotland, 
+largely reflecting socio-economic inequalities between areas. Across council 
+areas, female life expectancy at birth was highest in East Renfrewshire (84.0 
+(±0.6) years) and lowest in Glasgow City (78.3 (±0.3) years). Male life 
+expectancy at birth was highest in Shetland Islands (80.6 (±1.3) years) and 
+lowest in Glasgow City (73.1 (±0.3) years); this represents 5.7 fewer years of 
+life for females and 7.5 fewer years of life for males compared with East 
+Renfrewshire and Shetland Islands respectively. The rate of growth in life 
+expectancy has slowed or stalled in the majority of Scotland’s local authority 
+areas since 2012-2014 and many areas now have decreasing life expectancy, 
+with Inverclyde, Dundee City and South Ayrshire experiencing some of the 
+biggest decreases. 
+ 
+Life expectancy also varies by rurality across Scotland. People living in more 
+rural areas generally live longer and spend more years in good health than 
+those in more urban areas16. For males, life expectancy was highest in 
+‘Accessible Rural’ areas at 79.4 (±0.3) years and lowest in ‘Large Urban’ 
+areas (75.7 ±0.2 years). For females, it was highest in ‘Remote Rural’ areas at 
+83.2 (±0.3) years and lowest in ‘Other Urban’ areas (80.2 ±0.1 years). This is 
+                                             
+16 Further information on the Scottish Government’s Urban Rural Classification can be found on the 
+Scottish Government website 
+ 
+8 
+ 
+relevant to the development of a National Care Service given the challenges 
+associated with rural services, which may require greater service costs, 
+stemming from reduced opportunities for economies of scale, higher travel 
+costs and time, and challenges relating to staffing, training, development and 
+partnership working17. 
+ 
+3.1.4 Life Expectancy at Older Ages, and ‘Time to Death’  
+ 
+Another relevant measure of life expectancy estimates the number of years 
+individuals aged 65 years can expect to live. In 2018-20, 65 year old males 
+and females could expect to live another 17.5 and 19.8 years, respectively. 
+For 85 years old males and females, life expectancy in 2018-20 was 5.6 years 
+and 6.4 years, respectively. Figure 3 shows how life expectancy at older ages 
+has changed since 1980-82. Life expectancy for males aged 65 has increased 
+by 5.2 years across this time series, and by 3.7 years for females. For those 
+aged 85, life expectancy for males has increased by 1.4 years, and 1.2 years 
+for females, between 1980-1982 and 2018-20. 
+ 
+Figure 3: Life Expectancy at older ages in Scotland, 1980-1982 and 2018-20 
+ 
+ 
+Source: Life Expectancy in Scotland 2018-2020: Report (nrscotland.gov.uk) 
+ 
+Life expectancy estimates can also be used to look at population ageing. As 
+life expectancy increases, the age at which a person is ‘elderly’ or 
+approaching death changes. This definition is important, as we define the 
+‘elderly’ population as those aged over 65. However, studies show that a lot of 
+the health problems related to old age are more closely associated with how 
+                                             
+17 Asthana, S. and Halliday, J. (2004), What can rural agencies do to address the additional costs of 
+rural services? A typology of rural service innovation. Health & Social Care in the Community, 12: 
+457-465.  
+ 
+9 
+ 
+long someone has left to live, rather than how long they have already lived. 
+This means it may be more useful for health and social care policy to look at 
+how many people have only 15 years of life expectancy remaining, rather than 
+the number of people aged 65 and over. Figure 4 shows the average age at 
+which males and females in Scotland have only 15 years of life remaining. 
+This age has risen from 66.5 in females in 1981-1983 to 71.1 in 2018-2020. 
+For males, the average age at which 15 years of life remains has risen from 
+60.8 to 68.5 over the same period. 
+ 
+Figure 4: Age at which a person has 15 years remaining life expectancy in 
+Scotland, 1981-1983 to 2018-2020 
+ 
+Source: Life Expectancy in Scotland 2018-2020: Report (nrscotland.gov.uk) 
+ 
+ 
+3.2 
+Healthy Life Expectancy 
+ 
+3.2.1 Overview  
+ 
+Healthy life expectancy (HLE) is an estimate of the number of years lived in 
+‘very good’ or ‘good’ general health, based on how individuals perceive their 
+state of health at the time of completing the annual population survey (APS)18. 
+The estimated healthy life expectancy of a child born in 2018-20 was 61.8 (± 
+0.5) years for females, and 60.9 (± 0.5) years for males19. For males, HLE at 
+birth increased between 2009-2011 and 2015-2017, but has decreased since 
+and is now lower than in 2009-2011. Female HLE at birth was relatively stable 
+between 2009-2011 and 2014-2016 but has since decreased each year 
+(Figure 5).  
+ 
+                                             
+18 For further information, see NRS Methodology: https://www.nrscotland.gov.uk/files//statistics/life-
+expectancy-15-17/le-methodology-feb-19.pdf  
+19 National Records of Scotland (2022). Healthy Life Expectancy in Scotland, 2018-2020 
+ 
+10 
+ 
+Although both life expectancy and HLE have fallen for males in recent years, 
+HLE has done so at a faster rate. This means that a greater proportion of life 
+will likely be spent in poor health than in previous years. Life expectancy at 
+birth for females has experienced relatively little change since 2010-2012 
+although it has fallen by a larger amount over the past year. HLE has 
+consistently been higher for females than males but by a much smaller margin 
+than overall life expectancy and in the last few years the difference has not 
+been statistically significant. This means that a greater proportion of life for 
+females is spent in poor health compared to males. The proportion of life 
+spent in good health has also been decreasing more rapidly for females than 
+males. 
+ 
+Figure 5: Healthy life expectancy at birth in Scotland, 2009-2011 to 2018-2020 
+  
+* The shaded area shows the upper and lower 95% confidence intervals. 
+Source: Healthy Life Expectancy 2018-2020 (NRS) 
+ 
+3.2.2 Socio-economic Inequalities in Healthy Life Expectancy 
+ 
+Socio-economic inequalities in healthy life expectancy are wider than 
+inequalities in life expectancy. Using SIMD deciles20, males born in the most 
+deprived decile were estimated to have an HLE of 45.4 (±2.2) years, 
+compared to 69.7 (±1.4) years for males in the least deprived decile; a 
+difference of 24.4 years (Figure 6). Females born in the most deprived decile 
+were estimated to have an HLE of 48.6 (±1.9) years, compared to 72.9 (±1.4) 
+years for females in the least deprived decile; a difference of 24.2 years 
+(Figure 7). 
+                                             
+20 See footnote 14 for further information. 
+ 
+11 
+ 
+ 
+Figure 6: Healthy life expectancy at birth by SIMD decile with 95% confidence 
+intervals, 2018-2020, males 
+ 
+ 
+Source: Healthy Life Expectancy 2018-2020 (NRS) 
+ 
+Figure 7: Healthy life expectancy at birth by SIMD decile with 95% confidence 
+intervals, 2018-2020, females 
+ 
+ 
+Source: Healthy Life Expectancy 2018-2020 (NRS) 
+ 
+Males in the least deprived areas are expected to spend 84.6% of their life in 
+good health compared with 65.8% in the most deprived areas. Females in the 
+ 
+12 
+ 
+least deprived areas are expected to spend 85.2% of their life in good health 
+compared with 64.5% in the most deprived areas. 
+ 
+For both males and females, the difference in HLE between the most and 
+least deprived areas is much larger than the difference in LE. The result of this 
+is that people in the most deprived areas not only have shorter life expectancy 
+and lower HLE, but they also have a smaller proportion of life spent in good 
+health. 
+ 
+3.2.3 Geographic Inequalities in Healthy Life Expectancy 
+ 
+There are also wide regional variations in HLE, again largely rooted in socio-
+economic inequalities. For males in 2018-20, HLE at birth was highest in 
+Orkney Islands (71.2 (±5.1) years), East Renfrewshire (68.7 (±1.8) years) and 
+Na h-Eileanan Siar (68.3 (±3.1) years). For females in 2018-20, HLE at birth 
+was highest in Orkney Islands (77.5 (±3.6) years), Na h-Eileanan Siar 
+(67.5(±3.8) years) and East Renfrewshire (67.0 (±2.7) years). In comparison, 
+for males in 2018-20, HLE at birth was lowest in Inverclyde (54.4 (±2.8) 
+years), Glasgow City (56.0 (±1.8) years) and Dundee City (56.1 (±2.3) years). 
+For females in 2018-20, HLE at birth was lowest in North Ayrshire (54.0 (±2.5) 
+years), North Lanarkshire (55.5 (±2.4) years) and Glasgow City (57.4 (±2.2) 
+years)21. 
+ 
+The difference between the HLE expectancy estimates in the most urban and 
+most rural areas is 6.9 years for males and 3.6 years for females.  The rural 
+categories show the highest HLE estimates whilst the urban areas have the 
+lowest in both males and females. 
+ 
+3.2.4 Healthy Life Expectancy at Older Ages 
+ 
+Another measure is HLE at 65 years. In 2017-19, the estimated HLE at 65 
+years was 10.7 (± 0.3) years for females and 9.9 (± 0.3) years for males. 
+ 
+Over the last decade, male HLE at 65 has experienced an increase whilst 
+female HLE at 65 has remained relatively unchanged since 2009-2011. Due to 
+an ageing population, this means females are estimated to spend a greater 
+proportion of their life in bad health than previously experienced, as the 
+healthy life expectancy at 65 is not increasing in line with the increasing life 
+expectancy. 
+ 
+ 
+                                             
+21 Some of the island council areas are amongst those with the highest recorded HLE estimates, 
+however they also have the widest confidence intervals because they have small populations and this 
+makes their HLE estimates less reliable. Further information is available in NRS Healthy Life 
+Expectancy 2018-2020  
+ 
+13 
+ 
+3.3 
+Burden of Disease 
+ 
+Burden of disease is a measure of the health of the population. It aims to 
+quantify the difference between living to old age in good health, and the 
+situation in which healthy life is shortened by illness, injury, disability and early 
+death22. The latest data on the burden of disease across Scotland come from 
+ScotPHO, whose Scottish Burden of Disease (SBoD) study team have 
+produced comprehensive estimates of Scotland's disease, condition and injury 
+burden for 201623. 
+ 
+The health problems which cause the most non-fatal burden (proportion of the 
+year lived with disability – YLD), include disability associated with anxiety, 
+depression and dementia, along with diseases linked to health-related 
+behaviours (in relation to diet, exercise, tobacco, alcohol and drugs24), and 
+those caused by our living longer. Figure 8 displays the leading causes of 
+disability in Scotland. ScotPHO note that there were more person-years25 lived 
+in less than ideal health due to depression in 2016 than there were lost to 
+early deaths from lung cancer, and more person-years lived in less than ideal 
+health due to low back and neck pain than lost to early deaths from stroke. 
+ 
+ 
+ 
+                                             
+22 Burden of disease studies use a single measure which combines fatal burden [i.e. years lost 
+because of early death – years of life lost (YLL)] and non-fatal burden [i.e. years lost because they are 
+lived in less than ideal health – years lived with disability (YLD)]. The measure used to describe the 
+overall burden of disease is called the disability-adjusted life year (DALY).  
+23 ScotPHO Archive - Scottish Burden of Disease (SBoD) 
+24 It is important to note that a vast body of epidemiological and sociological research highlights that 
+health-related behaviours are shaped to a large degree by structural determinants, and that socio-
+economic inequalities in health persist even when these behaviours are controlled for statistically. 
+See: Katikireddi, S.V.; Higgins, M.; Smith, K.E. & Williams, G. (2013). Health inequalities: The need to 
+move beyond bad behaviours. Journal of Epidemiology & Community Health, 67(9): 715-716.  
+25 Person-years is a measure of incidence of a particular condition. It refers to the number of years 
+times the number of members of a population who have been affected by a certain condition. 
+ 
+14 
+ 
+Figure 8: Leading causes of disability (total years of life with disability: YLD), 
+Scotland, 2016 
+ 
+Source:  ScotPHO (2016) The Scottish Burden of Disease Study, 2016: Overview Report 
+ 
+There are wide inequalities in the burden of disease by socio-economic 
+deprivation. Overall, 1,305,000 disability adjusted life years (DALY) were lost 
+due to ill health or early death in Scotland in 201626. This ranged from around 
+184,000 (14.1% of the total) in the most deprived areas to 88,000 (6.7%) in 
+the least deprived areas of Scotland27. Total burden increased with increasing 
+levels of deprivation. An estimated 32.9% of these DALY are ‘excess’; the 
+total burden that would have been avoided if all deprivation deciles had the 
+same rate as the least deprived areas in Scotland. Over 50% of the total 
+burden in the most deprived decile was excess, in comparison with the least 
+deprived. 
+ 
+3.4 
+Multimorbidity 
+ 
+Discussion of multimorbidity is relevant here as it has multiple implications, 
+including mortality, unplanned hospital admissions28, primary care 
+consultations, polypharmacy, and the need for care29. The proportion of 
+individuals who have two or more medical conditions simultaneously (referred 
+to as ‘multimorbidity’) has risen across high income countries, including the 
+                                             
+26 ScotPHO (2016) The Scottish Burden of Disease Study, 2016: Overview Report 
+27 ScotPHO (2016) The Scottish Burden of Disease Study, 2016: Deprivation Report 
+28 Payne RA, Abel GA, Guthrie B, Mercer SW. (2013). The effect of physical multimorbidity, mental 
+health conditions and socio-economic deprivation on unplanned admissions to hospital: a 
+retrospective cohort study. Canadian Medical Association journal; 185(5): E221 -8 
+29 Palmer, K.; Marengoni, A.; Forjaz, M.J.; Jureviciene E.; Laatikainen, T.; Mammarella, F. et al 
+(2018). Multimorbidity care model: Recommendations from the consensus meeting of the Joint Action 
+on Chronic Diseases and Promoting Healthy Ageing across the Life Cycle (JA-CHRODIS). Health 
+Policy, 122(1): 4-11. 
+ 
+15 
+ 
+UK30, partly reflecting increases in life expectancy across recent decades. 
+Projections suggest that this trend is set to continue31. While these trends 
+reflect the ageing profile of populations, it is important to note that 
+multimorbidity is not restricted to older people.  
+ 
+A recent cross-sectional study which linked national health and social care 
+data to explore multimorbidity and social care use in those aged over 65, 
+found that 93.3% of those receiving social care had multimorbidity, and that 
+16.2% of those with multimorbidity had received social care, compared with 
+3.7% of those without32. This study also explored how a number of factors – 
+age, deprivation and gender – affected the likelihood of receiving social care. 
+Age showed the largest margin of effect; compared with those aged 65-69 
+years old, the probability of receiving social care increased by 2.2% in the 70-
+74 age group, to almost 50% for those aged over 95 years. Those in the most 
+deprived SIMD decile were 5.5% more likely to receive social care compared 
+with those in the least deprived. Small gender differences were apparent too, 
+with women having a 3.2% increased probability of receiving social care than 
+men. 
+ 
+While now a decade old, a nationally representative study of almost 1.8 million 
+people in Scotland derived from primary care electronic records found a 
+multimorbidity prevalence rate of 24%, with the majority of people over the 
+age of 65 years having multimorbidity33. Again, this study also found 
+inequalities in multimorbidity across Scotland, with people living in the most 
+deprived areas having higher rates of multimorbidity, with onset 10-15 years 
+earlier, than those living in the least deprived areas. The combination of 
+mental and physical health problems is most common in deprived areas, 
+although pain and depression are in the top five conditions in people with 
+multimorbidity of all ages, and across all deprivation levels34. 
+ 
+A recent study also demonstrated inverse care from GPs in relation to 
+multimorbidity in Glasgow; despite the greater need of patients with 
+multimorbidity in deprived areas, the study found longer consultation length, 
+higher GP patient centeredness and higher perceived GP empathy in less 
+deprived areas of the city35.  
+                                             
+30 Academy of Medical Sciences (2018) Multimorbidity: A Priority for Global Health Research. 
+31 Whitty C J M, MacEwen C, Goddard A, Alderson D, Marshall M, Calderwood C et al. Rising to the 
+challenge of multimorbidity  
+32 Henderson, D.A.G.; Atherton, I.; McCowan, C.; Mercer, S.W. & Bailey, N. (2021). Linkage of 
+national health and social care data: a cross-sectional study of multimorbidity and social care use in 
+people aged over 65 years in Scotland. Age & Ageing, 50: 176-182. 
+33 Barnett K, Mercer SW, Norbury M, Watt G, Wyke S, Guthrie B. (2012). Epidemiology of 
+multimorbidity and implications for health care, research, and medical education: a cross-sectional 
+study. Lancet; 380(9836): 37-43. 
+34 McLean G, Gunn J, Wyke S, et al. (2014). The influence of socio-economic deprivation on 
+multimorbidity at different ages: a crosssectional study. The British journal of general practice. The 
+journal of the Royal College of General Practitioners, 64(624): e440-7. 
+35 Mercer, S.W.; Zhou, Y.; Humphris, G.M.; McConnachie, A.; Bakshi, A.; et al. (2018). Multimorbidity 
+and Socio-economic Deprivation in Primary Care Consultations. Ann. Fam. Med., 16(2): 127-131. 
+ 
+16 
+ 
+4. 
+Projections 
+ 
+This section briefly explores a number of projections which have been made, 
+primarily by NRS, which are relevant to the development of a National Care 
+Service. Population projections have limitations. A projection is a calculation 
+showing what happens if particular assumptions are made. The population 
+projections are trend-based. They are, therefore, not policy-based forecasts of 
+what the government expects to happen. Many social and economic factors 
+influence population change, including policies adopted by both central and 
+local government. The relationships between the various factors are complex 
+and largely unknown. Nonetheless, projections of the number of adults 
+(particularly older people) are usually more reliable than those for children 
+because they are based on people who are already living in Scotland. 
+ 
+4.1 
+Life Expectancy 
+ 
+As noted, life expectancy in Scotland had been increasing steadily for 
+decades. However, since 2012-14, improvements in life expectancy have 
+stalled. NRS projections show life expectancy increasing again, but at a 
+slower rate than previous projections (Figure 9). 
+ 
+However, it is important to note that life expectancy and healthy life 
+expectancy trends in Scotland have not improved since around 2012, with life 
+expectancy having been decreasing for those living in the most deprived 40% 
+of areas36. The best available evidence indicates that this is largely due to 
+economic factors impacting on the whole population, but particularly on those 
+living in the most deprived circumstances. These trends reflect the impact on 
+health of an array of social determinants; socio-economic circumstances, 
+including poverty, housing and education that together influence health 
+throughout the life-course. The future course of life expectancy and healthy 
+life expectancy are dependent on future decisions around these key social 
+determinants. 
+ 
+                                             
+36 ScotPHO (2021) Recent Mortality Trends 
+ 
+17 
+ 
+Figure 9: Life expectancy at birth, Scotland, 1980-1982 to 2043 
+ 
+ 
+Source: Figures to 2018-20 are from National Life Tables for Scotland (NRS) based on 3 years of 
+data. Figures from 2021 are projected single year life expectancies (2018 based, NRS). Life 
+Expectancy in Scotland 2018-2020: Report (nrscotland.gov.uk) 
+ 
+4.2 
+Ageing Population 
+ 
+The age composition of the population is particularly important in this context, 
+given that it shapes demand for health and social care services. Projections 
+by NRS suggest that Scotland is likely to have more older people and fewer 
+younger people in mid-2045 than in mid-202037. The current (mid-2020) 
+population structure includes a sharp peak at around age 73 (post-war baby 
+boomers, born 1946-47), and a large bulge with people in their mid-50s (born 
+during the 1960s baby boom). As these generations age, with higher life 
+expectancy than in previous generations, they are projected to make up a 
+growing proportion of the population. Also, as female life expectancy is higher 
+than for males, more females are projected to live into older age. These 
+projections suggest that the number of people aged 65 and over will grow by 
+nearly a third by mid-2045 to make up 25.4%, with the number of children 
+falling by over a fifth to 13.3% of the population. The population aged 16-64 
+years is projected to remain relatively stable and is projected to make up 
+61.3% of the population by mid-2045. Most of the changes are the result of 
+the ageing population.  
+ 
+ 
+ 
+                                             
+37 National Records of Scotland (2022) Projected Population of Scotland (2020-based) 
+ 
+18 
+ 
+Figure 10: Population structure of Scotland by age and sex, mid-2020 and mid-
+2045 
+ 
+Source: Projected Population of Scotland (Interim) 2020-based, Report (NRS) (nrscotland.gov.uk) 
+ 
+Scotland's age-structural shift is also projected to contain increasing numbers 
+of people aged in, what demographers refer to as, the 'oldest old' age 
+categories. For example, NRS projects that the number of people aged 90 and 
+over in Scotland will double between 2020 and 2045 from 43,749 to 85,354. 
+ 
+4.3 
+Increase in Single-Person Households 
+ 
+Another key NRS projection, relevant here, is the continuation of trends 
+towards estimated increase in single-person households across Scotland. In 
+2019 more than a third of households were single person households38. The 
+largest projected increases between 2018 and 2028 (in number and 
+percentage terms) is in households containing one or two adults only. The 
+number of one person households is projected to increase further by 8% (to 
+965,100 households); and the number of households with just two adults is 
+projected to increase by 7% (to 830,600 households)39. 
+ 
+Importantly here, people are more likely to live alone as they become older. In 
+2018, an estimated 113,800 men aged 65 and over were living alone. This is 
+projected to increase to 139,500 in 2028 (an increase of 23%) and to 161,400 
+                                             
+38 National Records of Scotland (2021) Estimates of Households and Dwellings in Scotland, 2020 
+39 National Records of Scotland (2020) Household Projections for Scotland (2018-based) 
+ 
+19 
+ 
+by 2043 (an increase of 42% compared with 2018). The number of women 
+aged 65 and over living alone is projected to increase from 229,200 in 2018 to 
+245,900 in 2028 (increase of 16%) and to 326,900 by 2043 (an increase of 
+43% compared with 2018). The number of men aged 85 and over living alone 
+is projected to increase by just over a quarter (26%) between 2018 and 2028, 
+increasing from 17,600 to 22,100; and to nearly double to 33,700 by 2043 (an 
+increase of 92% compared with 2018). The number of women aged 85 and 
+over living alone is also projected to increase from 49,700 in 2018 to 59,400 in 
+2028 (an increase of 20%) and then to 90,900 by 2043 (an increase of 83% 
+compared with 2018). In 2028, 65% of women in this age group are projected 
+to live alone, compared to 39% of men. The substantial projected increase in 
+the number of older households, in particular of older people living alone, has 
+implications for services and policies aimed at supporting older people.  
+ 
+5. 
+Conclusion 
+ 
+This paper has outlined aspects of Scotland’s current and projected national 
+health profile and demographics which are of relevance to the development of 
+a National Care Service. It has highlighted that Scotland’s population has the 
+lowest life expectancy and widest socio-economic inequalities in health in 
+Western Europe, as well as socio-economic inequalities in healthy life 
+expectancy. Geographic inequalities exist too – including between urban and 
+rural areas – but to a lesser degree, and largely shaped by these socio-
+economic inequalities. 
+ 
+While forecasting demand for social care is extremely challenging, a number 
+of projections made by NRS are of relevance here. The country’s population is 
+expected to age considerably across the coming decades, with a substantial 
+increase in the proportion of those over the age of 65. The trend towards an 
+increasing number of single-adult households is also set to continue. 
+ 
+ 
+ 
+ 
+20 
+ 
+How to access background or source data 
+ 
+The data collected for this publication: 
+ 
+☒ is available from The National Records of Scotland. 
+ 
+ 
+© Crown copyright 2022
+You may re-use this information (excluding logos and images) free of charge 
+in any format or medium, under the terms of the Open Government Licence. 
+To view this licence, visit http://www.nationalarchives.gov.uk/doc/open-
+government-licence/or e-mail: psi@nationalarchives.gsi.gov.uk.
+Where we have identified any third party copyright information you will need 
+to obtain permission from the copyright holders concerned.
+The views expressed in this report are those of the researcher and do not 
+necessarily represent those of the Scottish Government or Scottish Ministers.
+This report is available on the Scottish Government Publications Website  
+(http://www.gov.scot/Publications/Recent)
+The Scottish Government
+St Andrew’s House
+Edinburgh
+EH1 3DG
+ISBN: 978-1-80435-493-3
+Published by the Scottish Government, June 2022
+Produced for the Scottish Government by APS Group Scotland, 21 Tennant Street, Edinburgh EH6 5NA
+PPDAS1093022 (06/22)

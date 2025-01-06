@@ -1,0 +1,1682 @@
+Category: NHS reports 
+Version: Original
+URL: https://www.gov.scot/binaries/content/documents/govscot/publications/research-and-analysis/2022/06/national-care-service-childrens-social-services-scotland/documents/childrens-social-services-scotland/childrens-social-services-scotland/govscot%3Adocument/childrens-social-services-scotland.pdf
+
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+2 
+ 
+Key facts  
+Children and Families 
+• Children receiving social services can be aged from 0 (or pre-birth) to 18. For 
+some young people who have been looked after by a local authority, a social 
+work or social worker-led service may continue up to the age of 26. 
+• The reasons why social work involvement may be necessary vary, but usually the 
+parents, children and/or whole family will be experiencing a combination of 
+practical, emotional, and relationship difficulties.  
+• Children and parents in all income groups and with a wide range of disabilities, 
+emotional and relationship difficulties may be assessed as in need of a social 
+work service. However, families from areas of higher deprivation are more likely 
+to receive statutory social work services.  
+Child Protection  
+• During 2021, 570 Child Protection Orders were granted in emergency/high risk 
+situations, with more orders granted for very young children. 
+• 4,397 initial and pre-birth Case Conferences were held – 76% of which resulted 
+in a registration to the Child Protection Register.  
+• As at 31 July 2021, 2,104 children were on the Child Protection Register – the 
+lowest this figure has been since 2002. 
+Looked after children  
+• As at 31 July 2021, 13,255 children were looked after – the lowest this figure has 
+been since 2006. 
+• The most common types of placements for looked after children were: at home 
+with parents, kinship care, and with foster carers. 
+Workforce 
+• In 2020, the overall headcount for children’s social services was 15,830 – a 5% 
+increase since 2015.  
+• The two largest subsectors in children’s social services were residential child 
+care (55%) and fieldwork services (37%).  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+3 
+ 
+Table of contents 
+1 
+Introduction ........................................................................................................ 4 
+1.1 
+Sources.......................................................................................................... 5 
+1.2 
+Context .......................................................................................................... 5 
+2 
+Child Protection ................................................................................................. 7 
+2.1 
+Inter-agency referral discussions ................................................................... 7 
+2.2 
+Child Protection Investigation ........................................................................ 8 
+2.3 
+Child Protection Case Conference ................................................................ 8 
+2.4 
+Child Protection Orders (CPO) .................................................................... 10 
+2.5 
+New registrations on the Child Protection Register ..................................... 10 
+2.6 
+Children on the Child Protection Register ................................................... 10 
+2.7 
+Demographic profiles of children on the Register ........................................ 11 
+3 
+The Children’s Hearings System ................................................................... 12 
+4 
+Children’s Hearings Duties ............................................................................. 13 
+4.1 
+Children referred to the Reporter ................................................................. 13 
+4.2 
+Children’s Hearings ..................................................................................... 15 
+4.3 
+Compulsory Supervision Orders (CSO) ...................................................... 15 
+4.4 
+Demographic profiles of children referred to the Reporter .......................... 15 
+5 
+Looked after children ...................................................................................... 17 
+5.1 
+Types of placements ................................................................................... 18 
+5.1.1 
+Demographic profile of looked after children ........................................ 21 
+5.2 
+Social services support for looked after children ......................................... 22 
+5.3 
+Children ceasing to be looked after ............................................................. 23 
+5.4 
+Support for care leavers .............................................................................. 24 
+5.4.1 
+Pathway planning .................................................................................. 24 
+5.4.2 
+Continuing care ..................................................................................... 25 
+5.4.3 
+Aftercare ................................................................................................ 25 
+5.4.4 
+Demographic profiles of young people receiving aftercare services ..... 26 
+6 
+Adoption services............................................................................................ 26 
+7 
+Secure Care Accommodation ........................................................................ 27 
+7.1 
+Capacity ....................................................................................................... 27 
+7.2 
+Admissions .................................................................................................. 27 
+7.3 
+Demographic profiles of residents ............................................................... 28 
+8 
+Other welfare and support services .............................................................. 28 
+9 
+Workforce ......................................................................................................... 31 
+9.1 
+Headcount and composition ........................................................................ 31 
+9.2 
+Employer type .............................................................................................. 32 
+9.3 
+Residential child care services .................................................................... 33 
+9.3.1 
+Post characteristics ............................................................................... 34 
+9.3.2 
+Demographics ....................................................................................... 35 
+9.4 
+Fieldwork Services....................................................................................... 36 
+9.4.1 
+Post characteristics ............................................................................... 36 
+10 Conclusion ....................................................................................................... 37 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+4 
+ 
+1 
+Introduction  
+This paper provides an overview of social services1 provided to children and families 
+in Scotland. 2 It forms one of an initial collection of contextual papers, setting out key 
+sources of information about social care and related areas in Scotland, linking to the 
+National Care Service Consultation proposals published in August 2021. Information 
+on key national trends in those services is also provided. This includes provision 
+trends, population profiles of children to whom these services are provided, and the 
+workforce.  
+Official and National statistics are available for: 
+• Child Protection  
+• Children’s Hearings Duties (including the Principal Reporter)  
+• Looked after children 
+• Secure Care Accommodation 
+This is one of a collection of papers produced to inform draft legislation for the NCS. 
+The collection consists of the following 6 papers on adult social care: 
+1. Scotland’s Health and Demographic Profile 
+2. People who Access Social Care and Unpaid Carers in Scotland 
+3. Social Care Support and Service Provision in Scotland 
+4. Experiences of Social Care and Caring in Scotland 
+5. The Adult Social Care Workforce in Scotland 
+6. Adult Social Care in Scotland - Equality Evidence Overview 
+ 
+And papers on: 
+1. Children’s Social Services 
+2. Justice Social Work in Scotland 
+3. Learning and evidence from national social care systems in Nordic and 
+Scandinavian countries 
+4. Integrated Care Studies: The SCFNuka (Alaska) and Canterbury (New 
+Zealand) Models 
+                                             
+1 “Social services” is a term used to describe social work and social care services: 
+• 
+Social work is a statutory role undertaken by qualified and registered social workers.  Its role is to 
+assess need, manage risk and promote the wellbeing of individuals and communities. It is the 
+gateway through which most individuals access social care. 
+• 
+Social care is an umbrella term for services which support people to meet their personal 
+outcomes. It is the direct provision of services based on the assessment of need by social work. 
+2 Services not covered by this report are: health services, additional support services, other youth 
+justice services and whole family support services. 
+ 
+ 
+  
+ 
+5 
+ 
+1.1 Sources 
+The data sources and reporting periods for this paper are summarised below. For 
+consistency and ease of reporting, these will be referred to as whole years (e.g., 
+2021). 
+Body 
+Data source 
+Reporting period 
+Scottish Government 
+Children’s Social Work 
+Statistics 
+01 August 2020 to 31 July 
+2021 
+Scottish Children’s 
+Reporter Administration 
+(SCRA) 
+SCRA Official Statistics  
+ 
+  
+01 April 2020 to  
+31 March 2021 
+Scottish Social Services 
+Council (SSSC) 
+Children’s Services 
+Workforce Tables  
+ 
+Local Authority Post Types 
+Tables  
+ 
+ 
+Report on 2020 Workforce 
+Data 
+as at 31 December 2019 
+ 
+as at first Monday in 
+December 2020 
+ 
+as at 31 December 2020  
+  
+ 
+ 
+Care Inspectorate 
+Fostering and adoption 
+statistical bulletin 
+1 January 2020 to 31 
+December 2020 
+1.2 Context 
+Social services are provided to children and their families when additional support is 
+needed or when children are at risk.  
+Section 22 of the Children (Scotland) Act 1995 places a duty on local authorities to 
+safeguard and promote the welfare of children in their area who are in need and, 
+where consistent with that duty, to promote the upbringing of children within their 
+families. Every local authority in Scotland provides social services to fulfil these 
+statutory duties.  
+Social work services may become involved with a family through different routes. A 
+family member may request a social work service. It is more common that they will 
+be referred by someone they know, usually a professional such as a health visitor, 
+doctor, teacher, youth worker, or community police officer. This will usually be done 
+with the person’s permission. Anyone who considers that a child is being harmed or 
+is at risk of suffering harm (usually a professional such as those above) may refer 
+the child for assessment of whether a formal child protection service is necessary. 
+Exceptionally, this can be done without seeking the parents' or an older child's 
+ 
+ 
+  
+ 
+6 
+ 
+agreement, though professionals will usually try to explain why they consider that 
+this is necessary and the steps a social worker might take. 
+Children and young people receiving social work services can be aged from 0 (or 
+even pre-birth) to 18 years. If a young person has been looked after by the local 
+authority, a social work or social worker-led service may continue up to the age of 
+26.  
+ 
+The reasons why social work involvement may be necessary are very varied but 
+usually the parents and/or children, or the whole family, may be experiencing a 
+combination of practical, emotional and relationship difficulties. Children and parents 
+in all income groups and with a wide range of disabilities, emotional and relationship 
+difficulties may be assessed as in need of a social work service. However, families 
+from areas of higher deprivation are more likely to receive statutory social work 
+services and poverty has a pervasive impact on families. 
+ 
+ 
+ 
+ 
+  
+ 
+7 
+ 
+2 
+Child Protection 
+Child Protection refers to a range of processes involved in considering, assessing, 
+planning, and taking necessary action to protect a child from abuse or neglect. 
+These processes are usually initiated when a concern about harm or risk of harm to 
+a child has been raised, and police and/or social work have been notified.  If there is 
+likelihood of significant harm, an inter-agency discussion3 will commence – the 
+formal process of information sharing, assessment, analysis, and decision-making 
+following reported concern. 
+If the likelihood of significant harm to the child or others is present, initial plans are 
+made about: investigation; joint investigative interviews; health assessment; the 
+needs of the child and others involved in this context; as well as any immediate 
+protective action.  
+2.1 Inter-agency referral discussions 
+An inter-agency referral discussion (IRD) is the start of the formal process of 
+information sharing, assessment, analysis and decision-making following reported 
+concern about abuse or neglect of a child or young person up to the age of 18 years, 
+in relation to familial and non-familial concerns, and of siblings or other children 
+within the same context. This includes an unborn baby that may be exposed to 
+current or future risk.  
+An IRD involves significant system interrogation, analysis and multi-agency decision 
+making by the three core agencies; Social Work, Police, and Health. It also places a 
+requirement on social work to seek the views of education colleagues and any other 
+relevant agencies. Seeking views from the child (where possible) and their main care 
+givers is central to this process. 
+Currently there are no published Official Statistics relating to IRD due to historical 
+variation in the approach to IRD across Scotland, both in definition and in practice. 
+National Guidance for Child Protection4, revised and published in 2021, outlines how 
+statutory and non-government agencies should work together with parents, families 
+and communities to prevent harm and to protect children from abuse and neglect, 
+including in relation to IRD. Therefore, future statistical data collection is intended to 
+include IRD numbers to reflect child protection activity across Scotland. 
+                                             
+3 The Scottish Government have been monitoring the number of Inter-Agency Discussions as part of 
+the  Vulnerable Children COVID19 Monitoring Survey. These figures are not subject to the same 
+quality assurance controls as Official Statistics and are therefore not presented here.  
+4 Part 2B: Approach to Multi-Agency Assessment in Child Protection - National guidance for child 
+protection in Scotland 2021. 
+ 
+ 
+ 
+  
+ 
+8 
+ 
+2.2 Child Protection Investigation 
+A Child Protection Investigation is a multi-agency assessment which takes places 
+when inter-agency discussions decide that the child is at risk of significant harm5. 
+This enables core agencies (e.g. police and social work) to gather information to 
+inform risk assessment and needs of the child, as well as need for protective action. 
+In 2021, 11,726 Child Protection Investigations took place (rate of 12.8 per 1,000 of 
+child population6).  
+2.3 Child Protection Case Conference 
+If, following an investigation, a child is deemed to be at risk of significant harm a 
+case conference7 will be held. This is a formal multi-disciplinary meeting during 
+which core agency professionals and the family of the child will share information, 
+identify risks and outline what action needs to be taken to protect the child (e.g. 
+decide whether a child should be registered on the Child Protection Register, and 
+whether referral to the Reporter is necessary for consideration of compulsory 
+supervision measures).  
+In 2021, 4,397 initial8 and pre-birth9 case conferences were held. The most common 
+concerns identified at these case conferences are set out in Chart 1. 
+ 
+ 
+                                             
+5 If not, assessment and support may still be offered. 
+6 Per 1,000 population aged 0-15 calculated using NRS mid-year 2020 population estimates. 
+7 Please note changes in terminology set out by the National Guidance for Child Protection in 
+Scotland 2021 – from ‘Child Protection Case Conferences’ to ‘Child Protection Planning Meetings’. 
+Here we refer to ‘Case Conferences’ to reflect terminology used within the most recent Children’s 
+Social Work Statistics publication.  
+8 Initial conference is for a child not currently on the Register (i.e., newly registered). 
+9 Pre-birth conferences are for an unborn child. 
+ 
+9 
+ 
+Chart 1. Concerns identified at case conferences of children registered during 2021[1] 
+  [1] Multiple concerns can be recorded per child. 
+ 
+ 
+ 
+10 
+ 
+2.4 Child Protection Orders (CPO) 
+A CPO is sought in emergency and high risk situations, where protection measures 
+need to be put in place immediately to protect the child. Applications for CPOs are 
+made in the Sheriff Court. A CPO may grant authority for a child to be removed from 
+home to a safe place, or prevent the removal of the child from a place of safety. If 
+granted by a Sheriff, a CPO leads to a referral to the Reporter and consideration of 
+compulsory measures of supervision.   
+In 2021, 570 CPOs were granted. Of these, 99 (17%) related to children under the 
+age of 20 days, 210 (37%) children under 1 year old, and 249 (44%) children under 2 
+years old (Chart 2). A significant proportion of CPOs are granted for very young 
+children reflecting their high vulnerability and need for immediate protection. 
+Chart 2. Children with CPOs granted by age in 2021 
+[1] Source: SCRA Official Statistics 2020/21 report 
+2.5 New registrations on the Child Protection Register 
+If a case conference concludes significant risk of harm is present, the child will be 
+added to the Child Protection Register.  
+In 2021, 3,324 (76%) of all initial and pre-birth case conferences resulted in a 
+registration.  
+2.6 Children on the Child Protection Register 
+As at 31 July 2021, 2,104 children were on the Register (rate of 2.3 per 1,000 of 
+child population10) – the lowest this figure has been since 2002. Over the past 
+decade, the number of children on the Register has fluctuated (Chart 3). 
+                                             
+10 Per 1,000 population aged 0-15 calculated using NRS mid-year 2020 population estimates 
+ 
+ 
+  
+ 
+11 
+ 
+Chart 3. Number of children on the Register by age, 2011-2021 (at 31 July) 
+2.7 Demographic profiles of children on the Register 
+In 2021, 48% of children on the Register were male and 47% were female. A further 
+5% of were not yet born. The largest proportion of children on the Register were 
+aged 4 and under, or unborn (52%; Chart 4).  
+Chart 4. Age of children on the Register, at 31 July 2021 
+ 
+ 
+ 
+ 
+  
+ 
+12 
+ 
+In 2021, the majority (71%) of children on the Register were recorded as being white, 
+though it should be noted that ethnicity was not known for 24% of children (Table 1).  
+Table 1. Children on the Register by ethnic group, at 31 July 2021 
+Ethnic Group 
+Number Percentage  
+% all children in 
+Scotland (2011 
+Census) [1][2] 
+White 
+1,490 
+71% 
+94% 
+Mixed or Multiple Ethnicity 
+45 
+2% 
+1% 
+Asian, Asian Scottish or Asian British 
+28 
+1% 
+3% 
+African, Caribbean or Black 
+22 
+1% 
+1% 
+Other Ethnic Background 
+18 
+1% 
+0% 
+Not known 
+501 
+24% 
+0% 
+Total 
+2,104 
+100% 
+100% 
+[1] Scotland percentages refer to ages 0 to 15 and are based on the 2011 census 
+[2] Due to rounding, the percentage totals may not equal the sum of their parts. 
+In 2021, 4% of children on the Register were recorded as having a disability, though 
+disability status was not yet assessed for 46% of children (Table 2). 
+Table 2. Children on the Register by disability[1] status, at 31 July 2021 
+Disability 
+Number 
+Percentage[2]  
+Yes 
+81 
+4% 
+No 
+1,042 
+50% 
+Not yet assessed 
+967 
+46% 
+Not known/recorded 
+14 
+1% 
+Total  
+2,104 
+100% 
+[1] This is defined as having a mental or physical impairment which has a substantial and long-term 
+adverse effect on their ability to carry out normal day-to-day activities. 
+[2] Due to rounding, the percentage totals may not equal the sum of their parts. 
+3 
+The Children’s Hearings System 
+The Children’s Hearings system is Scotland’s care and justice system for children 
+and young people. It exists to protect the safety and wellbeing of infants, children 
+and young people across Scotland. The Scottish Children’s Reporter Administration  
+and Children’s Hearings Scotland are key statutory organisations within this system. 
+It is not proposed that either of these organisations are within the scope of the NCS. 
+Their independence, and that of the Reporter, are key components to the system. 
+The system plays a critical role in the social services provided to children through the 
+decision-making functions. 
+ 
+ 
+  
+ 
+13 
+ 
+4 
+Children’s Hearings Duties 
+Children are referred to the Children’s Reporter if it is considered that they may need 
+compulsory legal measures of protection, guidance, treatment or control. Most 
+referrals to the Children’s Reporter come from partner agencies, such as the police, 
+social work, and education. Additionally, parents, family members, carers or 
+members of the public can make a referral. The Reporter will investigate the referral 
+and decide whether or not to convene a Children’s Hearing – the legal tribunal 
+responsible for deciding what’s in the best interest of the child and whether 
+compulsory measures of supervision are necessary and, if so, which ones. 
+4.1 Children referred to the Reporter 
+In 2021, 9,665 children were referred11 to the Reporter, equating to 1.1% of all 
+children in Scotland12. Of these, 8,013 were referred on care and protection (non-
+offence) grounds and 2,207 on offence grounds. 
+Over the past decade, the number of children referred to the Reporter has declined 
+(Chart 5), peaking in 2011 and at its lowest in 2021.  
+ 
+ 
+                                             
+11 A child may be referred more than once.  
+12 % of population aged under 16 years, based on mid-year estimates for 2020 from the National 
+Records of Scotland. 
+ 
+ 
+  
+ 
+14 
+ 
+Chart 5. Children referred to the Reporter, by year[1],[2] 
+[1] Source: SCRA Official Statistics dashboard. 
+[2] Rate per 1,000 is calculated using relevant NRS mid year population estimates for those under 16 
+years, with the exception of ‘offence grounds’ which is shown per 1,000 of population aged between 8 
+and 16 years. 
+Notably, in 2021: 
+• Most children were referred by Police (68%) and Social Work (29%). 
+• The most common grounds for referrals were: 
+1. Lack of parental care (3,449) 
+2. Offence (2,198) 
+3. Close connection with person who has carried out domestic abuse 
+(1,961) 
+4. Child’s conduct harmful to self or others (946). 
+• 22% of children (2,150) with cases decided had a Reporter decision to 
+arrange a Children’s Hearing on at least one referral.  
+ 
+ 
+  
+ 
+15 
+ 
+4.2 Children’s Hearings 
+In 2021, 16,248 Children’s Hearings were held for 8,977 children (rate of 17.7 per 
+1,000 population13) –  a decrease from 41,825 Hearing held in 2011 (rate of 45.6 per 
+1,000 population). A concerted effort to reduce referrals where there was no need for 
+compulsory measures has brought referrals numbers down in recent years.  
+Following assessment and development of a multiagency child plan, social workers 
+will prepare reports for a Children’s Hearing. The purpose of this is to enable the 
+Hearing (made up of a panel of three members) to make an informed decision about 
+the best interests of the child and provide effective outcomes that support the child 
+and their family. This includes addressing assessed needs, promote the child’s 
+welfare and, where the referral concerns offending, reduce any risks of reoffending. 
+The Hearing will decide if compulsory measures of supervision are required as being 
+in the best interests of the child or young person and, if so, what those should be. If 
+the hearing concludes compulsory measures of supervision are needed, it will make 
+a Compulsory Supervision Order (CSO) which will identify the measures required.  In 
+most cases the child will continue to live at home but will be under the supervision of 
+the Chief Social Worker. In some cases the hearing will decide that the child should 
+live away from home with relatives or other carers, or in an identified residential 
+placement (see next section on looked after children). 
+4.3 Compulsory Supervision Orders (CSO)  
+In 2021, 7,959 children (0.9% of Scotland’s child population) were subject to a CSO 
+(rate of 8.7 per 1,000 population14), compared with 13,474 in 2011 (rate of 14.7 per 
+1,000 population).    
+4.4 Demographic profiles of children referred to the Reporter 
+In 2021, 57% of children referred to the Reporter were male and 43% were female. A 
+large number of children were referred before their first birthday (769). Referral rates 
+then remain relatively consistent before increasing from ages 12 (618) and to 15 
+years (1,296).  
+                                             
+13 Per 1,000 population aged under 16 years calculated using NRS mid-year 2020 population 
+estimates. 
+14 Per 1,000 population aged under 16 years calculated using NRS mid-year 2020 population 
+estimates. 
+ 
+ 
+  
+ 
+16 
+ 
+Chart 6. Children referred to the Reporter, by sex and age, in 2021[1] 
+[1] Source: SCRA Official Statistics 2020/21 report. 
+ 
+ 
+ 
+  
+ 
+17 
+ 
+5 
+Looked after children  
+Under the Children (Scotland) Act 1995, looked after children are those in the care of 
+their local authority. Children can be looked after and live at home if they are subject 
+to a CSO. Where children and young people are looked after away from home, this 
+can be where the child: 
+• 
+has been through the Children's Hearings system and is subject to a CSO with a 
+condition of residence; 
+• 
+is subject to an order made or authorisation or warrant granted by virtue of 
+chapter 2, 3 or 4 of Part 2 of the 1995 Act; 
+• 
+is being provided with accommodation under Section 25 of the 1995 Act (a 
+voluntary agreement); 
+• 
+is placed by a local authority which has made a permanence order under section 
+80 of the Adoption and Children (Scotland) Act 2007. 
+There are many reasons children may become looked after, including: 
+• 
+they face abuse or neglect at home; 
+• 
+they have disabilities that require special care; 
+• 
+they are unaccompanied minors seeking asylum, or who have been illegally 
+trafficked into the UK; 
+• 
+they have been involved in the youth justice system. 
+Children may be looked after for a short time, longer time, or it could be episodic – 
+there are a range of different circumstances. Children who are looked after away 
+from home may be placed with kinship carers (extended family/friends), foster 
+carers, with prospective adopters, or in residential care (see next section on types of 
+placements).  
+As at 31 July 2021, 13,255 children were looked after, reflecting 1.3% of Scotland’s 
+child population15 and the lowest this figure has been since 2006. Of these, 95% had 
+a current care plan16 produced by the local authority.  
+Over the past decade, the number of looked after children in Scotland has declined 
+(Chart 7), peaking in 2012 and was at its lowest in 2021.  
+                                             
+15 % of population aged under 18 years, based on mid-year estimates for 2020 from the National 
+Records of Scotland. 
+16A care plan includes detailed information about the child’s care, education and health needs, as well 
+as the responsibilities of the local authority, the parents, and the child. A care plan is considered 
+‘current’ if it has been produced or reviewed in the past 12 months. 
+ 
+ 
+  
+ 
+18 
+ 
+Chart 7. Looked after children per 1,000, by type of accommodation 2011-2021 
+5.1 Types of placements 
+At home with parents: A child becomes looked after at home when the  
+Children's Hearing imposes a supervision requirement with no condition  
+of residence. There are two main instances in which this happens: 
+• as a starting point for planned intervention, where the balance of risk  
+ 
+indicates that it is not essential to remove the child from the care of their  
+ 
+parents, but that the situation must be monitored; 
+• where children are returning home after being looked after away from  
+ 
+home, where some risks still remain and home supervision aims to help  
+ 
+reunite the family. 
+A child looked after at home continues to live at their usual residence (usually  
+the family home), but receives regular visits from social workers to ensure that  
+the objectives of the home supervision order are being met. In 2021, 2,859 children 
+were placed at home with parents (22% of all looked after children). 
+Kinship care: when a child is looked after by their extended family or close friends if 
+they cannot remain with their birth parents. Under the Looked after children 
+(Scotland) Regulations 2009, a kinship carer is defined as: "a person who is related 
+to the child (through blood, marriage or civil partnership) or a person with whom the 
+child has a pre-existing relationship". In 2021, 4,399 children were placed in kinship 
+care (33% of all looked after children). 
+ 
+ 
+  
+ 
+19 
+ 
+Foster care: when a child is looked after by an approved foster family in their home. 
+Fostering can be provided for short breaks or to provide interim, long term or 
+permanent care for children. In 2021, 3,160 children were placed with foster carers 
+provided by a local authority and 1,307 children were placed with foster carers 
+purchased by a local authority (24% and 10% of all looked after children, 
+respectively). In 2020, there were 59 fostering services in Scotland, with 27 
+independent services in addition to 32 local authority services and a total of 3,540 
+approved foster care households. 
+Prospective adopters: when a child is placed with their prospective adopters. In 
+2021, 156 children were placed with prospective adopters (1% of all looked after 
+children).  
+Residential child care: Residential care homes provide accommodation, support 
+and, in some cases, education for young people, usually of secondary school age. In 
+2021, 1,286 children were placed in a residential placement (10% of all looked after 
+children). In 2020, residential child care provision included 323 care homes for 
+children, 5 secure care centres, and 37 residential special schools. 
+In 2021, most looked after children (90%) were placed in the community (Table 3). 
+Notably, while the proportion of children placed at home with parents decreased over 
+the past decade (from 34% in 2011 to 22% in 2021), the proportion of children 
+placed with kinship carers increased (from 24% in 2011 to 33% in 2021). 
+ 
+ 
+  
+ 
+20 
+ 
+Table 3: Number of looked after children at 31 July, in each type of placement  
+  
+Number 
+Percentage[2] 
+  
+2011 
+2021 
+2011 
+2021 
+In the community 
+14,770 
+11,969 
+91% 
+90% 
+     At home with parents 
+5,476 
+2,859 
+34% 
+22% 
+     With Kinship Carers: friends/relatives 
+3,910 
+4,399 
+24% 
+33% 
+     With Foster Carers provided by LA 
+3,871 
+3,160 
+24% 
+24% 
+     With Foster Carers purchased by LA 
+1,197 
+1,307 
+7% 
+10% 
+     With prospective adopters 
+267 
+156 
+2% 
+1% 
+     In other community 
+49 
+88 
+0% 
+1% 
+In residential accommodation 
+1,461 
+1,286 
+9% 
+10% 
+     In local authority home 
+615 
+525 
+4% 
+4% 
+     In voluntary home 
+88 
+96 
+1% 
+1% 
+     In residential special school 
+460 
+323 
+3% 
+2% 
+     In secure accommodation 
+86 
+38 
+1% 
+0% 
+     Crisis care 
+13 
+0 
+0% 
+0% 
+     In other residential [1] 
+199 
+304 
+1% 
+2% 
+Total 
+16,231 
+13,255 
+100% 
+100% 
+ [1] The bulk of the ‘other residential’ placements are private/independent residential placements for 
+young people with complex needs. 
+[2] Due to rounding, the percentage totals may not equal the sum of their parts. 
+In terms of the number of placements provided for children who are looked after, the 
+pattern has remained relatively stable since 2012 (Chart 8). Notably, since 2012 the 
+proportion of children with 3 or more placements has decreased slightly from 6% to 
+4% in 2021. By contrast, the proportion of children with a single placement has 
+increased from 80% in 2012 to 83% in 2021.  
+ 
+ 
+  
+ 
+21 
+ 
+Chart 8. Proportion of placements for looked after children, at 31 July 2012-
+2021 
+5.1.1 Demographic profile of looked after children 
+In 2021, 54% of looked after children were male and 46% were female. The highest 
+proportions were aged 5-11 years (36%) and 12-15 years (30%; Chart 9). 
+Chart 9. Age of children looked after, at 31 July 2021 
+ 
+ 
+ 
+  
+ 
+22 
+ 
+In 2021, the majority (84%) of looked after children were white (Table 3).  
+Table 4. Children looked after by ethnic group, at 31 July 2021 
+Ethnic Group 
+  
+  
+Number 
+Percentage  
+% all children in 
+Scotland (2011 
+Census) [1] 
+White 
+  
+  
+11,141 
+84% 
+95% 
+Mixed Ethnicity 
+  
+  
+171 
+1% 
+1% 
+Asian, Asian Scottish or Asian British 
+122 
+1% 
+3% 
+Black, Black Scottish or Black British 
+92 
+1% 
+1% 
+Other Ethnic Background 
+  
+198 
+1% 
+0% 
+Not known 
+  
+  
+1,531 
+12% 
+0% 
+Total 
+  
+13,255 
+100% 
+100% 
+[1] Scotland percentages refer to ages 0 to 19 and are based on the 2011 census. 
+In 2021, 10% of looked after children had a disability, though disability status was not 
+known/recorded for a quarter of children (Table 5). 
+Table 5. Children looked after by disability[1] status, at 31 July 2021 
+Disability 
+  
+Number Percentage[2] 
+Yes 
+  
+1,288 
+10% 
+No 
+  
+8,589 
+65% 
+Not yet assessed 
+  
+92 
+1% 
+Not known/recorded 
+  
+3,286 
+25% 
+Total 
+13,255 
+100% 
+[1] This is defined as having a mental or physical impairment which has a substantial and long-term 
+adverse effect on their ability to carry out normal day-to-day activities. 
+[2] Due to rounding, the percentage totals may not equal the sum of their parts. 
+5.2 Social services support for looked after children 
+When children and young people are looked after, social services will provide 
+support in various ways and carry out a number of functions. This includes: 
+• Supporting children and families who voluntarily reach accommodation 
+agreements and support the family to keep the child safe and nurtured in a 
+placement out with the usual family home. 
+• Recruitment and assessment of prospective foster carers and adopters; and the 
+identification and assessment of potential kinship carers for children who require 
+care away from home. The conversion rate from initial enquiry to approval and 
+registration as a foster carer is one in twelve. Thereafter supporting children, 
+carers and/or parents, even following a permanency decision, to prevent 
+ 
+ 
+  
+ 
+23 
+ 
+breakdown of family relationships and further supporting the child or young 
+person to maintain sibling type relationships where appropriate. 
+• Supporting children and young people to maintain meaningful relationships with 
+the people that they identify as important to them. This may include tracing ‘lost’ 
+family relationships and facilitating family meetings. Additionally, helping children 
+and young people, even following their experience of care, to find and connect 
+with key people and supporting their understanding of their life story.  
+5.3 Children ceasing to be looked after 
+In 2021, substantially more children ceased to be looked after, than started to 
+become looked after. By contrast, in 2011 slightly more children started to become 
+looked after than ceased (Chart 10).  
+Chart 10. Number of children starting and ceasing to be looked after at 31 July, 
+2011-2021
+ 
+Compared with 2011, a higher proportion of children ceasing to be looked after had 
+been looked after for five years or longer – up from 13% in 2011 to 21% in 2021. 
+Meanwhile the proportion of children looked after for a shorter period of time, 
+ 
+ 
+  
+ 
+24 
+ 
+especially for between 6 months and under 1 year, decreased (from 16% in 2011 to 
+10% 2021).  
+In terms of the recorded destinations of children ceasing to be looked after in 2021 
+(Table 6):  
+• 56% had a recorded destination of at home with their biological parents – a 4 
+percentage point decrease since 2011 (60%); 
+• 16% had a recorded destination of kinship care – a 3 percentage point increase 
+since 2011 (13%); 
+• 6% of children were adopted – a figure which has remained stable since 2011. 
+The majority of children who were adopted (66%) were below the age of 5 years. 
+Table 6. Children ceasing to be looked after, by destination 
+Destination after leaving care 
+Number 
+Percentage[4] 
+2011 
+2021 
+2011 
+2021 
+Home with (biological) parents 
+2,766 
+2,166 
+60% 
+56% 
+Kinship carers: Friends/relatives[1] 
+603 
+532 
+13% 
+14% 
+Kinship Care Order[2] 
+- 
+84 
+- 
+2% 
+Former foster carers[1] 
+55 
+47 
+1% 
+1% 
+Continuing Care[2] 
+- 
+267 
+- 
+7% 
+Adoption 
+264 
+224 
+6% 
+6% 
+Supported accommodation/own tenancy 
+285 
+244 
+6% 
+6% 
+Other[3] 
+225 
+276 
+5% 
+7% 
+Not known 
+413 
+16 
+9% 
+0% 
+Total 
+4,611 
+3,856 
+100% 
+100% 
+[1] This excludes planned series of short term placements. A child may cease to be looked after more 
+than once during the year and will be counted once for each episode of care ending.  
+[2] New destination categories of 'Continuing Care' and 'Kinship Care Order' were added in 2018. 
+Previously, children who left care for 'Continuing Care' were mostly recorded in the ‘Foster Carers’ 
+destination category, while those whole left care under a 'Kinship Care Order' were mostly recorded in 
+the ‘Kinship Carers (friends/relatives)’ category. 
+[3] ‘Other’ includes residential care, homeless, in custody and other destination. 
+[4] Due to rounding, the percentage totals may not equal the sum of their parts. 
+5.4 Support for care leavers  
+5.4.1 Pathway planning 
+It is expected that all young people who are looked after on their 16th birthday will 
+have had a pathway assessment, and will have a pathway plan in place as to their 
+future before they cease to be looked after. This will set out the actions that must be 
+taken by the local authority, the young person, their parents, their carers, and other 
+agencies to enable them to achieve their aspirations and make a successful 
+ 
+ 
+  
+ 
+25 
+ 
+transition to adulthood. In 2021, 71% of eligible young people had a pathway plan. 
+Further, 56% of eligible young people had a pathway co-ordinator (Table 7).  
+Table 7. Pathway plans and pathway co-ordinators of young people who were 
+at least 16 years of age on the date they ceased to be looked after [1],[2] 
+  
+Number  
+Percentage 
+2016 
+2021 
+2016 
+2021 
+With pathway plan 
+838 
+994 
+65% 
+71% 
+Without pathway plan 
+445 
+411 
+35% 
+29% 
+With pathway co-ordinator 
+923 
+788 
+72% 
+56% 
+Without pathway co-ordinator 
+360 
+617 
+28% 
+44% 
+Total 
+1,283 1,405 100% 100% 
+[1] Figures include all episodes of ceasing to be looked after beyond 16 years of age (i.e. a young 
+person may be counted more than once). 
+[2] It may be the case that some young people who don't have a relevant pathway plan/coordinator 
+may be receiving similar support from adult services instead. 
+5.4.2 Continuing care 
+Young people aged 16 years or over who are looked after in foster, kinship, or 
+residential care are eligible to remain in their current care placement until the age of 
+21 – also known as Continuing Care17. In 2021, 534 young people were in 
+Continuing Care. 
+5.4.3 Aftercare  
+Aftercare services18 refer to local authorities’ duty to provide advice, guidance, and 
+assistance for all care leavers who cease to be looked after on or after their 16th 
+birthday, and are below 26 years of age. This provision applies to all care leavers 
+regardless of the placement type while looked after. Social services provide this 
+support for young people who have experienced care and who are moving on to 
+independence. In 2021, 54% of young people eligible for aftercare support were in 
+receipt of aftercare services (Table 8).  
+ 
+ 
+                                             
+17 A young person receiving Continuing Care will no longer be defined as 'looked after' but will 
+continue to receive the same support. 
+18 Since April 2015, aftercare eligibility was extended to cover all care leavers up to, and including, 
+people aged 25 years (where it previously only covered up to their 21st birthday). 
+ 
+ 
+  
+ 
+26 
+ 
+Table 8. Number of young people eligible for aftercare services on 31 July  
+  
+Number  
+Percentage 
+2016 
+2021 
+2016 
+2021 
+In receipt of aftercare 
+3,054 3,931 
+66% 
+54% 
+Not in receipt of aftercare 1,548 3,392 
+34% 
+46% 
+Total 
+4,602 7,323 100% 100% 
+5.4.4 Demographic profiles of young people receiving aftercare services  
+Of the eligible young people receiving aftercare services, 55% were male and 45% 
+were female. The highest proportion of eligible young people in receipt of aftercare 
+services were those aged 19-21 years (58%; Table 9). The lowest proportion of 
+children in receipt of aftercare services were those aged 16 years (46%). 
+Table 9. Number of young people eligible for aftercare services on 31 July 2021 
+by age[1] 
+Status 
+16 
+17 
+18 
+19-21 
+22+ 
+Total 
+In receipt of aftercare 
+118 
+311 
+619 
+1,584 
+1,299 
+3,931 
+Not in receipt of aftercare 
+136 
+264 
+544 
+1,150 
+1,298 
+3,392 
+Total eligible for aftercare 
+254 
+575 
+1,163 
+2,734 
+2,597 
+7,323 
+In receipt of aftercare 
+46% 
+54% 
+53% 
+58% 
+50% 
+54% 
+Not in receipt of aftercare 
+54% 
+46% 
+47% 
+42% 
+50% 
+46% 
+Total eligible for aftercare 
+100% 
+100% 
+100% 
+100% 
+100% 
+100% 
+[1] Age on 31 July 2021. 
+6 
+Adoption services  
+An adoption service makes arrangements in connection with the adoption of 
+children. This does not include when the proposed adopter is a relative of the child. 
+There were 38 adoption services operating in Scotland in 2020, 32 local authority 
+adoption services and six independent adoption services. In 2020, 232 new adoptive 
+households were approved, down from 259 in 2019 and continuing a downward 
+trend. The year-on-year decrease is only in the local authority sector, with 
+independent services showing a flatter trend. There were 186 approved households 
+at 31 December 2020 waiting for a child to be placed. At the same time there were 
+148 children and young people approved for adoption and waiting to be matched to 
+an adoptive household. Of these, 47% were part of a family group (an increase from 
+31% the previous year) and 30% had been waiting for over one year. In 2020 there 
+were 225 children approved for adoption, 207 children placed with their new adoptive 
+families and 206 children legally adopted. 
+ 
+ 
+  
+ 
+27 
+ 
+7 
+ Secure Care Accommodation  
+Secure care accommodation is a locked residential care setting that provides 
+intensive trauma-informed support, care, and education to children aged 12-18 years 
+who may be a significant risk to themselves or others in the community. A secure 
+care placement can only be authorised following a decision through the Children’s 
+Hearing system, court, or as an emergency placement for a looked after child for up 
+to 72 hours before attending a Hearing or court. 
+7.1 Capacity 
+In Scotland there are five secure care accommodation units in total. As at 31 July 
+2021, there were 84 beds available in five secure units (of which, one is a local 
+authority run setting and four are independent) in Scotland, compared with 90 beds 
+in 2014. In 2021, the annual average number of residents was 76, compared with 74 
+in 2014.   
+7.2 Admissions  
+In 2021, 177 young people were admitted to secure care accommodation (rate of 
+0.31 per 1,000), compared with 232 young people in 2014 (rate of 0.39 per 1,000; 
+Chart 11). Admissions may include young people who are from elsewhere in the UK. 
+Chart 11. Rate per 1,000 of young people admitted to Secure Care, 2014-2021 
+[1] Rate per 1,000 is calculated using relevant NRS mid-year population estimates for those aged 10-
+19 years. 
+[2] Young people can be admitted more than once during the year. 
+ 
+ 
+  
+ 
+28 
+ 
+7.3 Demographic profiles of residents 
+In 2021, 56% of residents were male and 44% were female. The highest proportion 
+were over the age of 15 (72%; Chart 12). 
+Chart 12. Age of residents,  at 31 July 2021 
+ 
+In 2021, 23% of residents had a disabilty19, while the remaining 77% either did not 
+have a disability, or this information was not known.  
+8 
+Other welfare and support services  
+The needs of children and families supported by social services differ widely and do 
+not always require the statutory approaches available in child protection procedures 
+or the children’s hearing system. Some have needs which can be addressed simply 
+and swiftly through appropriate interventions and support. Other children and 
+families may require longer term and intensive support for complex and long-lasting 
+needs.   
+Children who are at risk of becoming looked after or being placed into residential 
+care may need support to remain with their families in a manner that is safe, 
+nurturing and which promotes their welfare. Social services are significantly involved 
+in multi-agency whole system and Getting It Right For Every Child20 (GIRFEC) 
+approaches. These include early and effective interventions which support the child 
+                                             
+19 This is defined as having a mental or physical impairment which has a substantial and long-term 
+adverse effect on their ability to carry out normal day-to-day activities. 
+20 GIRFEC is the national approach which supports families by making sure children and young 
+people can receive the right help, at the right time, from the right people. The aim is to help them to 
+grow up feeling loved, safe and respected so that they can realise their full potential. If children need 
+extra help, GIRFEC is a way for families to work in partnership with people who can support them. 
+12%
+17%
+21%
+51%
+    13 years or under
+    14 years
+    15 years
+    16 years or over
+ 
+ 
+  
+ 
+29 
+ 
+and their family (where child welfare concerns emerge) to avoid crises, reduce the 
+risks of offending behaviours by the child and prevent the need further down the line 
+for statutory interventions or for children to become looked after. This will involve 
+working within a multidisciplinary forum for children who are neither categorised as 
+“looked after” children nor placed on the child protection register. Social workers will 
+attend meetings with universal services (such as education and certain healthcare 
+services) where a child wellbeing concern has been identified. This will happen 
+under the GIRFEC framework which ensures that support for the child, from the right 
+people, is put in place at the most appropriate time through a single planning 
+process that may result in a single child’s plan coordinated by a Lead Professional. 
+Referrals may also be made for children, young people, and families to targeted 
+services provided by third and independent sector organisations which play an 
+important role in improving outcomes for children and families. Services may include 
+befriending, mentoring, outreach, and intensive family support. Delivery of the whole 
+system and GIRFEC approaches have contributed to the downward trends in recent 
+years of children who are referred to the children’s reporter, and for the length of 
+time that children remain on child protection registers. 
+In order to avoid bringing children into the criminal justice system, social services 
+support diversion from prosecution. This may include offence and behaviour focused 
+work through addressing the needs of children and young people who have offended 
+and/or who are at risk of doing so. This is often carried out either by children and 
+families social work, youth justice social work or criminal justice teams and provides 
+early and effective interventions and diversions from the courts and the children’s 
+hearings system whilst also reducing the risks of (re)offending. Other interventions 
+include diversion programmes.  
+The services provided under section 22 of the Children (Scotland) Act 1995 local 
+authority duty includes services for disabled children under the age of 18, children 
+affected adversely by the disability of any other person in the family, and children 
+whose health or development may be affected or may fall below a reasonable 
+standard without services from the local authority. Social work services will often 
+route the child and their family to other professional services such as speech and 
+language therapy, psychology, addictions and a range of healthcare provision. 
+The Social Care (Self-Directed Support) Act 2013 affects the way that particular 
+forms of support for children and families are arranged and provided to children and 
+families. In particular, it provides the opportunity for children and families to take 
+greater control over the support provided to them. The 2013 Act imposes a further 
+duty to provide choice and flexibility with respect to the relevant support to children 
+or families.  It requires the local authority to provide a range of options to the 
+child/family. In a great number of circumstances (including all support to children 
+affected by disability but not restricted to such support) the provision of alternatives 
+ 
+ 
+  
+ 
+30 
+ 
+such as direct payments or individual services funds can provide a creative and 
+positive means by which to meet the child's needs. However, in some instances the 
+local authority's safeguarding function will affect the form of support which is 
+necessary to safeguard the child's wellbeing, and therefore the extent to which 
+additional choice and control is possible. 
+ 
+ 
+ 
+  
+ 
+31 
+ 
+9 
+Workforce 
+This section relates to the workforce involved in the processes described above, 
+using SSSC sources. Where possible, the most recent available data is reported.   
+9.1 Headcount and composition  
+In 2020, the overall headcount for children’s social services was 15,830 – a 5% 
+increase since 2015 (Table 10). The two largest subsectors in children’s social 
+services were residential child care21 (accounting for 55% of the total headcount), 
+and fieldwork services22 (accounting for 37% of the total headcount). The Public 
+Service Reform Scotland Act 2010 distinguishes between registered care services 
+on one hand, and social work services (of which fieldwork services are the essential 
+part) on the other. 
+Since 2015, the greatest percentage increase in headcount was observed in 
+residential childcare (+13%). Meanwhile, the greatest percentage decrease was 
+observed for fostering services (-14%).  
+Table 10. Workforce headcount 2015 and 2020[1],[2] 
+Children's service 
+2015 
+ 2020 
+% change since 
+2015 
+Adoption  
+460 
+420 
+-9% 
+Fieldwork 
+5,960 
+5,920 
+-1% 
+Fostering  
+980 
+840 
+-14% 
+Residential child care  
+7,650 
+8,650 
++13% 
+Total 
+15,050 
+15,830 
++5% 
+[1] This excludes: 
+a) personal assistants employed directly by recipients of self-directed support (SDS) - these are 
+thought to work primarily with adults; 
+b)  "headquarters" staff in private and voluntary sector care providers who aren't employed directly in 
+a registered care service; and 
+c) staff employed by private and voluntary sector providers which have been commissioned by local 
+authorities to deliver some of the local authority’s social work functions. 
+[2] Headcount of filled posts; a small amount of double-counting of individuals may exist. Figures are 
+rounded to the nearest 10 which means that individual columns may not sum to the totals. All 
+estimated total staff figures are rounded to the nearest 10 to express the uncertainty inherent in these 
+estimates. 
+                                             
+21 These services are care homes, special school accommodation services and secure 
+accommodation services for children who are looked after away from home. 
+22 Local authority fieldwork staff usually based in local offices providing services to children and 
+families. Staff will include qualified social workers. The Public Service Reform Scotland Act 2010 
+distinguishes between registered care services on one hand, and social work services (of which 
+fieldwork services are the essential part) on the other. 
+ 
+ 
+  
+ 
+32 
+ 
+Between 2015 and 2016 the headcount of staff working in children’s social services 
+decreased slightly, before gradually increasing thereafter (Chart 13). 
+Chart 13. Workforce headcount, 2015-2020 
+ 
+9.2 Employer type  
+In 2020, 58% (9,120) of children’s social services workforce were employed by a 
+public employer, 27% (4,250) were employed by a voluntary sector employer, and 
+15% (2,450) were employed by the private sector (Table 11). 
+Table 11. Distribution of workforce headcount by employer type 2020 [1] 
+Children's service 
+Public 
+Private 
+Voluntary 
+Total 
+Adoption  
+330 
+- 
+90 
+420 
+Fieldwork  
+5,920 
+- 
+- 
+5,920 
+Fostering  
+430 
+- 
+410 
+840 
+Residential child care  
+2,440 
+2,450 
+3,750 
+8,650 
+Total 
+9,120 
+2,450 
+4,250 
+15,830 
+[1] Headcount of filled posts; a small amount of double-counting of individuals may exist. Figures are 
+rounded to the nearest 10 which means that individual columns may not sum to the totals. All 
+estimated total staff figures are rounded to the nearest 10 to express the uncertainty inherent in these 
+estimates. 
+Since 2015, the distribution of workforce across the public, private and voluntary 
+sectors has remained relatively stable (Chart 14).  
+ 
+ 
+ 
+ 
+  
+ 
+33 
+ 
+Chart 14. Distribution of workforce headcount by employer type, 2015-2020 
+ 
+9.3 Residential child care services  
+This section focuses on additional data breakdowns for residential child care 
+services sub-sector. Please note that the more detailed breakdowns are only 
+currently available for 2019. This sub-sector includes: 
+1) Care homes for children and young people – provide care and 
+accommodation for looked after children with no specific further needs. 
+2) Residential special schools – provide care and accommodation for children 
+with additional educational needs. 
+3) Secure accommodation services – provide care and accommodation for 
+looked after children in a secure environment. 
+ 
+In 201923, 8,420 staff worked in residential child care services, with the largest 
+proportion (68%) working within care homes for children and young people (Chart 
+15). 
+ 
+ 
+                                             
+23 In 2020, there were 8,650 staff working in residential child care services, however, more detailed 
+breakdowns are not available for this figure. As such, 2019 data is reported here. 
+ 
+ 
+  
+ 
+34 
+ 
+Chart 15. Distribution of services by service type  
+ 
+Of all residential child care staff, 29% were employed by a public sector employer, 
+27% by a private sector employer, and 43% by a voluntary sector employer.  
+Table 12. Distribution of services by service type and employer type in 
+residential child care, 2019 
+Service type 
+Public Private Voluntary 
+Total 
+Care homes for children and young people 
+2,440 
+1,790 
+1,510 5,740 
+Residential special school 
+0 
+510 
+1,750 2,260 
+Secure accommodation service 
+20 
+0 
+400 
+420 
+Residential child care 
+2,460 
+2,300 
+3,660 8,420 
+9.3.1 Post characteristics 
+The majority (67%) of staff in residential child care worked in a full time post, with a 
+median of 37 hours worked across all staff. Further breakdowns by service type are 
+presented in Table 13. 
+ 
+ 
+ 
+ 
+  
+ 
+35 
+ 
+Table 13. Percentage of staff by part time/full time in residential child care, 
+2019 
+Service type 
+Part time Full time 
+Care homes for children and young people 
+36% 
+64% 
+Residential special school 
+29% 
+71% 
+Secure accommodation service 
+20% 
+80% 
+Residential child care 
+33% 
+67% 
+In terms of job function, the majority of residential child care staff (86%) constituted 
+care staff. A smaller proportion included auxiliary staff (8%) and managers (6%). 
+Further breakdowns by service type are presented in Table 14. 
+Table 14. Percentage of staff by job function in residential childcare, 2019 
+Service type 
+Auxiliary Care Managers 
+Care homes for children and young people 
+4% 
+90% 
+6% 
+Residential special school 
+16% 
+78% 
+6% 
+Secure accommodation service 
+22% 
+73% 
+4% 
+Residential child care 
+8% 
+86% 
+6% 
+In terms of contract type, 80% of residential child care staff were on permanent 
+contracts. Further breakdowns by service type are presented in Table 15. 
+Table 15. Percentage of staff by contract type in residential child care, 2019 
+Service type 
+Permanent Other[1] 
+Care homes for children and young people 
+79% 
+21% 
+Residential special school 
+81% 
+19% 
+Secure accommodation service 
+84% 
+16% 
+Residential child care 
+80% 
+20% 
+[1] Other includes the following type of contracts: temporary, bank, sessional, casual/relief, as well as 
+other/not known. 
+9.3.2 Demographics  
+The median age of staff in residential childcare was 42 years. Further breakdowns 
+by service type are presented in Table 16.  
+ 
+ 
+ 
+ 
+  
+ 
+36 
+ 
+Table 16. Median age of residential child care workforce, 2019 
+Service type 
+ Median Age 
+Care homes for children and young 
+people 
+42 
+Residential special school 
+40 
+Secure accommodation service 
+33 
+Residential child care 
+42 
+The majority (70%) of the residential child care workforce were female. Further 
+breakdowns by service type are presented in Table 17. 
+Table 17. Percentage of staff by sex in residential child care, 2019 
+Service type 
+Female 
+Male 
+Care homes for children and young people 
+73% 
+27% 
+Residential special school 
+65% 
+35% 
+Secure accommodation service 
+60% 
+40% 
+Residential child care 
+70% 
+30% 
+9.4 Fieldwork Services 
+This section draws from Local authority post types tables published by the SSSC, 
+the most recent of which relates to 2020 (as at first Monday in December). Please 
+note that these figures are different from those reported for 2019 as these relate to 
+different published data and time periods. 
+This data includes all filled posts in local authority social work services where those 
+employed do not work in a registered care service. This therefore covers staff 
+working primarily in fieldwork social work services.  
+In 2020, 5,916 staff worked in fieldwork social work services. The majority of this 
+workforce were female (85%). 
+9.4.1 Post characteristics 
+The majority (70%) of staff in fieldwork social work services worked in a full time 
+post. In terms of job function, 39% of the fieldwork services work force constituted 
+main grade social workers and 17% included social work assistants. Proportions of 
+other roles are summarised in Table 18. 
+ 
+ 
+ 
+ 
+  
+ 
+37 
+ 
+Table 18.  Percentage of staff by job function in fieldwork social work services, 
+2020[1] 
+Role 
+Number of staff 
+% of all staff 
+Service managers 
+112 
+2% 
+Team leaders/managers 
+368 
+6% 
+Senior social workers 
+453 
+8% 
+Main grade social workers 
+2,292 
+39% 
+Advocacy/rights staff 
+13 
+0% 
+Senior occupational therapists 
+0 
+0% 
+Occupational therapists 
+14 
+0% 
+Other qualified fieldwork staff 
+846 
+14% 
+Trainee social workers 
+9 
+0% 
+Social work assistants 
+994 
+17% 
+Occupational therapists assistants 
+2 
+0% 
+Support services (including admin/clerical) 
+813 
+14% 
+Total  
+5,916 
+100% 
+[1]This does not include central/strategic staff. 
+10 Conclusion 
+This report provides an overview of social services provided to children and families 
+in Scotland. This report should be considered in light of its limitations and that only 
+readily available data was used. Therefore, further analysis may be necessary on the 
+delivery of children’s services. 
+ 
+ 
+Social Research series
+ISSN 2045-6964
+ISBN 978-1-80435-491-9
+Web Publication
+www.gov.scot/socialresearch
+PPDAS1092982 (06/22)
+research
+social
+© Crown copyright 2022
+You may re-use this information (excluding logos and images) free of charge 
+in any format or medium, under the terms of the Open Government Licence. 
+To view this licence, visit http://www.nationalarchives.gov.uk/doc/open-
+government-licence/ or e-mail: psi@nationalarchives.gsi.gov.uk.
+Where we have identified any third party copyright information  
+you will need to obtain permission from the copyright holders concerned.
+The views expressed in this report are those of the researcher and
+do not necessarily represent those of the Scottish Government or
+Scottish Ministers.
+This document is also available from our website at www.gov.scot.
+ISBN: 978-1-80435-491-9
+The Scottish Government
+St Andrew’s House
+Edinburgh
+EH1 3DG
+Produced for  
+the Scottish Government  
+by APS Group Scotland
+PPDAS1092982 (06/22)
+Published by  
+the Scottish Government,  
+June 2022

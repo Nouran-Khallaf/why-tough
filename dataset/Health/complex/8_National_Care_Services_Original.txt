@@ -1,0 +1,1065 @@
+Category: National Care Services
+Version: Original
+URL: https://www.gov.scot/binaries/content/documents/govscot/publications/research-and-analysis/2022/06/national-care-service-adult-social-care-scotland-equality-evidence-review/documents/adult-social-care-scotland-equality-evidence-review/adult-social-care-scotland-equality-evidence-review/govscot%3Adocument/adult-social-care-scotland-equality-evidence-review.pdf
+
+ 
+ 
+ 
+1 
+NATIONAL CARE SERVICE 
+ 
+Adult Social Care in Scotland - Equality 
+Evidence Review 
+ 
+This paper provides an overview of evidence related to equality in adult social 
+care in Scotland. It focuses on groups with protected characteristics under the 
+Equality Act 2010, as well as those who experience socio-economic 
+disadvantage. It forms one of an initial collection of contextual papers, setting out 
+key sources of information about social care and related areas in Scotland, 
+linking to the National Care Service Consultation proposals published in August 
+2021. 
+Key findings 
+• People who access social care, unpaid carers, and social care workers 
+are diverse groups with a broad range of needs and experiences. 
+• In 2020/21 more than three quarters (77%) of people receiving social care 
+support and services in Scotland were aged 65 and older, and around 
+three-fifths (61%) were female, although this varies by age group. 
+• However, people of all ages access social care support, and there has 
+been an overall increase in the number of people receiving adult social 
+care in Scotland across all age groups in recent years. 
+• Women are more likely than men to report that they provide regular 
+unpaid care. Caring prevalence varies by age, increasing from 12% of 
+those aged 16-44, to 28% of those aged 45-64, before decreasing to 
+14%-18% among those aged 65 and over. 
+• In 2020, 80% of adult social care staff were female. The social care 
+workforce is older than the general workforce. 
+• There is little data and evidence on the scope and experiences of some 
+protected characteristic groups most notably, gender reassignment and 
+religion or belief. 
+• Some groups have been particularly disadvantaged by the Coronavirus 
+pandemic, including: older people; disabled people and people who had 
+been advised to shield. 
+ 
+2 
+Contents 
+ 
+ 
+1. Introduction ....................................................................................................... 3 
+2. Context ............................................................................................................. 4 
+3. Age ................................................................................................................... 5 
+4. Disability ......................................................................................................... 11 
+5. Sex .................................................................................................................. 13 
+6. Pregnancy and Maternity ................................................................................ 16 
+7. Gender reassignment ..................................................................................... 17 
+8. Sexual orientation ........................................................................................... 17 
+9. Race ............................................................................................................... 19 
+10. Religion or belief ........................................................................................... 21 
+11. Socio-economic status .................................................................................. 22 
+12. Conclusion .................................................................................................... 24 
+ 
+ 
+3 
+1. Introduction 
+This paper presents an overview of evidence related to equality in adult social care 
+in Scotland. It focuses on groups with protected characteristics under the Equality 
+Act 2010, as well as those who experience socio-economic disadvantage. The 
+purpose of this overview is to bring together key data sources and national 
+statistics, where these are available. It does not provide exhaustive or fully 
+comprehensive coverage of all social care services but provides an insight into how 
+caring and use of social care services and support vary by equality groups and 
+socio-economic status. The focus is on adult social care but data that covers all age 
+groups is indicated throughout. In addition, the paper draws on other national 
+evidence to provide insights into variations in usage and experiences for groups 
+with protected characteristics and those who experience socioeconomic 
+disadvantage.  
+For each of the protected characteristics, evidence is presented separately in 
+relation to the experiences of people who access social care, unpaid carers, and 
+social care workers. However, it should be noted that these are not distinct groups 
+in practice; for example, people who access social care themselves may also be 
+providing unpaid care for others, and some unpaid carers are also employed as 
+social care workers.  
+This paper forms one of an initial collection of contextual papers, setting out key 
+sources of information about social care and related areas in Scotland, linking to 
+the National Care Service Consultation proposals published in August 2021.  
+The collection consists of the following 6 papers on adult social care: 
+ 
+1. 
+Scotland’s Health and Demographic Profile 
+2. 
+People who Access Social Care and Unpaid Carers in Scotland 
+3. 
+Social Care Support and Service Provision in Scotland 
+4. 
+Experiences of Social Care and Caring in Scotland 
+5. 
+The Adult Social Care Workforce in Scotland 
+6. 
+Adult Social Care in Scotland - Equality Evidence Overview 
+ 
+ 
+And papers on: 
+ 
+7. 
+Children’s Social Services 
+8. 
+Justice Social Work in Scotland 
+9. 
+Learning and evidence from national social care systems in Nordic and 
+Scandinavian countries 
+10. Integrated Care Studies: The SCFNuka (Alaska) and Canterbury (New 
+Zealand) Models 
+ 
+While the focus of this set of evidence papers is social care, there is an 
+intrinsic link between social care and social work. Social work is a statutory 
+role which involves assessing need, managing risk, and promoting and 
+4 
+protecting the wellbeing of individuals and communities. Social care support is 
+an umbrella term for adult, children’s and justice services which directly 
+support people to meet their personal outcomes. A social work evidence 
+paper is being prepared for publication in summer 2022. 
+ 
+2. Context 
+A wide range of social care support and services are accessed by people of all 
+ages in Scotland. Social care support can be provided in people’s homes or wider 
+community or in residential settings such as care homes, and is funded publicly and 
+privately. 
+An estimated 1 in 25 people of all ages in Scotland were reported as receiving 
+social care support and services at some point during 2020/211 2. This includes an 
+estimated: 
+• 93,280 people who received home care3; 
+• 130,000 people who had an active community alarm and/or a telecare 
+service; 
+• 44,000 people who received funding towards a long stay care home 
+place; 
+• and 6,300 people who were supported during a short stay in a care home 
+(such as for ‘respite’ (short breaks)4 or for reablement)5. 
+Further data and evidence on the profile of the population who access care and 
+support in Scotland can be found in People who Access Social Care and Unpaid 
+Carers in Scotland. 
+Unpaid carers provide care and support to family members, friends and neighbours, 
+who may be living with disability, physical or mental ill-health, frailty or substance 
+misuse. The number of carers living in Scotland was estimated to be around 
+700,000 to 800,000 before the pandemic, however there is evidence to suggest this 
+has since increased. In 2020, it was estimated that there were around 839,000 
+adult carers living in Scotland6. However, Carers UK estimate that the number of 
+unpaid carers in Scotland could have increased to over 1 million since the 
+                                         
+1 This is based on social care information provided by health and social care partnerships in 
+Scotland for people that are fully or partially funded by the Local Authority, therefore it does not 
+include people who are entirely self-funding their care and support. 
+2 Public Health Scotland (2022) Insights in Social Care: Statistics for Scotland 
+3 Public Health Scotland (2022) People supported - Insights in social care: statistics for Scotland - 
+Support provided or funded by health and social care partnerships in Scotland 2019/20 - 2020/21 
+4 ‘Respite’ is used here as this is the term used in the source data.    
+5 Public Health Scotland (2022) Insights in Social Care: Statistics for Scotland 
+6 Scottish Government (2021) Scottish Health Survey – telephone survey – August/September 
+2020: main report 
+5 
+coronavirus outbreak7. Further data and evidence about unpaid carers in Scotland 
+can be found in People who Access Social Care and Unpaid Carers in Scotland. 
+The social care sector is a major employer in Scotland. In 2020, there were 
+134,640 people employed in the adult social care sector, with a whole time 
+equivalent of 100,0608. Further data and evidence about the social care workforce 
+in Scotland can be found in The Adult Social Care Workforce in Scotland. 
+2.1 Protected Characteristics 
+The Equality Act 2010 stipulates that it is against the law to discriminate against 
+someone because of a protected characteristic. The protected characteristics 
+specified in the Act are: age; disability; sex; pregnancy and maternity; gender 
+reassignment; sexual orientation; race; religion or belief; and marriage and civil 
+partnership9. With the exception of marriage and civil partnership10, each of these 
+protected characteristics are set out in the subsequent sections. An additional 
+section on socioeconomic status is included, although this is not a protected 
+characteristic, because it is widely recognised that socioeconomic disadvantage is 
+associated with inequality of outcomes11. 
+3. Age 
+The Equality Act 2010 defines the protected characteristic of age in terms of 
+persons of a particular age, or those belonging to a particular age group12. This 
+section brings together data and evidence on adult social care and age. Evidence is 
+presented here in relation to the experiences of people who access social care, 
+unpaid carers, and social care workers. 
+ 3.1 People who access social care  
+Although people of all ages access social care, patterns of use vary by age group. 
+Further information can be found in People who Access Social Care and Unpaid 
+Carers in Scotland. 
+There is a clear relationship between long-term health conditions or disability and 
+increasing age. In 2020, the Scottish Health Survey found that the prevalence of 
+any long-term condition increased with age, from 32% among those aged 16-44, to 
+68% among those aged 75 and over13. The proportion of individuals who have two 
+                                         
+7 Carers Week (2020) Carers Week 2020 Research Report  
+8 Scottish Social Services Council (2021) Scottish Social Service Sector: Report on 2020 
+Workforce Data 
+9 UK Government (2010) Equality Act 2010 
+10 Under the Act, marriage and civil partnership is a protected characteristic only in respect of 
+protection from discrimination at work 
+11 See: Scottish Government (2021) Fairer Scotland Duty: guidance for public bodies 
+12 UK Government (2010) Equality Act 2010 
+13 Scottish Government (2021) Scottish Health Survey – telephone survey – August/September 
+2020: main report 
+6 
+or more medical conditions simultaneously (referred to as ‘multimorbidity’) has risen 
+across high income countries, including the UK14, partly reflecting increases in life 
+expectancy across recent decades. Projections suggest that this trend is set to 
+continue15. A recent cross-sectional study which linked national health and social 
+care data to explore multimorbidity and social care use in those aged over 65, 
+found that the vast majority (93.3%) of those receiving social care had 
+multimorbidity16. While these trends reflect the ageing profile of populations, it is 
+important to note that multimorbidity is not restricted to older people. Further 
+information about multimorbidity can be found in Scotland’s Health and 
+Demographic Profile. 
+Long-term health conditions, disability, and age are all associated with increased 
+likelihood of needing care and support and the likelihood of needing social care 
+increases with age; in 2020/21, consistent with previous years, more than three 
+quarters (77%) of people receiving social care support and services in Scotland 
+were aged 65 and older. Furthermore, almost half (463.5 per 1,000 social care 
+clients) of the people receiving social care support were in the ‘elderly and frail’17 
+client group. Between 2017-18 and 2020-21, there has been an overall increase in 
+the number of people receiving social care in Scotland across all age groups18. 
+There is also some evidence from England to suggest that the number of younger 
+adults who require social care support has increased over the last five years, with 
+further increases projected over the next five years19. 
+There are variations in assessed support needs between age groups. In 2020/21, 
+personal care was identified as a support need for around 56% of people aged 65 
+and over whose needs were assessed, whereas personal care was identified as a 
+support need for just under a third of people aged 18-64 whose needs were 
+assessed. The vast majority of assessed support needs for people aged 65 and 
+over were for personal care and equipment and temporary adaptations. For people 
+aged 18-64 whose needs were assessed, there was a much wider range of 
+assessed support needs, including: personal care; domestic care; housing support, 
+                                         
+14 The Academy of Medical Sciences (2018) Multimorbidity: A Priority for Global Health Research 
+15 Whitty C et al (2020) Rising to the challenge of multimorbidity BMJ 2020;368:l6964 
+16 Henderson, D.A.G.; Atherton, I.; McCowan, C.; Mercer, S.W. & Bailey, N. (2021). Linkage of 
+national health and social care data: a cross-sectional study of multimorbidity and social care use 
+in people aged over 65 years in Scotland. Age & Ageing, 50: 176-182. 
+17 ‘Elderly and frail’ is used here as this is the term used in the source data.    
+18 Public Health Scotland (2022) People supported - Insights in social care: statistics for Scotland - 
+Support provided or funded by health and social care partnerships in Scotland 2019/20 - 2020/21 
+19 Idriss O, Allen L, Alderwick H. (2020) Social care for adults aged 18–64. Health Foundation; 
+2020  
+7 
+social, educational and recreational; equipment and temporary adaptations; and 
+‘respite’20 21. 
+There are substantial age related variations within the population aged 65 and over, 
+as service provision generally increases with age. The proportion of the population 
+receiving home care increases from a rate of 25 people per 1,000 population for 
+ages 65-74, to 87 people per 1,000 population for ages 75-84, and 255 people per 
+1,000 population for ages 85 and over. Many people aged 65 and over in receipt of 
+home care receive a relatively small amount of support, with around a third of this 
+group receiving between 4 and 10 hours per week, and just over a third receiving 
+10 or more hours per week. In contrast, around half of people aged 18 to 64 
+receiving home care support received 10 or more hours per week22. 
+The vast majority of people reported to have a community alarm or telecare are 
+aged 65 and over, with the highest rates in the oldest age groups. For people aged 
+65-74, the community alarm/telecare rate per 1,000 population is 30, rising to 112 
+for the 75-84 age group, and 315 for those aged 85 and over23. Additionally, people 
+in the older age groups are more likely to have both a community alarm or telecare 
+and home care. Just over one third (37.3%) of people aged 65-74 with an alarm or 
+telecare also receive home care, and this proportion rises to nearly half (47.1%) of 
+people aged 85 and over. This differential may reflect the higher prevalence of long 
+term conditions, including frailty and dementia, and more complex needs 
+associated with these conditions in older age groups, as well as potentially reducing 
+informal support networks being available as people get older24. 
+Older adults are also much more likely to receive social care support in residential 
+and nursing homes than younger adults. The majority (90.8%) of long stay care 
+home residents are aged 65 and over, with more than half of this group aged 85 
+and over25. 
+People aged 65 and over who receive social care support are also much less likely 
+to have a direct payment (Self-directed Support26 Option 1) than those aged 18-64, 
+                                         
+20 ‘Respite’ is used here as this is the term used in the source data.    
+21 Public Health Scotland (2022) Self-directed Support - Insights in social care: statistics for 
+Scotland - Support provided or funded by health and social care partnerships in Scotland 2019/20 - 
+2020/21 
+22 Public Health Scotland (2022) Home care - Insights in social care: statistics for Scotland - 
+Support provided or funded by health and social care partnerships in Scotland 2019/20 - 2020/21 
+23 Public Health Scotland (2022) Technology enabled care - Insights in social care: statistics for 
+Scotland - Support provided or funded by health and social care partnerships in Scotland 2019/20 - 
+2020/21 
+24 Public Health Scotland (2020) Insights in Social Care: Statistics for Scotland - Support provided 
+or funded by health and social care  
+25 Public Health Scotland (2022) Care home - Insights in social care: statistics for Scotland - 
+Support provided or funded by health and social care partnerships in Scotland 2019/20 - 2020/21 
+26 Self-directed Support aims to ensure that care and support is delivered in a way that supports 
+choice and control over one's own life and which respects the person's right to participate in 
+society. The Social Care (Self-directed Support) (Scotland) Act 2013 came into effect in April 2014. 
+8 
+and much more likely to have their support chosen and arranged by the local 
+authority (Self-directed Support Option 3)27. Research by the ALLIANCE and Self 
+Directed Support Scotland (SDSS) highlighted particular barriers to accessing 
+information about Self-directed Support for older people, and suggested actions to 
+address these barriers, including: increasing professional knowledge and 
+awareness; streamlining and signposting; and ensuring people can access 
+information in a range of formats28. 
+The majority of people who receive social care services report being satisfied with 
+them. Analysis of Health and Care Experience Survey data found that, when asked 
+to rate their help, care or support services (excluding care/help received from 
+friends and family), 62% of respondents rated services ‘good’ or ‘excellent’ in 2021-
+22, while 17% rated services ‘poor’ or ‘very poor’. Males29 were proportionally more 
+likely than females to rate their quality of care as positive, at 64% and 61% 
+respectively. Similarly, people aged 65 and over were proportionally more likely to 
+rate their quality of care as positive compared to the national figure, at 68% and 
+59% respectively. The oldest age cohort was 9 percentage points more likely to 
+rate their services positively compared to the youngest age cohort (aged 17-24) in 
+2021-22 (68% and 59% respectively)30. 
+3.2 Unpaid carers 
+People of all ages are unpaid carers, however caring may be experienced 
+differently across the life course. For example, young carers may be balancing 
+caring with education, working age carers may be balancing caring with work and 
+childcare, and older people may be balancing caring with needs associated with 
+their own health and ageing. 
+It is difficult to accurately ascertain the number of unpaid carers as data sources 
+are self-reported and some people may not identify themselves as unpaid carers. 
+However, the Scottish Health Survey provides robust data on the prevalence on 
+unpaid care within the adult population. In 2020, the Survey found that almost one 
+in five adults (19%) reported that they provided regular unpaid care, with women 
+more likely to do so than men (23% and 14% respectively). Caring prevalence also 
+varied by age, increasing from 12% of those aged 16-44 to 28% of those aged 45-
+64, before decreasing to 14% - 18% among those aged 65 and over. A similar 
+                                         
+See: Scottish Government (2014) Social Care (Self-directed Support) (Scotland) Act 2013: 
+statutory guidance 
+27 Public Health Scotland (2022) Self-directed Support - Insights in social care: statistics for 
+Scotland - Support provided or funded by health and social care partnerships in Scotland 2019/20 - 
+2020/21 
+28 ALLIANCE and Self Directed Support Scotland (2020) My Support My Choice: People’s 
+Experiences of Self-directed Support and Social Care in Scotland  
+29 ‘Males’ is used here as this is the term used in the source data.    
+30 Scottish Government (2022) Experiences of Social Care and Caring in Scotland 
+9 
+pattern was found for women, however, for men there was no clear pattern by 
+age31. 
+The Carers Census provides data about unpaid carers who are being supported by 
+their local carers services32. In 2020-21, there were 31,760 individual carers 
+reported to be supported by those local services that responded to the Carers 
+Census and around a quarter of this group were people aged 65 and over. Adults 
+aged between 18 and 64 made up a further 62% of unpaid carers being supported 
+by local services, and a further 14% of this group were aged under 18 years33. 
+The Carers Census also provides data about the number of hours spent caring and 
+suggest that caring intensity increases with age. In 2020-21, two thirds of young 
+carers spent less than 19 hours a week providing unpaid care, compared to 11% of 
+adult carers. This may reflect differences in the capacity for, and the 
+appropriateness of, higher levels of caring between adult carers and young 
+carers34. However, it should be noted that this data only includes those unpaid 
+carers who are being supported by local services and may not reflect the 
+experiences of the wider population of unpaid carers.  
+The Carers Census also suggests that adult carers and young carers were 
+impacted differently by their caring roles. In 2020-21, adult carers were more likely 
+than young carers to experience impacts on their health (56% compared to 27%), 
+finance (34% compared to 20%) and future plans (43% compared to 19%). Young 
+carers were more likely to experience an impact on their emotional well-being due 
+to their caring role than adult carers (89% compared to 74%). However, the impacts 
+of providing care varied depending on the average number of hours of care 
+provided per week; the more hours of care per week provided by carers, the more 
+likely people were to experience impacts on their health, employment and living 
+environment35. 
+UK-wide polling carried out by Carers UK found that unpaid carers aged over 65 
+were particularly worried about negative health implications of caring, specifically   
+managing the stress and responsibility associated with being a carer and the 
+negative impact on their own physical and mental health. The Carers UK report 
+also highlights difficulties in juggling work and care for working age carers, and the 
+                                         
+31 Scottish Government (2021) Scottish Health Survey – telephone survey – August/September 
+2020: main report 
+32 Carers Census data may not include all carers who are in contact with carer centres as informal 
+contact with carers would likely not be recorded in their systems. Carers Census data should be 
+treated with caution, as it is taking time for providers to implement systems to accurately collect 
+and record the requested information for the Carers Census following a significant change in 
+practice. 
+33 Scottish Government (2021) Carers Census, Scotland, 2019-20 and 2020-21 
+34 Scottish Government (2021) Carers Census, Scotland, 2019-20 and 2020-21 
+35 Scottish Government (2021) Carers Census, Scotland, 2019-20 and 2020-21 
+10 
+impact of unpaid care on people’s ability to also undertake paid work, leading to 
+many people giving up work to care36. 
+There is well established research about the impact of caring on young carers37. 
+Being a young carer tends to be associated with poorer health and well-being, 
+which is likely to have implications for other areas of young carers’ lives, such as 
+education and employment. Those providing more hours of care appear to have 
+worse self-reported health, however, it is not possible to say the extent to which this 
+is directly related to caring responsibilities. Other factors such as deprivation, 
+gender and support networks are also likely to have an impact. Research suggests 
+that young carers may face challenges in participating in social or leisure activities 
+and may feel isolated as a result. However, it is also important to note that young 
+carers can be positive about their caring role and feel that it brings benefits38. 
+Young carers can face challenges in balancing their caring responsibilities and 
+education and employment requirements and opportunities. Caring responsibilities 
+may influence education and employment choices, and flexibility is an important 
+factor in enabling young carers to balance different commitments. The negative 
+impact of combining caring and education may have potentially significant enduring 
+consequences for workforce participation, and geographic and social mobility, with 
+the risk of compounding deprivation and inequalities39.  
+Young carers are a diverse group of all ages and backgrounds and live in all areas 
+of Scotland. However, analysis of data from Scotland’s Census in 2011 shows that 
+caring is more common in some groups of young people than others. The data 
+suggests that as children become older, more of them regularly provide a few hours 
+of caring per week. The majority of young carers and young adult carers are 
+female. A higher proportion of young people in the most deprived areas report 
+providing care and they provide the most hours of care. Young carers in rural areas 
+may face additional challenges due to the more dispersed nature of services and 
+facilities40. 
+3.3 Social care workers 
+Scottish Social Services Council (SSSC) data show that the social care workforce 
+(not including Personal Assistants), is older than the general workforce. The 
+average age of social care workers varies between services and sectors; public 
+                                         
+36 Carers Week (2020) Carers Week 2020 Research Report  
+37 The Carers (Scotland) Act defines young carers as those aged under 18 or who are aged 18 
+and a pupil at school. However, some data sources refer to ‘young adult carers’ (aged 16–24 
+years) and ‘young carers’ (aged 4–15 years). 
+38 Scottish Government (2017) Young Carers: Review of research and data 
+39 Scottish Government (2017) Young Carers: Review of research and data 
+40 Scottish Government (2017) Young Carers: Review of research and data 
+11 
+sector services tend to have the oldest workforces (average age 51), while the 
+private sector has the youngest (average age 42)41.  
+There is no national data collected on personal assistants, however there is some 
+data on those who recently received the Scottish Government pandemic thank you 
+payment for social care workers42, which suggests that this group may also be older 
+than the general workforce. Almost half (47%) of the Personal Assistants who 
+received the thank you payment were aged 51 and over, though this may not be 
+representative of the Personal Assistant population as a whole43.  
+4. Disability 
+Disability is defined in the Equality Act 2010 as ‘a long-term limiting mental or 
+physical health condition, that has a substantial negative effect on your ability to do 
+normal daily activities that has lasted, or is expected to last, more than 12 months44. 
+The Scottish Health Survey found that just under half of adults (47%) reported that 
+they were living with a long-term health condition, with 31% reporting that they lived 
+with a limiting long-term condition, with no significant variations by sex. The 
+prevalence of any long-term condition (limiting and/or non-limiting) increased with 
+age, from 32% among those aged 16-44 to 68% among those aged 75 and over. 
+This pattern by age was similar among men and women45. 
+This section brings together data and evidence on social care and disability. 
+Evidence is presented here in relation to the experiences of people who access 
+social care, unpaid carers, and social care workers. 
+4.1 People who access social care 
+Public Health Scotland’s Insights in Social Care publication includes a breakdown 
+by client group. The client group category is determined by a Social Worker or 
+Social Care Professional and is used as a means of grouping individuals with 
+similar care needs. Whilst this is not the same as disability, it provides some insight 
+into the needs of different groups. A person can be assigned to more than one 
+client group. In 2020/21, the most common client group was “Elderly/frail” (99,015 
+people) followed “Physical or sensory disability” (76,605)46. Further data on the 
+profile of the population of people accessing social care support can be found in 
+People who Access Social Care and Unpaid Carers in Scotland.   
+                                         
+41 Scottish Government (2022) The Adult Social Care Workforce in Scotland 
+42 Scottish Government (2021) Social care Personal Assistants to receive £500 payment 
+43 Self Directed Support Scotland (2021) Thousands of Personal Assistants receive thank you 
+payment 
+44 Scottish Government (2019) Scotland's Wellbeing: national outcomes for disabled people 
+45 Scottish Government (2021) Scottish Health Survey – telephone survey – August/September 
+2020: main report 
+46 Public Health Scotland (2022) People supported - Insights in social care: statistics for Scotland - 
+Support provided or funded by health and social care partnerships in Scotland 2019/20 - 2020/21 
+12 
+The Scottish Commission for People with Learning Disabilities’ (SCLD) report data 
+for adults with learning disabilities who are known to local authorities in Scotland. 
+Many of this group will be accessing social care, but others will not be receiving 
+formal support. In 2019, there were 23,584 adults with learning disabilities known to 
+local authorities - equivalent to 5.2 people per 1000 people in the general 
+population. Many of this group lived in mainstream accommodation (61.8%), with or 
+without formal support. Just under a third (31.3%) lived with a family carer, mainly a 
+parent (77.5%). A further 14.7% of people lived in supported accommodation, and 
+7.8% lived in registered adult care homes. SCLD data show that 18.2% of adults 
+with learning disabilities known to local authorities attended a day centre47 in 
+201948. However, the data does not report how many adults with learning 
+disabilities known to local authorities receive support at home or in their 
+communities. Furthermore, the number of people attending day centres is likely to 
+have reduced since this data was collected as a result of broader shifts in service 
+provision, as well as the suspension of many day services during the pandemic49 50.  
+Research by the ALLIANCE and Self Directed Support Scotland (SDSS) explored 
+people's experience of Self-directed Support and social care in Scotland. This 
+research highlighted particular barriers to accessing information, advice and 
+support experienced by many participants, including people with mental health 
+problems, people with learning disabilities, and blind and partially sighted people. 
+This research also found some evidence of gendered assumptions in social care 
+assessments, for example, support with childcare and housework was considered 
+appropriate for a disabled mother, but neglected for a disabled father as it was 
+assumed that housework and childcare would be undertaken by their female 
+partner51. 
+4.2 Unpaid carers 
+Whilst there is limited available data about disability and unpaid carers, there is 
+considerable evidence about carers’ health and wellbeing. However, given the 
+prevalence of unpaid care and disability within the population of Scotland, 
+discussed earlier in this paper, it is likely that there is a substantial population of 
+unpaid carers who would meet the definition of disability, as set out in the Equality 
+Act 2010.  
+Analysis of Scotland’s Census data has shown that adult and young carers are 
+more likely to have a long-term condition or illness than non-carers, although this is 
+                                         
+47 ‘Day centre’ is used here as this is the term used in the source data.    
+48 Scottish Commission for People with Learning Disabilities (SCLD) (2019) Learning Disability 
+Statistics Scotland 2019  
+49 Scottish Commission for People with Learning Disabilities (SCLD) (2020) The Impact of 
+Coronavirus on People with Learning Disabilities and their Parents, Carers and Supporters  
+50 Care Inspectorate (2020) Delivering care at home and housing support services during the 
+COVID-19 pandemic 
+51 ALLIANCE and Self Directed Support Scotland (2020) My Support My Choice: People’s 
+Experiences of Self-directed Support and Social Care in Scotland 
+13 
+based on 2011 data52. According to the 2011 Census, young carers and young 
+adult carers are twice as likely as young people generally to report a mental health 
+condition: 3.7% of young carers compared to 1.4% young people without caring 
+responsibilities. However, it is unknown from the Census data if and how this may 
+be related to their caring role53.  
+UK wide surveys carried out by Carers UK found that unpaid carers were more 
+likely to experience anxiety and feel lonely, and to have lower levels of life 
+satisfaction than the general population54. Recent research carried out by Carers 
+Trust Scotland suggests that unpaid carers’ mental and physical health may have 
+been particularly affected during the pandemic. Carers Trust Scotland reported that 
+many unpaid carers were spending more time caring and had fewer opportunities to 
+get a break from caring55. Research carried out by the Care Inspectorate found that 
+isolation, anxiety and disruption had impacted unpaid carers’ mental and physical 
+wellbeing56. In addition, evidence from a nationally representative UK survey found 
+that the mental health of unpaid carers deteriorated more during lockdown than 
+non-carers57. 
+4.3 Social care workers 
+There is limited available data about disability and social care workers, which relies 
+on individual workers to disclose this information. Whilst Scottish Social Services 
+Council (SSSC) data show that at least 2% of the overall social care workforce 
+reported having a disability, this is likely to be an undercount, because disability 
+information was unknown for a further 17% of the social care workforce58.  
+5. Sex 
+The Equality Act 2010 defines the protected characteristic of sex as being a man or 
+a woman59. This section brings together data and evidence on social care and sex. 
+Evidence is presented here in relation to the experiences of people who access 
+social care, unpaid carers, and social care workers. 
+5.1 People who access social care 
+                                         
+52 Scottish Government (2015) Scotland's Carers 
+53 Scottish Government (2017) Young Carers: Review of research and data 
+54 Carers UK (2019) Getting Carers Connected 
+55 Carers Trust (2021) COVID-19 in Scotland: The impact on unpaid carers and carer service 
+support workers 
+56 Care Inspectorate (2020) Delivering care at home and housing support services during the 
+COVID-19 pandemic 
+57 Whitley, E., Reeve, K., & Benzeval, M. (2021). Tracking the mental health of home-carers during 
+the first COVID-19 national lockdown: Evidence from a nationally representative UK 
+survey. Psychological Medicine, 1-10  
+58 Scottish Social Services Council (2021) Scottish Social Service Sector: Report on 2020 
+Workforce Data 
+59 UK Government (2010) Equality Act 2010 
+14 
+Public Health Scotland’s Insights in Social Care publication reports that around 
+three-fifths (61%) of people being supported by social care services in 2020/21 
+were female. This is consistent with previous years. There were more females than 
+males60 in the older age groups, but for people aged 18 to 64 the gender split was 
+more even, with slightly more males than females. However, for children and young 
+people aged 0 to 17 receiving social care support, 68% were male. For people 
+living as long stay care home residents, there are roughly equal males and females 
+in the 65-74 age group, but in the 85 and over age group, there are three times as 
+many females than males61.  
+Research by the ALLIANCE and Self Directed Support Scotland (SDSS), which 
+explored people's experience of Self-directed Support and social care in Scotland. 
+found some variation in men and women’s experiences. For participants in this 
+study, women had generally received less information about Self-directed Support 
+options and budgets than men, and were less content with the quality of information 
+that they received62. 
+Data from England shows that older women are at three times greater risk of 
+having an unmet need for help with one or more activities of daily living (ADLs)63 
+than younger men64.  
+5.2 Unpaid carers 
+The Scotland’s Carers report in 2015 found that 59% of people providing unpaid 
+care were women, and 41% were men. This varied by age group; working age 
+women were much more likely to be carers than working age men, but in the over 
+75s age group, men were more likely to be carers than women65. More recently, the 
+Scottish Health Survey found that overall, women were more likely than men to 
+report providing regular unpaid care (23% and 14% respectively)66.  
+                                         
+60 ‘Male’ and ‘female’ are used here as these are the terms used in the source data.    
+61 Public Health Scotland (2022) People supported - Insights in social care: statistics for Scotland - 
+Support provided or funded by health and social care partnerships in Scotland 2019/20 - 2020/21 
+62 ALLIANCE and Self Directed Support Scotland (2020) My Support My Choice: People’s 
+Experiences of Self-directed Support and Social Care in Scotland 
+63 Social care needs can be estimated in various ways. For older people, the ability to perform 
+activities of daily living (ADLs) – like washing and dressing – is often used to assess levels of need 
+and how these might change over time. But ADLs are not considered to be as good an indicator of 
+social care need for younger adults, because physical disabilities and frailty are less common (see: 
+Idriss O, Allen L, Alderwick H. (2020) Social care for adults aged 18–64. Health Foundation (p.20)) 
+64 Brimblecombe N and Burchardt T (2021) Social care inequalities in England: evidence briefing. 
+Centre for Analysis of Social Exclusion, LSE 
+65 Scottish Government (2015) Scotland's Carers 
+66 Scottish Government (2021) Scottish Health Survey – telephone survey – August/September 
+2020: main report 
+15 
+Social Security Scotland report that, in November 2021, around 69% of Carer’s 
+Allowance clients were female and 31% were male67. 
+Most people will be unpaid carers at some point in their life68. However, research 
+carried out by Carers UK found that women were more likely to become unpaid 
+carers at an earlier stage in their life than men. This study also found that women 
+were more likely to be providing a higher number of hours of unpaid care than men. 
+These are important findings because they have wider implications for gender 
+inequality, affecting women’s mental and physical wellbeing69, participation in paid 
+employment and earnings over the lifetime70. 
+The Young Carers research report found that a majority of young carers in Scotland 
+were female, and highlighted evidence about gendered differences in the types of 
+care work undertaken by young people. This report also found that young female 
+carers reported poorer wellbeing compared to young male carers, particularly in the 
+16-24 year old age group71. 
+The Carers Census provides data about unpaid carers who are being supported by 
+local carers services in Scotland. In 2021, the majority of working age carers (76%) 
+being supported by local services were female. Furthermore, around 7 in 10 people 
+being supported by local services were female72. The reasons for this are not 
+known, however it may be the case that women are more likely to seek support 
+from carers services than men. 
+5.3 Social care workers 
+The vast majority of the social care workforce are women and in lower paid 
+positions73. In 2020, 80% of adult social care staff were female and 17% were 
+male74 75. In their 2019 report on ‘Fair Work in Scotland’s Social Care Sector’, the 
+Fair Work Convention proposed that the undervaluing of care work is associated 
+with perceptions of care work as being ‘women’s work’, and with the prevalence of 
+women employed in the sector. This report also highlighted the contribution of the 
+social care sector to the gender pay gap in Scotland, which disadvantages 
+women76.  
+                                         
+67 Social Security Scotland (2022) Summary statistics for Carer’s Allowance, Disability Living 
+Allowance, Attendance Allowance and Severe Disablement Allowance at November 2021  
+68 Carers UK (2019) Will I care? The likelihood of being a carer in adult life 
+69 Iriss (2020) Carers mental and physical health 
+70 Carers UK (2019) Will I care? The likelihood of being a carer in adult life 
+71 Scottish Government (2017) Young Carers: Review of research and data 
+72 Scottish Government (2021) Carers Census, Scotland, 2019-20 and 2020-21 
+73 Fair Work Convention (2019) Fair Work in Scotland’s Social Care Sector 2019 
+74 No information on sex was provided for the remaining 3% 
+75 Scottish Government (2022) The Adult Social Care Workforce in Scotland 
+76 Fair Work Convention (2019) Fair Work in Scotland’s Social Care Sector 2019 
+16 
+6. Pregnancy and Maternity 
+The Equality Act 2010 stipulates that it is against the law to discriminate against 
+someone because of pregnancy or maternity77. This section brings together data 
+and evidence on equality in social care and pregnancy and maternity. Evidence is 
+presented here in relation to the experiences of people who access social care, 
+unpaid carers, and social care workers. 
+6.1 People who access social care 
+There is no national data about pregnancy and maternity and social care. However, 
+there is a substantial cohort of women of child-bearing age who are receiving social 
+care, and many of this group are likely to experience pregnancy and maternity. 
+There are 22,710 women aged 18-64 receiving social care in Scotland78. Within the 
+general population, there are around 50 live births per 1,000 women of child-
+bearing age79 in Scotland80. 
+6.2 Unpaid carers 
+There is no national data about carers and pregnancy and maternity. However, as 
+noted above (see section 2.2), a substantial proportion of unpaid carers are working 
+age women. Almost half (47%) of all carers included in the 2020-2021 Carers 
+Census were female aged 18-6481. The prevalence of unpaid care in young/mid-life 
+women means that it is likely many women will be experiencing pregnancy and 
+maternity alongside undertaking unpaid care. 
+6.3 Social care workers 
+There is no national data specifically about pregnancy and maternity and the social 
+care workforce. However, there is a substantial cohort of women of child-bearing 
+age who are employed in the adult social care sector, and many of this group are 
+likely to experience pregnancy and maternity. Analysis of SSSC data shows that 
+there were 58,450 adult social care workers under the age of 44 in 2020, and at 
+least 80% of the overall adult social care workforce were women. In addition, 
+almost half of the adult social care workforce (47%) are on part time contracts and 
+around 5.5% are on zero hours contracts82, which may impact on maternity pay. 
+                                         
+77 Equality and Human Rights Commission (2021) Protected characteristics 
+78 Public Health Scotland (2022) People supported - Insights in social care: statistics for Scotland - 
+Support provided or funded by health and social care partnerships in Scotland 2019/20 - 2020/21 
+79 For the purpose of calculating fertility rates, ‘child-bearing age’ is taken as ages 15-44 inclusive. 
+For further information on fertility rate calculations see: NRS Fertility Rates 
+80 National Records of Scotland (2021) Births Time Series Data (Table BT.10 Fertility rates by 
+Council Area 1991 to 2020 – General Fertility Rate) 
+81 Scottish Government (2021) Carers Census, Scotland, 2019-20 and 2020-21 
+82 Scottish Government (2022) The Adult Social Care Workforce in Scotland 
+17 
+7. Gender reassignment 
+The Equality Act 2010 defines the protected characteristic of gender reassignment 
+in terms of a person who has, or intends to, transition from one sex to another83. 
+This section brings together data and evidence on equality in social care and 
+gender reassignment. Evidence is presented here in relation to the experiences of 
+people who access social care, unpaid carers, and social care workers. 
+There is no precise estimate of the number of trans or non-binary people in 
+Scotland. However, the most commonly used figure for trans people is 0.5% of the 
+population, equivalent to almost 24,000 adults84.  More generally, the experiences 
+of trans and non-binary people have been largely absent in social care research to 
+date85. 
+7.1 People who access social care 
+There is no national data about gender reassignment and people who access social 
+care. However, given the prevalence of social care needs in the population and 
+across the life course, it is likely that some trans people will require social care 
+support.  
+7.2 Unpaid carers 
+There is no national data about gender reassignment and unpaid carers. However, 
+given the prevalence of unpaid care in the population and across the life course, it 
+is likely that some trans people will provide unpaid care.  
+7.3 Social care workers 
+There is no national data about gender reassignment and social care workers. 
+However, given that the social care sector is a major employer in Scotland, it is 
+likely that some trans people will be employed in the sector.  
+8. Sexual orientation 
+ 
+The Equality Act 2010 defines the protected characteristic of sexual orientation in 
+terms of a person’s sexual orientation towards persons of the same sex, the 
+opposite sex, or either sex86. This section brings together data and evidence on 
+equality in social care and sexual orientation. Evidence is presented here in relation 
+                                         
+83 UK Government (2010) Equality Act 2010 
+84 Thomson R, Baker J, and Arnot J (2018) Health Care Needs Assessment of Gender Identity 
+Services. Scottish Public Health Network (ScotPHN) 
+85 Kneale, D., Henley, J., Thomas, J., & French, R. (2021). Inequalities in older LGBT people's 
+health and care needs in the United Kingdom: A systematic scoping review. Ageing and 
+Society, 41(3), 493-51 
+86 UK Government (2010) Equality Act 2010 
+18 
+to the experiences of people who access social care, unpaid carers, and social care 
+workers. 
+In 2017, 2% of the population in Scotland identified as Lesbian, Gay, Bisexual or 
+Other (LGBO)87. Younger adults were more likely to identify as LGBO than older 
+adults; around three in ten (29%) of LGBO adults were young adults (aged 16-24), 
+compared to around a sixth (14%) of heterosexual adults. This study also found 
+that people identifying as LGBO were less likely to say that they had good or very 
+good health than heterosexual people88. 
+8.1 People who access social care 
+There is no national data about sexual orientation and people who access social 
+care. However, given the prevalence of social care needs in the population and 
+across the life course, it is likely that many Lesbian, Gay, Bisexual, Transgender 
+and Intersex (LGBTI) people will require social care support.  
+Research by the ALLIANCE and Self Directed Support Scotland (SDSS), which 
+explored people's experience of Self-directed Support and social care in Scotland, 
+highlighted particular issues for LGBT+89 participants, including recruitment of 
+Personal Assistants and working with new support workers, and not knowing how 
+care workers would treat participants if they disclosed their sexuality90. Similar 
+findings were reported by a study in England91. Both studies highlighted a need for 
+holistic social care assessments and targeted support and information for LGBTI 
+people. 
+A systematic scoping review of inequalities in older Lesbian, Gay, Bisexual and 
+Transgender (LGBT)92 people’s health and care needs in the UK suggested that 
+formal care environments could compromise the identities and relationships of older 
+LGBT people, and that many older LGBT people have a fear of formal care 
+settings. The review also suggested that needs for formal care could be 
+accelerated for some older LGBT people, and this was associated with social 
+networks, isolation and loneliness, and health behaviours. The review also found 
+evidence to suggest that only a minority of older LGBT people plan for their future 
+needs93. 
+                                         
+87 ‘LGBO’ is used here as this is the term used in the source data. 
+88 Scottish Government (2017) Sexual orientation in Scotland 2017: summary of evidence base 
+89 ‘LGBT+’ is used here as this is the term used in the source data and includes participants who 
+self-identified as ‘gay or lesbian’, ‘bisexual’, and ‘other’. 
+90 ALLIANCE and Self Directed Support Scotland (2020) My Support My Choice: People’s 
+Experiences of Self-directed Support and Social Care in Scotland 
+91Norah Fry Research Centre (2017) LGBTQI+ Disabled People and self-directed social care 
+support 
+92 ‘LGBT’ is used here as this is the term used in the source data. 
+93 Kneale, D., Henley, J., Thomas, J., & French, R. (2021). Inequalities in older LGBT people's 
+health and care needs in the United Kingdom: A systematic scoping review. Ageing and 
+Society, 41(3), 493-51 
+19 
+8.2 Unpaid carers 
+There is little national data about sexual orientation and unpaid carers. Analysis of 
+Scottish Survey Core Questions 2019 data found that the prevalence of providing 
+unpaid care was lower for LGBO94 people than for heterosexual people (at 15.4% 
+and 16.2% respectively), however the difference was not statistically significant95. 
+Given the prevalence of unpaid care in the population and across the life course, it 
+is likely that many LGBT+ people will provide unpaid care.  
+A small study about the experiences of LGBT young adult carers in Scotland, 
+carried out by the Carers Trust in 2016, highlighted specific barriers and 
+disadvantages for this group and the implications these could have on outcomes. 
+This study found that LGBT young adult carers were more likely to experience 
+bullying and to have a mental health problem, and were less likely to feel that they 
+have good health overall. Survey respondents also reported feeling under 
+supported in education, employment, health and social care and by support groups 
+and services96. 
+8.3 Social care workers 
+There is no national data about sexual orientation and social care workers. 
+However, given that the social care sector is a major employer in Scotland, it is 
+likely that many LGBT+ people will be employed in the sector. 
+9. Race 
+The Equality Act 2010 defines the protected characteristic of race in terms of 
+colour, nationality, and ethnic or national origins97. This section brings together data 
+and evidence on equalities in social care and race and ethnicity. Evidence is 
+presented here in relation to the experiences of people who access social care, 
+unpaid carers, and social care workers. 
+NRS analysis of population data suggests that Scotland is becoming more 
+ethnically and religiously diverse98.  
+9.1 People who access social care 
+There is very limited national data on ethnic group for people who access social 
+care. The majority of people receiving social care support are White; in 2020/21, 
+72% of people receiving social care support were White, a similar proportion to 
+                                         
+94 ‘LGBO’ is used here as this is the term used in the source data. 
+95 Scottish Government (2021) Scottish Surveys Core Questions 2019 (SSCQ 2019 
+Supplementary Tables - 1.4 Care) 
+96 Carers Trust (2016) Young people caring OUT there: experiences of LGBT young adult carers in 
+Scotland 
+97 UK Government (2010) Equality Act 2010 
+98 National Records of Scotland (2013) Census 2011: Key results on Population, Ethnicity, Identity, 
+Language, Religion, Health, Housing and Accommodation in Scotland – Release 2A 
+20 
+previous years, but ethnicity was recorded as not known or not provided for a 
+further 26%99.  
+Research by the ALLIANCE and Self Directed Support Scotland (SDSS), which 
+explored people's experience of Self-directed Support and social care in Scotland, 
+highlighted barriers to support for Black and minority ethnic people100, including: 
+access to information and advice; and cultural awareness and understanding. This 
+was particularly the case for Black and minority ethnic women, and the report 
+suggests that this could be associated with women having less fluency in English in 
+some communities101. 
+Analysis of social care data in England found that a slightly smaller proportion of 
+Black and other minority ethnic working age adults reported a need for care, in 
+comparison to their White counterparts. It is not clear from the data whether this is 
+associated with differences in prevalence of long term health conditions or 
+differences in propensity to report a need for care. Furthermore, of those who do 
+report a need for care, Black and other minority ethnic working age adults are less 
+likely than their White counterparts to receive some help (10% and 15% 
+respectively). In contrast, some minority ethnic groups aged over 65 are more likely 
+to report needing help with one or more Activities of Daily Living or Instrumental 
+Activities of Daily Living102 than their White counterparts, notably Black/Black British 
+and Asian/Asian British. This report also found that some minority ethnic groups 
+reported poorer experiences of social care, notably Asian or Asian British, and 
+Black or Black British103. 
+9.2 Unpaid carers 
+There is very limited national data on ethnic group for unpaid carers. NRS analysis 
+of population data suggests that Scotland is becoming more ethnically and 
+religiously diverse104. However the Scotland’s Carers (2015) report found that only 
+4% of people providing unpaid care were from mixed or minority ethnic groups, 
+whilst 96% were from a “White Scottish/British/Irish” ethnic background105. 
+According to the 2011 Census data, the majority of 4-24 year olds are White 
+Scottish (84%), 6% are White other British, and 10% are from other ethnic groups. 
+                                         
+99 Public Health Scotland (2022) People supported - Insights in social care: statistics for Scotland - 
+Support provided or funded by health and social care partnerships in Scotland 2019/20 - 2020/21 
+100 ‘Black and minority ethnic people’ is used here as this is the term used in the source data. 
+101 ALLIANCE and Self Directed Support Scotland (2020) My Support My Choice: People’s 
+Experiences of Self-directed Support and Social Care in Scotland 
+102 Activities of Daily Living (ADLs) include basic activities of daily living, like washing and 
+dressing. Instrumental Activities of Daily Living (IADLs) include other activities, like shopping, 
+cleaning and paying bills. 
+103 Brimblecombe N and Burchardt T (2021) Social care inequalities in England: evidence briefing. 
+Centre for Analysis of Social Exclusion, LSE 
+104 National Records of Scotland (2013) Census 2011: Key results on Population, Ethnicity, 
+Identity, Language, Religion, Health, Housing and Accommodation in Scotland – Release 2A 
+105 Scottish Government (2015) Scotland's Carers 
+21 
+The proportion that are young carers and young adult carers is similar; 3% White 
+Scottish and 2% others. Although the numbers are small, there is a variation 
+according to individual ethnic groups. The highest prevalence is 5% of White 
+Gypsy/Traveller young people, followed by 4% of Pakistani, Scottish Pakistani or 
+British Pakistani young people106. Research carried out in England by Barnardo’s 
+suggests that there are particular barriers to accessing support for Black, Asian and 
+Minority Ethnic (BAME)107 young carers, which could result in this group being 
+isolated and unsupported by services. This report found that BAME young carers 
+were less likely to receive financial and practical support, and suggests that this 
+was due to a lack of culturally appropriate information and community 
+engagement108.  
+Analysis of social care data in England found that minority ethnic carers, particularly 
+those from Asian ethnic backgrounds, provided more hours of care than their White 
+counterparts. Furthermore, whilst this analysis found similarities in some aspects of 
+carers’ experiences, it also highlights variation. For example, Asian/Asian British 
+carers, and Black/ Black British carers, were more likely to report difficulties with 
+information, advice, support and services than their White counterparts. These 
+groups were also more likely to report that caring had caused them financial 
+difficulties in the last 12 months109. 
+9.3 Social care workers 
+There is limited data on ethnic group for social care workers. Whilst NRS analysis 
+of population data suggests that Scotland is becoming more ethnically and 
+religiously diverse110, only 3% of the adult social care workforce reported as 
+belonging to an minority ethnic group in 2020. There was some variation by service, 
+with the private sector having slightly higher minority ethnic representation. 
+However, ethnicity information was not known for 27% of the adult social care 
+workforce, and the data also does not include Personal Assistants111 112. 
+10. Religion or belief 
+The Equality Act 2010 defines the protected characteristic of religion or belief in 
+terms of any religion, or religious or philosophical belief, including a lack of religion 
+                                         
+106 Scottish Government (2017) Young Carers: Review of research and data 
+107 ‘Black, Asian and Minority Ethnic (BAME)’ is used here as this is the term used in the source 
+data. 
+108 James E (2019) Caring alone Why Black, Asian and Minority Ethnic young carers continue to 
+struggle to access support. Barnardo’s 
+109 Brimblecombe N and Burchardt T (2021) Social care inequalities in England: evidence briefing. 
+Centre for Analysis of Social Exclusion, LSE 
+110 National Records of Scotland (2013) Census 2011: Key results on Population, Ethnicity, 
+Identity, Language, Religion, Health, Housing and Accommodation in Scotland – Release 2A 
+111 Scottish Social Services Council (2021) Scottish Social Service Sector: Report on 2020 
+Workforce Data 
+112 Scottish Government (2022) The Adult Social Care Workforce in Scotland 
+22 
+or lack of belief113. This section brings together data and evidence on equalities in 
+social care and religion and belief. Evidence is presented here in relation to the 
+experiences of people who access social care, unpaid carers, and social care 
+workers. 
+10.1 People who access social care 
+There is no national data on religion or belief for people who access social care, 
+although NRS analysis of population data suggests that Scotland is becoming more 
+ethnically and religiously diverse114. 
+10.2 Unpaid carers 
+There is little national data on religion or belief for unpaid carers. Analysis of 
+Scottish Survey Core Questions 2019 data found some variance in the prevalence 
+of providing unpaid care, ranging from 11.5% for people identifying as Muslim to 
+18.2% for people identifying as Church of Scotland, however the differences were 
+not statistically significant115. 
+10.3 Social care workers 
+There is no national data on religion or belief for social care workers, although NRS 
+analysis of population data suggests that Scotland is becoming more ethnically and 
+religiously diverse116. 
+11. Socio-economic status 
+The impact of socio-economic disadvantage on people’s outcomes is recognised by 
+the Fairer Scotland Duty. The Duty seeks to tackle socio-economic disadvantage 
+and reduce the inequalities that are associated with being disadvantaged. This is a 
+complex, multidimensional problem, closely related to poverty. Having less access 
+to resources can mean that individuals fare worse on outcomes including health, 
+housing, education or opportunities to work or train, and these negative outcomes 
+can reinforce each other117. The Scottish Index of Multiple Deprivation (SIMD) is the 
+Scottish Government's standard approach to identify areas of multiple deprivation in 
+Scotland118. 
+11.1 People who access social care 
+                                         
+113 UK Government (2010) Equality Act 2010 
+114 National Records of Scotland (2013) Census 2011: Key results on Population, Ethnicity, 
+Identity, Language, Religion, Health, Housing and Accommodation in Scotland – Release 2A 
+115 Scottish Government (2021) Scottish Surveys Core Questions 2019 (SSCQ 2019 
+Supplementary Tables - 1.4 Care) 
+116 National Records of Scotland (2013) Census 2011: Key results on Population, Ethnicity, 
+Identity, Language, Religion, Health, Housing and Accommodation in Scotland – Release 2A 
+117 Scottish Government (2021) Fairer Scotland Duty: guidance for public bodies 
+118 Scottish Government (2020) Scottish Index of Multiple Deprivation 2020 
+23 
+Overall, substantially higher proportions of people in the most deprived areas in 
+Scotland receive home care support; 26% of people receiving home care lived in 
+the most deprived areas, compared to 13.9% in the least deprived. However, this 
+varies by age; 36.2% of those aged 16-64 receiving home care lived in the most 
+deprived areas, compared to 7.5% in the least deprived, while there was little 
+difference in the age 85 and over age group119. 
+Analysis of the Health and Care Experience Survey data found that people living in 
+the most deprived areas were amongst those most likely to be not receiving support 
+but feeling they needed it in 2021-22120. Analysis of social care data in England 
+found that people living in deprived areas or low income households were much 
+more likely to need help with one or more Activities of Daily Living. This research 
+also found an association between unmet need and deprivation for older people in 
+England, and reported that people aged 65 and over living in the most deprived 
+neighbourhoods were more than twice as likely to experience unmet need than 
+those living in the least deprived areas. This report draws parallels with social care 
+need and the social determinants of health, and suggests that people’s need for 
+care is influenced by the same factors that influence health (e.g. employment, 
+housing, education as well as social and community factors)121. 
+11.2 Unpaid carers 
+The Scotland’s Carers Report found little difference between the overall proportion 
+of people who are unpaid carers living in the most and least deprived areas. 
+However, it did find differences in the number of hours spent caring, with unpaid 
+carers living in the most deprived areas much more likely to be caring for 35 hours 
+a week or more than those in the least deprived areas (47% and 24% respectively). 
+Furthermore, despite there being little difference in the overall proportion of people 
+who are unpaid carers between the most and least deprived areas, there were 
+notable differences for younger age groups. People aged under 25 living in the 
+most deprived areas were more likely to be unpaid carers than those in the least 
+deprived areas (3.1% and 1.7% respectively). In addition, young carers in the most 
+deprived areas were more likely to be caring for 35 hours a week or more than 
+those in the least deprived areas (28% and 17% respectively)122. Whilst this was 
+based on Scotland’s 2011 Population Census data, the findings are consistent with 
+the more recent Carers Census (2020-21), which includes all unpaid carers being 
+supported by local services across Scotland. The Carers Census also found little 
+difference in the number of adult unpaid carers by deprivation, but substantial 
+differences for young carers; 14% of young carers being supported by local 
+                                         
+119 Public Health Scotland (2022) People supported - Insights in social care: statistics for Scotland 
+- Support provided or funded by health and social care partnerships in Scotland 2019/20 - 2020/21 
+120 Scottish Government (2022) Experiences of Social Care and Caring in Scotland  
+121 Brimblecombe N and Burchardt T (2021) Social care inequalities in England: evidence briefing. 
+Centre for Analysis of Social Exclusion, LSE 
+122 Scottish Government (2015) Scotland's Carers 
+24 
+services lived in the most deprived Scottish Index of Multiple Deprivation (SIMD) 
+decile compared to 5% who lived in the least deprived SIMD decile123. 
+11.3 Social care workers 
+As there is no available data on SIMD and the social care workforce, this section 
+focuses instead on pay and conditions in the adult social care workforce. Almost 
+half (47%) of the adult social care workforce were employed on a part-time basis in 
+2020. On average, adult social care workers in Scotland worked for 31 hours per 
+week in 2020. The majority of adult social care workers were employed on a 
+permanent basis, with 5.5% being on zero-hour contracts124. However, it should be 
+noted that part-time work and zero-hour contracts are not proxies for deprivation or 
+poverty. 
+In their 2019 report on ‘Fair Work in Scotland’s Social Care Sector’, the Fair Work 
+Convention highlighted poor terms and conditions and a lack of security for social 
+care staff, although they acknowledged that progress was being made to address 
+issues of low pay with the implementation of the Living Wage125. 
+12. Conclusion 
+The previous sections provide an overview of evidence on equality in social care in 
+Scotland. It focuses on groups with protected characteristics under the Equality Act 
+2010, as well as those who experience socio-economic disadvantage, and brings 
+together key data sources and national statistics, where these are available. It also 
+draws on other national evidence to provide insights into variations in usage and 
+experiences for those groups with protected characteristics and those who 
+experience socioeconomic disadvantage. It has been structured in relation to the 
+experiences of people who access social care, unpaid carers, and social care 
+workers separately, although it has been noted that these are not distinct groups in 
+practice. It should also be noted that there are intersecting inequalities, resulting in 
+multiple and compounding inequality for particular groups126. For example, age, 
+gender and deprivation intersect to disadvantage particular groups of young carers. 
+Importantly, people who access social care, unpaid carers and those who work in 
+the social care sector have been directly and indirectly impacted by the Covid-19 
+pandemic and mitigation measures. In particular, care home residents, the majority 
+of whom are older people with long term conditions, are at higher risk of Covid-19 
+morbidity and mortality127. Visiting restrictions in care homes during the pandemic 
+have adversely impacted the health and wellbeing of residents and their loved 
+                                         
+123 Scottish Government (2021) Carers Census, Scotland, 2019-20 and 2020-21 
+124 Scottish Government (2022) The Adult Social Care Workforce in Scotland 
+125 Fair Work Convention (2019) Fair Work in Scotland’s Social Care Sector 2019 
+126 The concept of intersectionality has long been used to articulate and analyse the lived reality of 
+those who experience multiple and compounding inequalities. See: Scottish Government (2022) 
+Using intersectionality to understand structural inequality in Scotland: evidence synthesis 
+127 Scottish Government (2020) Adult Social Care Winter Preparedness Plan 2020-21: Evidence 
+Paper 
+25 
+ones128, and created additional challenges for care home staff129. Unpaid carers 
+and people who receive care at home and housing support have also been 
+adversely impacted by the suspension of services and disruption to daily activities 
+during the pandemic130. More broadly, it has been widely recognised that the 
+impact of the pandemic has not affected everyone equally. Some groups have been 
+particularly disadvantaged, including: people who are socio-economically 
+disadvantaged; young people, older people; disabled people; people who had been 
+advised to shield; and people from a minority ethnic background131. 
+The data and evidence presented here highlights that people who access social 
+care, unpaid carers, and social care workers are diverse groups with a broad range 
+of needs and experiences. It also highlights that inequalities are intersectional, 
+resulting in multiple and compounding inequalities for particular groups. 
+The data and evidence presented here provides insight into key equalities issues in 
+social care in Scotland. Planning for a National Care Service will require 
+understanding of equalities issues in social care and engagement with the diverse 
+needs and experiences of people who access social care, unpaid carers and 
+people who work in social care. 
+ 
+ 
+ 
+ 
+                                         
+128 Palattiyil, G., Jamieson, L., McKie, L., Jain, S., Hockley, J., Sidhva, D., Tolson, D., Hafford-
+Letchfield, T., Quinn, N., Iversholt, R., Musselbrook, K., Mason, B., & Swift, S. (2020). The Cost of 
+Separation: The Impact of Visiting Restrictions on Families of Care Home Residents during 
+COVID-19. Chief Scientist Office  
+129 Scottish Government (2021) Open with Care: Care Home Managers Feedback on 
+Implementation Survey  
+130 Care Inspectorate (2020) Delivering care at home and housing support services during the 
+COVID-19 pandemic 
+131 Scottish Government (2020) The Impacts of Covid-19 on equality in Scotland 
+26 
+How to access background or source data: 
+ 
+☒ may be made available on request, subject to consideration of legal and ethical 
+factors. Please contact SWstat@gov.scot for further information.  
+ 
+ 
+© Crown copyright 2022
+You may re-use this information (excluding logos and images) free of charge 
+in any format or medium, under the terms of the Open Government Licence. 
+To view this licence, visit http://www.nationalarchives.gov.uk/doc/open-
+government-licence/or e-mail: psi@nationalarchives.gsi.gov.uk.
+Where we have identified any third party copyright information you will need 
+to obtain permission from the copyright holders concerned.
+The views expressed in this report are those of the researcher and do not 
+necessarily represent those of the Scottish Government or Scottish Ministers.
+This report is available on the Scottish Government Publications Website  
+(http://www.gov.scot/Publications/Recent)
+The Scottish Government
+St Andrew’s House
+Edinburgh
+EH1 3DG
+ISBN: 978-1-80435-488-9
+Published by the Scottish Government, June 2022
+Produced for the Scottish Government by APS Group Scotland, 21 Tennant Street, Edinburgh EH6 5NA
+PPDAS1092923 (06/22)
