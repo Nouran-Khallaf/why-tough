@@ -24,16 +24,17 @@ As the PLMs we used the traditional selection of BERT and RoBERTa models.
 
 The dataset and the script are fully described in our paper:
 
-> @inproceedings{khallaf2025readinglinesdatasetstudy,
->       title={Reading Between the Lines: A dataset and a study on why some texts are tougher than others}, 
->       author={Nouran Khallaf and Carlo Eugeni and Serge Sharoff},
->       booktitle={Writing Aids at the Crossroads of AI, Cognitive Science and NLP WR-AI-CogS, at COLING'2025},
->       address={Abu Dhabi},
->       year={2025},
->       eprint={2501.01796},
->       archivePrefix={arXiv},
->       primaryClass={cs.CL},
->       url={https://arxiv.org/abs/2501.01796}, 
-> }
+@inproceedings{khallaf2025readinglinesdatasetstudy,
+  title={Reading Between the Lines: A dataset and a study on why some texts are tougher than others},
+  author={Nouran Khallaf and Carlo Eugeni and Serge Sharoff},
+  booktitle={Writing Aids at the Crossroads of AI, Cognitive Science and NLP WR-AI-CogS, at COLING'2025},
+  address={Abu Dhabi},
+  year={2025},
+  eprint={2501.01796},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  url={https://arxiv.org/abs/2501.01796}
+}
+
 
 
