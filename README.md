@@ -4,16 +4,6 @@ This study is driven by the universal right to accessible information, see the f
 
 This repository contains a novel dataset, which is driven by taxonomy for sentence-level TS tasks. Unlike previous resources like [WikiLarge](https://github.com/XingxingZhang/dress) and [ASSET](https://github.com/facebookresearch/asset), which emphasize word-level or predefined operations, this study focuses on **why** corrections are needed by providing annotations for lexical, syntactic, and semantic changes. The dataset itself stems from diverse public services in Scotland:
 
-
-
-| **Source**       | **# Texts** | **Complex**   |        |    | **Simple**    |       |    |
-|-------------------|------------:|------------:|-------|-------|------------|-------|-------|
-|                  |             | **# Words** | **# Sentences** | **IQR** | **# Words** | **# Sentences** | **IQR** |
-| **Health**       | 21          | 183,677     | 7,258 | (15.0–31.0) | 30,253   | 1,519 | (10.0–21.0) |
-| **Public Info**  | 4           | 12,217      | 527   | (12.0–30.5) | 3,378    | 217   | (9.0–18.0) |
-| **Politics**     | 9           | 113,412     | 4,824 | (15.0–29.0) | 12,474   | 832   | (9.0–17.0) |
-| **Data Selection** | –         | 4,166       | 155   | (12–27)     | 3,259    | 161   | (9–20)     |
-
 <table>
   <thead>
     <tr>
@@ -87,11 +77,6 @@ To train the model, run:
 
 As the PLMs we used the traditional selection of BERT and RoBERTa models.
 
-
-
-Here’s the text formatted appropriately for a README file:
-
----
 
 ### Citation
 The dataset and the script are fully described in our paper:
