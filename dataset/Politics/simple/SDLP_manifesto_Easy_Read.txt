@@ -1,0 +1,5 @@
+Category: SDLP manifesto
+Version: Easy Read
+URL: https://www.mencap.org.uk/media/2881/edit
+
+Error fetching URL https://www.mencap.org.uk/media/2881/edit: 403 Client Error: Forbidden for url: https://www.mencap.org.uk/media/2881/edit

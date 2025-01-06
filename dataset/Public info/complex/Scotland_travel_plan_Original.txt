@@ -1,0 +1,694 @@
+Category: Scotland travel plan
+Version: Original
+URL: https://www.transport.gov.scot/media/48989/scotlands-accessible-travel-delivery-plan-progress-report-2019-2020.pdf
+
+ 
+1 
+ 
+ 
+ 
+transport.gov.scot 
+Scotland’s Accessible 
+Travel Framework 
+2019 – 2020 Delivery Plan 
+Progress Report 
+Scotland’s Accessible Travel Framework 2019 – 2020 Delivery Plan Progress Report 
+Transport Scotland 
+ 
+ 
+ 
+Contents 
+ 
+Part 1: The Role of Accessible Travel in Response to COVID 19......................... 5 
+Transport Scotland ....................................................................................................... 5 
+Mobility and Access Committee for Scotland ........................................................ 7 
+Third Sector Organisations .................................................................................... 7 
+Part 2: Progress on the 2019-2020 Annual Delivery Plan ..................................... 9 
+Impact of COVID 19 ............................................................................................ 10 
+Progress Update - Passenger Assistance ........................................................... 10 
+Progress Update - Aviation ................................................................................. 11 
+Progress Update - Bus ........................................................................................ 12 
+Progress Update – Signs, Wayfinding and Information ....................................... 13 
+Progress Update – Thistle Assistance ................................................................ 14 
+Progress Update – Clear Pathways .................................................................... 15 
+Progress Update – Taxi and Private Hire Cars (PHC) ........................................ 15 
+Progress Update – Hate Crime ........................................................................... 16 
+Part 3: The Future Delivering Scotland’s Accessible Travel Framework .......... 17 
+ 
+ 
+3 
+ 
+Ministerial Foreword 
+This is a Progress Report on the 2019-2020 Annual Delivery 
+Plan for Scotland’s ten year Accessible Travel Framework1 
+published in 2016. 
+This progress report is not the document I had envisaged 
+when I signed off the first Accessible Travel Framework 
+Annual Delivery Plan in June 2019. Working through the 
+challenges that the pandemic has, and continues to present, 
+has rightly changed the focus of our work over the last year. 
+This year COVID-19 meant that work on the eight priorities 
+contained in the 2019-2020 Annual Delivery Plan2 were 
+paused at the end of March 2020, as resources were pivoted 
+to mitigating the impact of the pandemic.  
+Accessible travel officials in Transport Scotland have since been focussed on 
+working across Government to embed the principles and practices of accessibility 
+into the Transport Transition Plan3 and our other Covid-19 response programmes. 
+This was the right thing to do in the face of an unprecedented global emergency, and 
+has brought unexpected benefits, enabling us to respond flexibly to the significant 
+and evolving challenges disabled travellers have faced. More about this work and the 
+lessons we have learned is set out in Part 1 of this document. 
+Nevertheless, I am proud to say we have made progress on a number of the things 
+we set out to achieve in the 2019-2020 plan, and updates on these are provided in 
+Part 2 of this document. Achievements I would like to highlight include resourcing a 
+significant expansion of the Thistle Assistance scheme, rolling out a transport 
+focussed Hate Crime Charter pilot earlier in the year, and supporting the incredible 
+work transport operators have been doing on Passenger Assistance both on our rail 
+and ferry networks. 
+Turning to the years ahead, I would like to reiterate that our vision, set out in 
+Scotland’s Accessible Travel Framework, that all disabled people can travel with the 
+same freedom, choice, dignity and opportunity as other citizens, will remain our 
+guiding principle (see Annex A). The COVID-19 pandemic has not changed that, 
+although it may have changed what it looks like in practice, and the steps we have to 
+take as a government to achieve it. 
+                                                
+1 http://accessibletravel.scot/wp-content/uploads/2016/11/Going-Further-Scotlands-Accessible-Travel-
+Framework-Full-Report.pdf  
+2 https://www.transport.gov.scot/media/45098/transport-scotland-communications-corporate-
+publications-accessible-travel-annual-external-delivery-plan-2019-2020-120720191634.pdf  
+3 https://www.transport.gov.scot/coronavirus-covid-19/transport-transition-plan/  
+Michael Matheson, 
+Cabinet Secretary for 
+Transport, Infrastructure 
+and Connectivity 
+Scotland’s Accessible Travel Framework 2019 – 2020 Delivery Plan Progress Report 
+Transport Scotland 
+ 
+ 
+4 
+ 
+In the face of COVID-19 new challenges have emerged rapidly, and long term social 
+and technological trends have been accelerated, meaning that many of the issues 
+identified with disabled people in co-producing the 2016 Framework, while still 
+important, are no longer the most pressing issues faced. Our work on accessible 
+travel in the period ahead must be responsive to this evolving landscape, and in Part 
+3, we set out how we intend to take forward our work on delivering the Framework in 
+the future. 
+In presenting this progress report, I would like to offer my particular thanks to the 
+Mobility and Access Committee for Scotland (MACS), Disability Equality Scotland 
+(DES), the Accessible Travel Steering Group and SEStran. All of whom have continued 
+to support the development and implementation of the Framework and it’s delivery 
+plans, helping co-deliver lasting improvements for the lives of disabled people across 
+Scotland, while adapting flexibly to the pressures of COVID-19. 
+ 
+Michael Matheson MSP 
+Cabinet Secretary for Transport, Infrastructure and Connectivity 
+ 
+ 
+Scotland’s Accessible Travel Framework 2019 – 2020 Delivery Plan Progress Report 
+Transport Scotland 
+ 
+ 
+5 
+ 
+Part 1: The Role of Accessible Travel in Response to COVID 
+19 
+Summary: 
+ Our Transport Transition Plan4 continues to develop to tackle the challenges 
+posed by COVID-19 and provide a safe transport system to meet the needs of the 
+country and to keep Scotland moving. It informs passengers on when and how to 
+safely access public transport; supports management of travel demand; reinforces 
+broader messages on physical distancing and; discourages unnecessary travel. It 
+will sustain positive behaviour changes, encouraging active travel options and 
+staggering journeys to avoid peak times. Finally, it will inform passengers and 
+road users of busy areas and times to encourage alternative choices 
+ A Transport Transition Plan Equalities Network was set up to support the 
+Impact Assessment of public transport COVID-19 measures.  
+ A Transport Transition Plan National Advisory Group was established, with 
+representation from the Mobility and Access Committee for Scotland (MACS), 
+to align national, regional and local activities. 
+ The Scottish Transport Accessibility Steering Group has been convened to 
+gather the views of transport providers, disabled people, and disabled peoples’ 
+organisations to monitor the impacts of COVID-19 and policy changes on travel. 
+ Disability Equality Scotland (DES) has been funded to engage with disabled 
+people and pan-disability groups to gather first-hand lived experiences. 
+ The Mobility and Access Committee for Scotland (MACS) has been supported 
+in an expanded capacity to have a direct role in shaping the government’s 
+response to COVID-19. 
+Transport Scotland 
+Resources during this period have been diverted away from delivering the priorities 
+set out in the 2019-2020 Annual Delivery Plan, and towards supporting and 
+embedding the principles of accessible travel in our responses to the pandemic. 
+‘Nothing about us without us’ remains a core principle of our accessible travel 
+work, stressing the need to engage with disabled people to co-produce government 
+policy which affects their lives. This has supported the following outcomes: 
+                                                
+4 https://www.transport.gov.scot/coronavirus-covid-19/transport-transition-plan/ 
+Scotland’s Accessible Travel Framework 2019 – 2020 Delivery Plan Progress Report 
+Transport Scotland 
+ 
+ 
+6 
+ 
+ 
+The collection and development of robust evidence and provide input in to the 
+impact assessments5 that were carried out in relation to the Plan. This network 
+brought together a wide range of experts and stakeholders from Scotland’s 
+equality community, including the Poverty and Inequality Commission, Equality 
+and Human Rights Commission, Young Scot, Engender, and Disability Equality 
+Scotland (DES). 
+ 
+We have established the Transport Transition Plan National Advisory Group 
+to align approaches and share knowledge across national, regional and local 
+activity, taking broader consideration of equality impacts and tailoring measures 
+to specific places and sectors. The Mobility and Access Committee for 
+Scotland represent disabled people’s interests on this Group. 
+ 
+We are in the early stages of planning the Future of Transport Forum, which 
+will act as an overarching engagement platform bringing together stakeholders to 
+facilitate collective considerations and discussions on the future of the transport 
+system in Scotland. This Forum will be supported by three groups: 
+o the Transport Citizen Panel, bringing together individuals, communities and 
+their representative groups; 
+o the Transport Steering Group comprised of operators, service providers, local 
+authorities and other official bodies, and;  
+o the Transport Partnership with members being drawn from across 
+government and other key stakeholder groups. 
+While specific timelines are still being firmed up, we anticipate that the first Forum 
+session will be held in early spring 2021. 
+ 
+The Accessible Travel Policy Steering Group has continued to meet quarterly 
+with representation from a range of disability groups to help ensure pan-disability 
+needs have been considered in the policy development process, and 
+stakeholders have been kept informed of developments. 
+ 
+Disability Equality Scotland (DES) has been funded by Transport Scotland to 
+engage with disabled people and pan-disability groups through consultations, 
+regular webinars6 and weekly member’s polls7 to gather lived experience from 
+disabled people, which includes topics relating to transport and travel. 
+                                                
+5 Equality Impact Assessment, Fairer Duty Scotland Impact Assessment, and Child Rights and 
+Wellbeing Impact Assessment 
+6 https://disabilityequality.scot/webinars/ 
+7 https://disabilityequality.scot/news/disability-equality-scotland-poll-indicates-99-had-concerns-over-
+physical-distancing/ 
+Scotland’s Accessible Travel Framework 2019 – 2020 Delivery Plan Progress Report 
+Transport Scotland 
+ 
+ 
+7 
+ 
+Mobility and Access Committee for Scotland 
+During this crisis we have supported an expanded role for the Scottish Government’s 
+specialist expert advisory body, the Mobility and Access Committee for Scotland 
+(MACS)8. MACS has a remit to give advice to Scottish Ministers and other transport 
+providers and stakeholders on the travel needs of disabled people. They have 
+developed a cross portfolio role across Scottish Government, which has afforded them 
+the opportunity to influence connecting policies. 
+MACS has had a direct role in shaping the Government’s response to COVID-19 
+through our facilitation of their membership of key decision-making forums such as the 
+National Transport Strategy Delivery Board. Through direct engagement with 
+policymakers working on COVID-19 across government, MACS have also produced 
+public guidance, including: 
+ 
+‘Transport Transition Plans - guidance to operators on assisting disabled 
+passengers’9. 
+ 
+‘Temporary Street measures during the Coronavirus Crisis’10. 
+ 
+‘Coronavirus (COVID-19): guidance on safer public spaces - urban centres and 
+green spaces, Section 5.2 Wider accessibility and inclusion’11. 
+Third Sector Organisations 
+We have been engaging with many third sector organisations who represent the 
+interests of disabled people, who have been working incredibly hard in difficult 
+circumstances raising awareness of under-appreciated issues and using their unique 
+insights to produce guidance for transport operators and service providers. We have 
+worked to share and promote this material across government and with our 
+stakeholders. Examples of this include: 
+ 
+Guide Dogs UK guidance for bus operators to ensure drivers and other staff feel 
+confident when helping passengers with sight loss12. 
+                                                
+8 https://www.transport.gov.scot/our-approach/accessible-transport/mobility-and-access-committee-for-
+scotland-macs/  
+9 https://www.transport.gov.scot/media/47623/macs-guidance-for-disabled-passengers-transition-
+plans.pdf  
+10 https://www.transport.gov.scot/media/47546/temporary-street-measures-during-the-coronavirus-
+crisis.pdf  
+11 https://www.gov.scot/publications/coronavirus-covid-19-safer-public-spaces-scotland-urban-centres-
+green-spaces/pages/5/  
+12 https://www.guidedogs.org.uk/about-us/what-we-do/research/Policy-and-guidance-for-
+businesses/Guidance-for-bus-staff  
+Scotland’s Accessible Travel Framework 2019 – 2020 Delivery Plan Progress Report 
+Transport Scotland 
+ 
+ 
+8 
+ 
+ 
+RNIB guidance for supermarkets to support the shopping experience for blind 
+and partially sighted customers13. 
+ 
+Future Journeys Observatory design guidance for providers; insights, ideas 
+and inspiration to help make reconfigured services inclusive and accessible. 
+ 
+ 
+                                                
+13 https://www.rnib.org.uk/sites/default/files/APDF-Supportingblindandpartiallysightedshoppers.pdf  
+Scotland’s Accessible Travel Framework 2019 – 2020 Delivery Plan Progress Report 
+Transport Scotland 
+ 
+ 
+9 
+ 
+Part 2: Progress on the 2019-2020 Annual Delivery Plan 
+Summary: 
+ The 2019-2020 Annual Delivery Plan, co-produced with the Scottish Transport 
+Accessibility Steering Group and MACS, set out eight thematic priority areas 
+drawn from issues identified in the ten year Accessible Travel Framework. 
+ Each priority set out a number of key actions for the period of June 2019 to June 
+2020. 
+ At this stage these priorities fall in to three categories: 
+o Delivered, 
+o Delivery in progress, 
+o Continuous improvement to be integrated into future programmes of 
+work (see Part 3). 
+Theme 
+High Level Aim 
+Status 
+Passenger 
+Assistance 
+More people with reduced mobility using public transport who 
+require passenger assistance use trains and ferries. 
+Delivered 
+Aviation 
+All Scotland’s airports improve service to disabled passengers 
+and the seven largest airports receive good or very good rating 
+from the Civil Aviation Authority’s (CAA) 2019-2020 
+Accessibility Performance Analysis. 
+Continuous 
+Improvement  
+Bus 
+Enable more disabled people in Scotland to use buses by 
+working towards fully accessible information, infrastructure and 
+design. 
+Continuous 
+Improvement 
+Signs, 
+Wayfinding 
+and 
+information 
+Improve wayfinding signage and information. 
+Continuous 
+Improvement 
+Thistle 
+Assistance 
+Every disabled person will have access to an effective, 
+national assistance card across all transport modes 
+Delivered 
+Clear 
+Pathways 
+Ensure paths and pavements are clear and accessible for all. 
+In progress 
+Taxi and 
+Private Hire 
+Cars 
+Taxi and Private Hire Cars (PHCs) are available across 
+Scotland and meet the needs of disabled people. 
+In progress 
+Scotland’s Accessible Travel Framework 2019 – 2020 Delivery Plan Progress Report 
+Transport Scotland 
+ 
+ 
+10 
+ 
+Hate Crime 
+Through a joint approach, we implement a national Hate Crime 
+Charter to ensure all citizens can travel free from bullying and 
+harassment on all modes of transport. 
+In progress 
+Table 1: the above table provides an update against each theme of the Accessible Travel Framework.  
+ 
+Impact of COVID 19 
+COVID-19 meant that work on the Accessible Travel Framework, and on 
+implementing the 2019-2020 Annual Delivery Plan, was paused at the end of March 
+2020. Nevertheless, we have made significant progress on a number of our priorities 
+despite the extreme pressures placed on local transport authorities and transport 
+operators; 
+ Despite demand being severely suppressed14 ScotRail strived to ensure that 
+assistance was made available to those who continued to require it. In 
+consultation with disabled people’s organisations, they implemented a number 
+of physical distancing measures, which were agreed by disabled groups. 
+ Northlink Ferries have introduced ‘Rambling Tags’ to enable continued 
+assistance for visually impaired passengers. This permitted the provision of 
+assistance whilst at a safe distance with no direct physical contact.  
+ The Thistle Assistance card was extended to provide an exemption 
+message for those who are unable to wear a face covering on public transport. 
+This was crucial in reducing the public’s anxieties and increasing confidence in 
+returning to transport. Since June 2020, SEStran have issued almost 9,000 
+cards across Scotland for those seeking face covering exemptions.  
+To help us better understand the impact of the pandemic on public transport, we 
+have been supporting and participating in the innovative Future Journeys 
+Observatory.15The group aims to extract and understand the impact COVID-19 is 
+having on disabled people, including their mobility, how inclusive and accessible 
+newly reconfigured services really are, and how confidence to travel can be 
+strengthened. Through this work, examples are used to build a ‘library’ of good ideas, 
+and create design guidance for service providers. 
+Progress Update - Passenger Assistance 
+ScotRail’ s Passenger Assist booking time will change from two hours to one hour in 
+spring 2021 in contrast to train operators across the rest of the UK where the booking 
+                                                
+14 at the peak of COVID 19 with only around 10% of people asking for assistance compared to same 
+period 2018/19.  
+15 https://futurejourneys.squarespace.com/ 
+Scotland’s Accessible Travel Framework 2019 – 2020 Delivery Plan Progress Report 
+Transport Scotland 
+ 
+ 
+11 
+ 
+time is six hours. Additionally, a “turn up and go” package has also been formalised 
+which explains clearly what customers should do and expect if they have not booked 
+in advance. New designated meeting points will also be clearly marked and identifiable 
+at all stations. 
+Last year also saw the launch of the British Sign Language (BSL) app16. This app has 
+significantly helped ScotRail frontline staff communicate with BSL users during their 
+journey. Going forward, staff training requirements will also be enhanced through the 
+creation of new mandatory training plans being agreed with the Office of Rail and 
+Road17. 
+The first phase of the Rail Delivery Group’s Trans Report 18Passenger Assist System 
+was launched on 22 September. An online and face to face media campaign also 
+went live over the festive season, before the phase two launch of a Passenger App 
+early in 2021. The app, developed by Transreport for the entire rail industry, will 
+enable passengers to book, change and cancel assistance quickly, without the need 
+for a lengthy phone call. Users can also create a personal profile so that they do not 
+need to input their personal details each time they want to book. The app will also 
+provide rail staff with live journey information and will strengthen staff communications 
+both of which will allow staff to anticipate and react to challenges in successfully 
+delivering assistance.  
+Ferry Operator CalMac also launched their on-line assistance booking tool early in 
+2020 and are working with the National Autistic Society to create “story boards” 
+detailing journey processes for both major and small vessels together with sensory 
+bags being made available on-board.   
+Progress Update - Aviation 
+Work on this priority was focussed on Inverness Airport, which is operated, by 
+Highlands and Islands Airports Limited (HIAL). The aviation industry has seen a 
+dramatic drop in passenger numbers as a result of COVID-19 and the industry faces 
+one of the longest recovery periods given the impact on route networks.  
+Inverness Airport has been no exception with passenger numbers down over 85% in 
+2020. Despite this, their customer service ratings remain high and the Airport has 
+remained focussed on accessibility for all. A recent UK Civil Aviation Authority (CAA) 
+survey showed 87.5% of arriving passengers rated the Special Assistance service as 
+excellent and the remaining 12.5% as good. Departing passengers rated the service 
+as 100% excellent. 
+Prior to the pandemic Inverness Airport were working with a local college to develop a 
+programme to enable young people with additional needs to volunteer as Airport 
+                                                
+16 https://contactscotland-bsl.org/ 
+17 Home page | Office of Rail and Road (orr.gov.uk) 
+18 https://transreport.co.uk/ 
+Scotland’s Accessible Travel Framework 2019 – 2020 Delivery Plan Progress Report 
+Transport Scotland 
+ 
+ 
+12 
+ 
+Ambassadors; giving them exposure to the workplace. The Airport remain hopeful that 
+this project can be brought to fruition once it is safe to do so. 
+Inverness Airport’s commitment to accessibility was recognised by the Access and 
+Inclusivity Award from the Nairn Access Panel. They were also delighted to win the 
+Excellence in Transport Accessibility19 award from the Scottish Transport Awards 
+Summit held in October this year. 
+Inverness continue to work with AccessAble20 to produce accessibility guides hosted 
+on their website and have started discussions with Trusted Travel Buddies who 
+provide assisted travel to those who require additional support when travelling. 
+Investment has also been made to purchase four Aviramp platforms to allow easy and 
+dignified access to aircraft for wheelchair users and others who may previously have 
+required the use of an ambulift.  Aviramps are also being rolled across all eleven of 
+HIAL’s airports.  
+On the 3 December, the CAA published its fifth annual report21 on the disability access 
+of 31 of the UK’s largest airports. Glasgow Airport’s Special Assistance service 
+received the highest “Very Good” rating for the second successive year, with 
+Edinburgh and Inverness receiving a “Good” rating. The report covers the period from 
+1 April 2019 to 31 March 2020 prior to aviation being significantly impacted by the 
+COVID-19 pandemic. 
+Progress Update - Bus 
+Bus patronage has been subject to long term decline but COVID-19 has accelerated 
+that trend. Transport Scotland continues to monitor trends in public transport usage 
+including through a Transport Trends Report 22.  In addition to providing emergency 
+funding of up to £191.3 million and maintaining concessionary reimbursement and 
+Bus Service Operator Grant at pre-COVID levels to keep bus services running for 
+those who rely on them.  
+We launched the Bus Partnership Fund23 last year, as part of our response to the 
+climate emergency. The Fund will support mode shift from cars to bus, through over 
+£500 million of long-term bus priority infrastructure funding to tackle the negative 
+                                                
+19 
+https://www.transporttimes.co.uk/news.php/Brilliant-Transport-Projects-and-Individuals-Praised-at-
+the-2020-Virtual-Scottish-Transport-Award-Summit-572/ 
+20 https://www.accessable.co.uk/ 
+21 
+http://publicapps.caa.co.uk/modalapplication.aspx?catid=1&pagetype=65&appid=11&mode=detail&id=9
+874&filter=2  
+22 https://www.transport.gov.scot/publication/covid-19-transport-trend-data-2-8-november-2020/. The 
+figures are prepared by Transport Scotland statisticians, compare actual journeys against baseline 
+figures, and are derived from a range of sources including the Department for Transport. 
+23 https://www.transport.gov.scot/public-transport/buses/bus-partnership-fund/ 
+Scotland’s Accessible Travel Framework 2019 – 2020 Delivery Plan Progress Report 
+Transport Scotland 
+ 
+ 
+13 
+ 
+effects of congestion on bus, so that bus journeys are quicker, more punctual and 
+reliable. We are committed to achieving a just and green recovery and supporting 
+bus travel is key to that. 
+As set out in the National Transport Strategy24, the benefits of bus, particularly to 
+addressing the climate emergency and tackling inequality, are clear. The Bus 
+Partnership Fund is a key part of delivering on the priorities outlined in the Strategy.   
+In 2018, the UK Government consulted publicly on plans to require the provision of 
+audible and visible information on-board local bus and coach services across Great 
+Britain, which is a reserved matter. This included holding events to understand the 
+perspective of stakeholders in Scotland. We understand that responding to the 
+consultation has taken longer than anticipated, due to the need to explore technical 
+implementation options with industry specialists, but also due to other work 
+pressures. The UK Government however remains committed to increasing the 
+provision of accessible information across local bus and coach networks in Great 
+Britain, and it is hoped that a formal response to the consultation, including 
+confirming next steps, will be produced in the near future. 
+In the meantime, we continue to encourage operators not to wait for Regulations to 
+be made before providing accessible information on-board their vehicles, and indeed, 
+there are Scottish bus operators that now specify such provision as a standard 
+feature of new vehicles. Engagement will continue with the Scottish, Welsh and 
+Northern Irish Governments to ensure that any eventual solution works for 
+passengers and operators alike, wherever they are in the UK. 
+Finally, we also launched a six-week consultation25 on new proposals to offer free 
+bus travel for young people resident in Scotland aged under 19. Over a third of 
+people already benefit from free bus travel in Scotland. The proposed extension of 
+free bus travel to approximately 770,000 young people will deliver on the budget 
+agreement, as reaffirmed in the recent Programme for Government26, and help to 
+realise the vision proposed through the National Transport Strategy – contributing to 
+a transport system with reduced inequalities and one that advances equality of 
+opportunity. 
+Progress Update – Signs, Wayfinding and Information 
+New street signage was installed by Aberdeen City Council during the summer of 
+2020 which included wayfinding information situated next to the Northlink Ferry 
+                                                
+24 National Transport Strategy (NTS) 
+25 Consultation on free bus travel for people resident in Scotland aged under 19 - Scottish Government - 
+Citizen Space 
+26 Programme for Government 2019-20: Protecting Scotland’s Future (transport.gov.scot) 
+Scotland’s Accessible Travel Framework 2019 – 2020 Delivery Plan Progress Report 
+Transport Scotland 
+ 
+ 
+14 
+ 
+Terminal. Insights from ‘Making Connections27’ informed the design and placement of 
+this signage. 
+Our continued work with the Future Journeys Observatory will enable us to access 
+examples of innovative ways information is used. Findings from the Future Journeys 
+Observatory also enabled Northlink Ferries to consider new types of signage required 
+to respond to COVID-19 restrictions. A more inclusive prototype design for floor 
+signage was developed and introduced while considering the wider implications of 
+queuing and distancing systems on accessibility and inclusion. 
+Signs, wayfinding and information is more important than ever in 2020 in responding 
+to COVID-19 and moving forward we will continue to work closely with our key 
+stakeholders to establish and progress priorities in this area. 
+Progress Update – Thistle Assistance 
+Thistle Assistance is an initiative to help older people and those with disabilities or 
+illness feel safer and more comfortable when using public transport.  
+Thistle Assistance’s 28card and app let transport staff know in an easy and subtle way 
+what extra support you would like. All seven Regional Transport Partnerships (RTP), 
+Transport Scotland, Transport Operators and disability groups (including RNIB, SATA, 
+and Disability Equality Scotland) support it. The card and app are free to use for 
+anyone who needs it and can be used for one journey or purpose, or every day. 
+SEStran have continued to work with key transport providers and other stakeholders 
+to explore how their new approach can be integrated into their existing processes to 
+improve awareness and understanding of the accessibility issues faced by 
+customers. They have also collaborated to create a nation-wide approach on how to 
+best help and engage travellers who may need a little extra help from getting from A 
+to B. A campaign with a new website29 and social media for Thistle Assistance direct 
+under the slogan ‘A Little Help Goes A Long Way’ was developed and implemented 
+to good effect with Thistle’s online presence continually increasing.   
+The website and social media sites continue to see regular traffic and the App has 
+had almost 6,000 downloads since March and almost 20,000 cards and leaflets 
+haven been distributed across Scotland. A dedicated phone line & online contact 
+system with a mail out approach was also set up to manage this increased demand 
+and has been operating successfully since March 2020. With this nationwide effort, 
+SEStran supported by the other RTPs have seen an improvement in customer 
+                                                
+27 https://www.upstream.scot/making-connections   
+28 Thistle Assistance | Your Travel Companion – Discreet public transport support at your fingertips 
+29 https://www.thistleassistance.com/  
+Scotland’s Accessible Travel Framework 2019 – 2020 Delivery Plan Progress Report 
+Transport Scotland 
+ 
+ 
+15 
+ 
+experiences and through social media they can now connect directly with travellers to 
+ensure the card can be used safely and securely across Scotland. 
+ 
+Progress Update – Clear Pathways 
+The Transport (Scotland) Act 2019 introduced provisions to introduce a National 
+prohibition on pavement parking. We are progressing with the secondary legislation 
+and guidance, which is required to be in place before Local Authorities, will have the 
+powers to enforce those prohibitions. 
+Transport Scotland, Scottish Government and the Department for Transport (DfT) 
+commissioned research into Inclusive Design in town centres and busy streets. 
+This focus of the research is on two main aspects - evidence on how inclusive 
+engagement approaches can support inclusive design, and evidence on physical 
+design measures that can support inclusive design. Following publication shortly, 
+guidance on inclusive design will be developed in collaboration with a stakeholder-
+working group, which includes representatives from disabled peoples’ organisations. 
+Progress Update – Taxi and Private Hire Cars (PHC) 
+There were 10,153 taxis and 14,271 private hire cars licensed in Scotland based on 
+figures provided by Scottish local licensing authorities during October-November 2019.  
+The figures show that licensed taxis have fallen by 203 and private hire cars have 
+risen by 428 compared with figures for 2018. Latest figures show that of the 10,153 
+licensed taxis, 4,835 (48%) are wheelchair accessible, the same proportion and slight 
+increase in the total number of accessible vehicles from the previous year. The 
+proportion of wheelchair accessible vehicles varies across different authority areas30.   
+An analysis of Scottish transport statistics31 (published March 2020) shows that the 
+number of wheelchair accessible taxis and PHCs in Scotland has remained relatively 
+stable over the past five years, but against a backdrop of steadily increasing overall 
+numbers. 
+We have been working on developing new guidance on taxi and PHC accessibility for 
+local decision-makers. Despite being in the very early stages of development, we have 
+been exploring links to other areas of policy, have presented information to the 
+Accessible Travel Policy Steering Group, MACS, and conducted a survey of local 
+authorities. We hope to be in a position to share draft guidance with selected 
+                                                
+30 https://www.transport.gov.scot/publication/scottish-transport-statistics-no-38-2019-edition/chapter-1-
+road-transport-vehicles/#tb14 - see Table 1.4 
+31 https://www.transport.gov.scot/publication/scottish-transport-statistics-no-38-2019-edition/chapter-1-
+road-transport-vehicles/#tb14  
+Scotland’s Accessible Travel Framework 2019 – 2020 Delivery Plan Progress Report 
+Transport Scotland 
+ 
+ 
+16 
+ 
+stakeholders in due course, and would invite those with an interest in this area to 
+engage with us to share their views. 
+ 
+Progress Update – Hate Crime 
+We have worked with Disability Equality Scotland, Police Scotland, SEStran and 
+People First to create a nationally recognised system to encourage transport 
+providers, members of the public and other services to support zero-tolerance to all 
+forms of hate crime on public transport. 
+Three separate pilots were launched with Stagecoach, First Bus and ScotRail between 
+December 2019 and January 2020. Initial results of the pilot indicated that it reached 
+over 1.2 million people in an eight-week period. 24 reports of hate crime were made 
+during that period, one specifically from a pilot area and that awareness had been 
+raised amongst transport staff who felt better equipped to recognise and report hate 
+crime. The Working Group has reconvened and continue to work towards a soft 
+launch in spring 2021.  
+In May 2020, Disability Equality Scotland began a separate pilot project with 
+Caledonian MacBrayne Ferries as part of the Ferries Accessibility Fund to design and 
+implement policy and guidance which challenges hate crime on the ferries network, 
+encouraging reporting and working with transport staff to increase knowledge and 
+awareness of hate crime. 
+The commitment to agree a Hate Crime Charter was also set out in Tackling Prejudice 
+and Building Connected Communities Action Plan32, which was published in 2017. An 
+Action Group was established, chaired by the Cabinet Secretary for Communities, with 
+key stakeholders, to take forward the wider programme of work. One of the key 
+priorities identified by the Action Group is on victim support through raising awareness 
+of hate crime and encouraging reporting. In addition to the work on the Hate Crime 
+Charter, we have also launched regular hate crime campaigns in partnership with 
+Police Scotland to encourage victims and witnesses to report it. Most recently, we 
+launched the ‘Letters from Scotland’ campaign in October 2020, which is a series of 
+letters addressed to the perpetrators of hate crime, including ‘Dear Disablists’. The 
+letters state that ‘your hate has no home here’ and are signed ‘Yours Scotland’ to 
+encourage those who read it to report hate crime if they witness it, helping to create a 
+‘One Scotland’ where hate crime and prejudice will not be tolerated. 
+ 
+ 
+                                                
+32 https://www.gov.scot/publications/tackling-prejudice-building-connected-communities-scottish-
+government-response-report-independent/pages/5/  
+Scotland’s Accessible Travel Framework 2019 – 2020 Delivery Plan Progress Report 
+Transport Scotland 
+ 
+ 
+17 
+ 
+ 
+Part 3: The Future Delivering Scotland’s Accessible Travel 
+Framework 
+In 2021, subject to any reprioritisation as a result of COVID-19, we intend to produce: 
+ A ‘short-list’ of priority areas and achievable, meaningful outcomes developed 
+and agreed with a wide range of disabled people and organisations that represent 
+them, to inform our Delivery Plan for 2021-2022. 
+ A description of the barriers in terms of scenarios and journeys 
+ A rich set of insights  
+ A live, collaborative on-line document 
+ And a new online community of engaged people and organisations 
+Despite the challenges 2020 brought, our vision that all disabled people can travel 
+with the same freedom, choice, dignity and opportunity as other citizens, has not 
+changed. However, the impact of COVID-19 on transport in Scotland has changed 
+what it looks like in practice and how we will achieve it. As always, we will use the 
+Accessible Travel Framework as a guiding document 
+We have already undertaken a series of webinars, including “Returning to Public 
+Transport” which brought together around 50 disabled people, disabled people’s 
+organisations and transport operators, to build confidence in disabled travellers to 
+return to public transport and what to expect when doing so. 
+Before April 2021, we aim to have completed up to five webinars covering a range of 
+topics and the impacts on disabled people including Spaces for People33, which was 
+introduced in response to COVID-19 and the increase in walking, wheeling and cycling 
+during lockdown and 20 minute neighbourhoods, through an equalities lens. The 
+place-based planning approach reflects a more joined-up, collaborative and 
+participative approach to services, land and buildings across all sectors, enabling 
+better outcomes for everyone and increased opportunities for people and communities 
+to shape their own lives .The 20-minute neighbourhood is about living more locally, 
+reducing demand for unsustainable transport.   
+New challenges, over the past year have emerged rapidly and the priorities and issues 
+identified by disabled people pre-pandemic, whilst still important are no longer the 
+most pressing issues we are facing.  Our work with the Future Journeys Observatory 
+and continued engagement with the Mobility and Access Committee for Scotland, and 
+the Accessible Travel Steering Group will help shape our future priorities and ensure 
+that we deliver them appropriately in 2021–2022. 
+                                                
+33 Sustrans: Spaces For People Projects 
+ 
+ 
+ 
+© Crown copyright 2021  
+You may re-use this information (excluding logos and images) free of charge 
+in any format or medium, under the terms of the Open Government Licence. 
+To view this licence, visit http://www.nationalarchives.gov.uk/doc/open-
+government-licence or e-mail: psi@nationalarchives.gsi.gov.uk  
+Where we have identified any third party copyright information you will need to 
+obtain permission from the copyright holders concerned.  
+Further copies of this document are available, on request, in audio and visual 
+formats and in community languages. Any enquiries regarding this document / 
+publication should be sent to us at info@transport.gov.scot 
+This document is also available on the Transport Scotland website: 
+www.transport.gov.scot  
+Published by Transport Scotland, January 2021 
+Follow us:  
+ 
+transcotland     
+ @transcotland 
+transport.gov.scot 
