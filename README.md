@@ -4,7 +4,7 @@ This study is driven by the universal right to accessible information, see the f
 
 This repository contains a novel dataset, which is driven by taxonomy for sentence-level TS tasks. Unlike previous resources like [WikiLarge](https://github.com/XingxingZhang/dress) and [ASSET](https://github.com/facebookresearch/asset), which emphasize word-level or predefined operations, this study focuses on **why** corrections are needed by providing annotations for lexical, syntactic, and semantic changes. The dataset itself stems from diverse public services in Scotland:
 |  |  |  |  |  |  |  |  |
-|:---|---:|---:|---:|---:|---:|---:|---:|
+
 | **Source** | **\#Texts** | **Complex** |  |  | **Simple** |  |  |
 |  |  | \#Words | \#Sentences | IQR | \#Words | \#Sentences | IQR |
 | Health | 21 | 183677 | 7258 | (15.0-31.0) | 30253 | 1519 | (10.0-21.0) |
