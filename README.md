@@ -6,7 +6,7 @@ This repository contains a novel dataset, which is driven by taxonomy for senten
 
 
 
-| **Source**       | **# Texts** | **Complex**               | **Simple**               |
+| **Source**       | **# Texts** | **Complex**   |        |    | **Simple**    |       |    |
 |-------------------|------------:|------------:|-------|-------|------------|-------|-------|
 |                  |             | **# Words** | **# Sentences** | **IQR** | **# Words** | **# Sentences** | **IQR** |
 | **Health**       | 21          | 183,677     | 7,258 | (15.0–31.0) | 30,253   | 1,519 | (10.0–21.0) |
