@@ -24,6 +24,7 @@ As the PLMs we used the traditional selection of BERT and RoBERTa models.
 
 The dataset and the script are fully described in our paper:
 
+```
 @inproceedings{khallaf2025readinglinesdatasetstudy,
   title={Reading Between the Lines: A dataset and a study on why some texts are tougher than others},
   author={Nouran Khallaf and Carlo Eugeni and Serge Sharoff},
@@ -35,6 +36,7 @@ The dataset and the script are fully described in our paper:
   primaryClass={cs.CL},
   url={https://arxiv.org/abs/2501.01796}
 }
+```
 
 
 
