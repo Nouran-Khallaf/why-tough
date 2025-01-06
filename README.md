@@ -22,7 +22,18 @@ To train the model, run:
 
 As the PLMs we used the traditional selection of BERT and RoBERTa models.
 
+
+
+Here’s the text formatted appropriately for a README file:
+
+---
+
+### Citation
 The dataset and the script are fully described in our paper:
+**Reading Between the Lines: A Dataset and a Study on Why Some Texts Are Tougher Than Others**  
+*Nouran Khallaf, Carlo Eugeni, and Serge Sharoff*  
+Presented at **Writing Aids at the Crossroads of AI, Cognitive Science, and NLP (WR-AI-CogS)**, COLING 2025, Abu Dhabi.  
+[arXiv:2501.01796](https://arxiv.org/abs/2501.01796)
 
 ```
 @inproceedings{khallaf2025readinglinesdatasetstudy,
