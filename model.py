@@ -106,7 +106,7 @@ def prepare_datasets(dataset_path, sep, valsplit):
 
     return train_dataset, val_dataset
 
-# Main Script
+# Run Script
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="A Transformer Model for Complexity Classification")
     parser.add_argument('-m', '--mname', type=str, default='bert-base-multilingual-cased', help='Model name according to HuggingFace transformers')
@@ -122,6 +122,9 @@ if __name__ == "__main__":
     parser.add_argument('--batch_size', type=int, default=8, help='Batch size')
     parser.add_argument('--eval_steps', type=int, default=1000, help='Evaluation steps')
     parser.add_argument('--valsplit', type=float, default=0.2, help='Validation split fraction')
+    parser.add_argument('--weight_decay', type=float, default=0.01, help='Weight decay (L2 regularization)')
+    parser.add_argument('--fp16', action='store_true', help='Use mixed precision training')
+    parser.add_argument('--max_grad_norm', type=float, default=1.0, help='Maximum gradient norm for clipping')
 
     parser.add_argument('-v', '--verbosity', type=int, default=1, help='Verbosity level')
 
@@ -141,11 +144,13 @@ if __name__ == "__main__":
         learning_rate=args.lr,
         per_device_train_batch_size=args.batch_size,
         num_train_epochs=args.epochs,
-        weight_decay=0.01,
+        weight_decay=args.weight_decay,
         logging_dir=f"./logs",
         logging_steps=args.eval_steps,
         save_total_limit=2,
-        load_best_model_at_end=True
+        load_best_model_at_end=True,
+        fp16=args.fp16,
+        max_grad_norm=args.max_grad_norm
     )
 
     train_model(args.mname, train_dataset, val_dataset, training_args)
