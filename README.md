@@ -73,9 +73,10 @@ The annotated texts are in the directory */texts/*.
 
 To train the model, run:
 
-    train.py PLM checkpoit /texts/annotated.csv [hyperparameters]
+    train.py -m PLM -l checkpoit -i /texts/annotated.csv [hyperparameters]
 
-As the PLMs we used the traditional selection of BERT and RoBERTa models.
+As the PLMs we experimented the traditional selection of BERT and RoBERTa models. As usual for the full set of parameters run:
+    train.py -h
 
 
 ### Citation
