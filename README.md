@@ -70,6 +70,26 @@ This repository contains a novel dataset, which is driven by taxonomy for senten
 The study's contributions include (1) an extended taxonomy of text simplification strategies that integrates insights from translation studies, (2) a corpus of complex and simplified texts sourced from public services in Scotland, (3) experiments using transformer-based models to predict simplification strategies, and (4) the use of Explainable AI (XAI) techniques, such as Integrated Gradients, to interpret model predictions. 
 
 
+
+### **Text Simplification Macro-Strategies**
+an extended taxonomy of text simplification strategies that integrates insights from translation studies
+
+| **Macro-Strategy**         | **Strategies**                                                                                                                                                                                                                                   |
+|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Transcription**           | No simplification needed.                                                                                                                                                                                                                     |
+| **Synonymy**                | - **Pragmatic**: Acronyms spelled out; Proper names to common names; Contextual synonyms made explicit. <br>- **Semantic**: Hypernyms; Hyponyms; Stereotypes. <br>- **Grammatical**: Negative to positive sentences; Passive to active sentences; Pronouns to referents; Tenses simplified. |
+| **Explanation**             | Words given for known; Expressions given for known; Tropes explained; Schemes explained; Deixis clarified; Hidden grammar made explicit; Hidden concepts made explicit.                                                                       |
+| **Syntactic Changes**       | Word → Group; Word → Clause; Word → Sentence; Group → Word; Group → Clause; Group → Sentence; Clause → Word; Clause → Group; Clause → Sentence; Sentence → Word; Sentence → Group; Sentence → Clause.                                         |
+| **Transposition**           | Nouns for things, animals, or people; Verbs for actions; Adjectives for nouns; Adverbs for verbs.                                                                                                                                             |
+| **Modulation**              | Text-level linearity; Sentence-level linearity: Chronological order of clauses; Logical order of complements.                                                                                                                                 |
+| **Anaphora**                | Repetition replaces synonyms.                                                                                                                                                                                                                |
+| **Omission**                | Useless elements: Nouns; Verbs; Complements; Sentences. Rhetorical constructs; Diamesic elements.                                                                                                                                            |
+| **Illocutionary Change**    | Implicit meaning made explicit.                                                                                                                                                                                                              |
+| **Compression**             | Grammatical constructs simplified; Rhetorical constructs simplified.                                                                                                                                                                         |
+
+---
+
+
 ### Using the simplification stratigies Classification Model
 
 #### **Directory Structure**
