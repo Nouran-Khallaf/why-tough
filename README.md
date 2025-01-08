@@ -70,7 +70,7 @@ This repository contains a novel dataset, which is driven by taxonomy for senten
 The study's contributions include (1) an extended taxonomy of text simplification strategies that integrates insights from translation studies, (2) a corpus of complex and simplified texts sourced from public services in Scotland, (3) experiments using transformer-based models to predict simplification strategies, and (4) the use of Explainable AI (XAI) techniques, such as Integrated Gradients, to interpret model predictions. 
 
 
-### Using the Complexity Classification Model
+### Using the simplification stratigies Classification Model
 
 #### **Directory Structure**
 The annotated texts and necessary resources for training and evaluation are stored in the directory `texts/`.
