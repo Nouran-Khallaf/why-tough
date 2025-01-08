@@ -92,10 +92,8 @@ an extended taxonomy of text simplification strategies that integrates insights 
 
 ### Using the simplification stratigies Classification Model
 
-#### **Directory Structure**
-The annotated texts and necessary resources for training and evaluation are stored in the directory `texts/`.
 
----
+The annotated texts and necessary resources for training and evaluation are stored in the directory `texts/`.
 
 ### **Training the Model**
 To train the model, run the following command:
