@@ -2,54 +2,90 @@
 # -*- coding: utf-8 -*-
 
 import argparse
-import torch
-from transformers import AutoTokenizer, AutoModelForSequenceClassification
-from sklearn.metrics import precision_recall_fscore_support, accuracy_score
 import pandas as pd
+import numpy as np
+from sklearn.metrics import classification_report
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, Trainer, TrainingArguments
+import torch
 
-# Function to evaluate the model
-def evaluate_model(model_path, test_file, sep):
-    # Load tokenizer and model
-    tokenizer = AutoTokenizer.from_pretrained(model_path)
-    model = AutoModelForSequenceClassification.from_pretrained(model_path)
-    model.eval()
+# Prepare dataset for evaluation
+def prepare_dataset(file_path, tokenizer):
+    data = pd.read_csv(file_path)
+    encodings = tokenizer(list(data['Complex']), padding=True, truncation=True, max_length=512)
+    labels = torch.tensor(data['Typology Encoded'].values, dtype=torch.long)
 
-    # Load test data
-    data = pd.read_csv(test_file, sep=sep)
-    texts = data['Complex']
-    labels = data['Typology Encoded']
+    class Dataset(torch.utils.data.Dataset):
+        def __init__(self, encodings, labels):
+            self.encodings = encodings
+            self.labels = labels
 
-    # Tokenize the test data
-    encodings = tokenizer(list(texts), padding=True, truncation=True, max_length=512, return_tensors="pt")
+        def __len__(self):
+            return len(self.labels)
 
-    # Run the model and get predictions
-    with torch.no_grad():
-        outputs = model(**encodings)
-        predictions = torch.argmax(outputs.logits, dim=-1).cpu().numpy()
+        def __getitem__(self, idx):
+            item = {key: torch.tensor(val[idx]) for key, val in self.encodings.items()}
+            item['labels'] = self.labels[idx]
+            return item
 
-    # Calculate metrics
-    precision, recall, f1, _ = precision_recall_fscore_support(labels, predictions, average='weighted')
-    accuracy = accuracy_score(labels, predictions)
+    return Dataset(encodings, labels)
 
-    metrics = {
-        "precision": precision,
-        "recall": recall,
-        "f1": f1,
-        "accuracy": accuracy
-    }
+# Evaluate the model
+def evaluate_model(saved_model_path, eval_file, output_dir):
+    # Load the saved model and tokenizer
+    tokenizer = AutoTokenizer.from_pretrained(saved_model_path)
+    model = AutoModelForSequenceClassification.from_pretrained(saved_model_path)
 
-    return metrics
+    # Prepare evaluation dataset
+    eval_dataset = prepare_dataset(eval_file, tokenizer)
+
+    # Initialize Trainer
+    training_args = TrainingArguments(
+        output_dir=output_dir,
+        per_device_eval_batch_size=8,
+        report_to="none" 
+    )
+
+    trainer = Trainer(
+        model=model,
+        args=training_args,
+        eval_dataset=eval_dataset,
+        tokenizer=tokenizer,
+    )
+
+    # Evaluate the model
+    eval_metrics = trainer.evaluate()
+    print("Evaluation Metrics:", eval_metrics)
+
+    # Make predictions
+    predictions = trainer.predict(eval_dataset)
+    predicted_labels = np.argmax(predictions.predictions, axis=1)
+
+    # Generate classification report
+    from sklearn.preprocessing import LabelEncoder
+    label_encoder = LabelEncoder()
+    label_encoder.classes_ = np.load(f"./label_classes.npy", allow_pickle=True)
+
+    target_names = label_encoder.classes_
+    true_labels = eval_dataset.labels.numpy()
+
+    print("Classification Report:")
+    print(classification_report(
+        true_labels,
+        predicted_labels,
+        target_names=target_names,
+        zero_division=0
+    ))
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Test a Saved Transformer Model")
-    parser.add_argument('-m', '--model_path', type=str, required=True, help='Path to the saved model directory')
-    parser.add_argument('-t', '--test_file', type=str, required=True, help='Path to the test dataset')
-    parser.add_argument('--sep', type=str, default=',', help='Separator for the dataset file')
+    parser = argparse.ArgumentParser(description="Evaluate a Transformer Model for Complexity Classification")
+    parser.add_argument('--model_path', type=str, required=True, help='Path to the saved model directory')
+    parser.add_argument('--eval_file', type=str, required=True, help='Path to the evaluation dataset')
+    parser.add_argument('--output_dir', type=str, default='./eval_results', help='Directory to save evaluation results')
 
     args = parser.parse_args()
 
-    metrics = evaluate_model(args.model_path, args.test_file, args.sep)
-
-    print("Evaluation Metrics:")
-    for key, value in metrics.items():
-        print(f"{key}: {value:.4f}")
+    evaluate_model(
+        saved_model_path=args.model_path,
+        eval_file=args.eval_file,
+        output_dir=args.output_dir
+    )
