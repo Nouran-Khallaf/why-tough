@@ -69,14 +69,117 @@ This repository contains a novel dataset, which is driven by taxonomy for senten
 
 The study's contributions include (1) an extended taxonomy of text simplification strategies that integrates insights from translation studies, (2) a corpus of complex and simplified texts sourced from public services in Scotland, (3) experiments using transformer-based models to predict simplification strategies, and (4) the use of Explainable AI (XAI) techniques, such as Integrated Gradients, to interpret model predictions. 
 
-The annotated texts are in the directory */texts/*.
 
-To train the model, run:
+### Using the Complexity Classification Model
 
-    train.py -m PLM -l checkpoit -i /texts/annotated.csv [hyperparameters]
+#### **Directory Structure**
+The annotated texts and necessary resources for training and evaluation are stored in the directory `texts/`.
 
-As the PLMs we experimented the traditional selection of BERT and RoBERTa models. As usual for the full set of parameters run:
-    train.py -h
+---
+
+### **Training the Model**
+To train the model, run the following command:
+
+```bash
+python train.py -m <PLM> -l <checkpoint_dir> -i <train_file> --weights_file <class_weights_file> [hyperparameters]
+```
+
+#### **Required Parameters**:
+- `-m`, `--model_name`: The name of the pre-trained language model to use (e.g., `bert-base-multilingual-cased`, `roberta-base`).
+- `-l`, `--local`: Directory to save model checkpoints and logs.
+- `-i`, `--train_file`: Path to the training dataset (e.g., `texts/train.csv`).
+- `--weights_file`: Path to the file containing class weights (e.g., `texts/class_weights.txt`).
+
+#### **Optional Hyperparameters**:
+- `-e`, `--epochs`: Number of training epochs (default: `4`).
+- `--batch_size`: Batch size for training (default: `8`).
+- `--learning_rate`: Learning rate for the optimizer (default: `1e-5`).
+- `--weight_decay`: Weight decay (L2 regularization) for the optimizer (default: `0.01`).
+- `--eval_steps`: Number of steps between evaluations (default: `1000`).
+- `--fp16`: Use mixed-precision training for faster execution and reduced memory usage (flag; no value needed).
+- `--max_grad_norm`: Maximum gradient norm for clipping (default: `1.0`).
+- `--seed`: Random seed for reproducibility (default: `42`).
+- `--gradient_accumulation_steps`: Number of steps to accumulate gradients before updating model weights (default: `1`).
+- `--save_total_limit`: Maximum number of checkpoints to keep (default: `2`).
+- `--logging_dir`: Directory to store logs (default: `./results/logs`).
+- `--evaluation_strategy`: Evaluation strategy (`epoch`, `steps`, or `no`; default: `epoch`).
+- `--save_strategy`: Strategy for saving checkpoints (`epoch`, `steps`, or `no`; default: `epoch`).
+
+---
+
+#### **Example Training Command**
+```bash
+python train.py \
+    -m bert-base-multilingual-cased \
+    -l ./results \
+    -i texts/train.csv \
+    --weights_file texts/class_weights.txt \
+    --epochs 10 \
+    --batch_size 16 \
+    --learning_rate 5e-5 \
+    --eval_steps 500 \
+    --fp16 \
+    --max_grad_norm 1.0
+```
+
+To view the full list of parameters and their descriptions:
+```bash
+python train.py -h
+```
+
+---
+
+### **Evaluating the Model**
+To evaluate the trained model, run the following command:
+
+```bash
+python test.py -m <checkpoint_dir> -t <test_file>
+```
+
+#### **Required Parameters**:
+- `-m`, `--model_dir`: Path to the saved model directory (e.g., `./results`).
+- `-t`, `--test_file`: Path to the test dataset (e.g., `texts/test.csv`).
+
+---
+
+#### **Example Evaluation Command**
+```bash
+python test.py \
+    -m ./results \
+    -t texts/test.csv
+```
+
+---
+
+### **Splitting the Data**
+Before training and evaluation, you can split your dataset into training and testing subsets using `split_data.py`:
+
+```bash
+python split_data.py \
+    -i texts/annotated.csv \
+    --output_train texts/train.csv \
+    --output_test texts/test.csv \
+    --output_weights texts/class_weights.txt \
+    --test_size 0.2
+```
+
+#### **Parameters for `split_data.py`**:
+- `-i`, `--inputfile`: Path to the annotated dataset.
+- `--output_train`: Path to save the training dataset.
+- `--output_test`: Path to save the test dataset.
+- `--output_weights`: Path to save the class weights file.
+- `--test_size`: Proportion of data to use for testing (default: `0.2`).
+
+---
+
+### **Notes**
+1. **Class Weights**:
+   - Ensure the `class_weights.txt` is generated using `split_data.py`. This ensures the model effectively handles class imbalances.
+
+2. **Customizing Parameters**:
+   - Modify the hyperparameters to suit your dataset size, computing resources, and task requirements.
+
+This updated guide includes all hyperparameters and usage details, ensuring flexibility and clarity for users to customize the training and evaluation process.
 
 
 ### Citation
