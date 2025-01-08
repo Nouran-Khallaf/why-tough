@@ -85,7 +85,7 @@ python train.py -m <PLM> -l <checkpoint_dir> -i <train_file> --weights_file <cla
 ```
 
 #### **Required Parameters**:
-- `-m`, `--model_name`: The name of the pre-trained language model to use (e.g., `bert-base-multilingual-cased`, `roberta-base`).
+- `-m`, `--model_name`: <PLM> The name of the pre-trained language model to use (e.g., bert-base-multilingual-cased, roberta-base).
 - `-l`, `--local`: Directory to save model checkpoints and logs.
 - `-i`, `--train_file`: Path to the training dataset (e.g., `texts/train.csv`).
 - `--weights_file`: Path to the file containing class weights (e.g., `texts/class_weights.txt`).
@@ -106,7 +106,9 @@ python train.py -m <PLM> -l <checkpoint_dir> -i <train_file> --weights_file <cla
 - `--save_strategy`: Strategy for saving checkpoints (`epoch`, `steps`, or `no`; default: `epoch`).
 
 ---
+Available Pre-Trained Language Models (PLMs)
 
+We recommend experimenting with widely-used transformer models like BERT, RoBERTa, and mBERT
 #### **Example Training Command**
 ```bash
 python train.py \
@@ -172,14 +174,9 @@ python split_data.py \
 
 ---
 
-### **Notes**
-1. **Class Weights**:
+### **Note**
+**Class Weights**:
    - Ensure the `class_weights.txt` is generated using `split_data.py`. This ensures the model effectively handles class imbalances.
-
-2. **Customizing Parameters**:
-   - Modify the hyperparameters to suit your dataset size, computing resources, and task requirements.
-
-This updated guide includes all hyperparameters and usage details, ensuring flexibility and clarity for users to customize the training and evaluation process.
 
 
 ### Citation
