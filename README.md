@@ -99,7 +99,10 @@ The annotated texts and necessary resources for training and evaluation are stor
 To train the model, run the following command:
 
 ```bash
-python train.py -m <PLM> -l <checkpoint_dir> -i <train_file> --weights_file <class_weights_file> [hyperparameters]
+python train.py -m <PLM>/
+                -l <checkpoint_dir>/
+                -i <train_file>/
+                --weights_file <class_weights_file> [hyperparameters]
 ```
 
 #### **Required Parameters**:
