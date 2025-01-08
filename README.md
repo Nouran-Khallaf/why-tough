@@ -107,7 +107,9 @@ python train.py -m <PLM> -l <checkpoint_dir> -i <train_file> --weights_file <cla
 - `-l`, `--local`: Directory to save model checkpoints and logs.
 - `-i`, `--train_file`: Path to the training dataset (e.g., `texts/train.csv`).
 - `--weights_file`: Path to the file containing class weights (e.g., `texts/class_weights.txt`).
-
+  
+Available Pre-Trained Language Models (PLMs)
+We recommend experimenting with widely-used transformer models like BERT, RoBERTa, and mBERT
 #### **Optional Hyperparameters**:
 - `-e`, `--epochs`: Number of training epochs (default: `4`).
 - `--batch_size`: Batch size for training (default: `8`).
@@ -124,9 +126,7 @@ python train.py -m <PLM> -l <checkpoint_dir> -i <train_file> --weights_file <cla
 - `--save_strategy`: Strategy for saving checkpoints (`epoch`, `steps`, or `no`; default: `epoch`).
 
 ---
-Available Pre-Trained Language Models (PLMs)
 
-We recommend experimenting with widely-used transformer models like BERT, RoBERTa, and mBERT
 #### **Example Training Command**
 ```bash
 python train.py \
