@@ -192,10 +192,105 @@ python split_data.py \
 
 ---
 
-### **Note**
-**Class Weights**:
-   - Ensure the `class_weights.txt` is generated using `split_data.py`. This ensures the model effectively handles class imbalances.
+Here's the updated `inference.py` script with additional functionality and an explanation on how to use it:
 
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+import argparse
+import torch
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
+from numpy import load
+from sklearn.preprocessing import LabelEncoder
+
+def predict(model_path, input_texts, label_classes_path):
+    # Load tokenizer, model, and label classes
+    tokenizer = AutoTokenizer.from_pretrained(model_path)
+    model = AutoModelForSequenceClassification.from_pretrained(model_path)
+    model.eval()
+
+    label_classes = load(label_classes_path)  # Load label classes (e.g., classes and encodings)
+
+    # Tokenize input texts
+    encodings = tokenizer(input_texts, padding=True, truncation=True, max_length=512, return_tensors="pt")
+
+    # Run the model and get predictions
+    with torch.no_grad():
+        outputs = model(**encodings)
+        predictions = torch.argmax(outputs.logits, dim=-1).cpu().numpy()
+
+    # Decode the predicted labels using the loaded label classes
+    decoded_predictions = [label_classes[int(pred)] for pred in predictions]
+
+    return decoded_predictions
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Perform inference using a trained Transformer model")
+    parser.add_argument('-m', '--model_path', type=str, required=True, help='Path to the saved model directory')
+    parser.add_argument('-i', '--input_texts', type=str, nargs='+', required=True, help='List of texts to classify')
+    parser.add_argument('-l', '--label_classes_path', type=str, required=True, help='Path to the label classes file (e.g., label_classes.npy)')
+
+    args = parser.parse_args()
+
+    predictions = predict(args.model_path, args.input_texts, args.label_classes_path)
+
+    print("Predictions:")
+    for text, label in zip(args.input_texts, predictions):
+        print(f"Text: {text}\nPredicted Label: {label}\n")
+```
+
+---
+
+### Performing Inference with the Trained Model
+
+After training the model, you can use the `inference.py` script to classify new texts using the saved model and label classes.
+
+#### Prerequisites
+1. **Trained Model**: Ensure the trained model is saved in a directory (e.g., `results/`).
+2. **Label Classes File**: The `label_classes.npy` file must be generated during training and stored (e.g., in the `results/` directory).
+
+#### Usage
+Run the `inference.py` script as follows:
+
+```bash
+python inference.py \
+    -m results/ \
+    -i "The patient was admitted to the hospital with symptoms of severe flu." \
+       "The weather today is sunny and warm." \
+    -l label_classes.npy
+```
+
+#### Arguments
+- `-m` or `--model_path`: Path to the directory containing the saved model files (e.g., `results/`).
+- `-i` or `--input_texts`: One or more input texts to classify. Provide each text in quotes, separated by spaces.
+- `-l` or `--label_classes_path`: Path to the label classes file (e.g., `label_classes.npy`), required to decode predictions.
+
+#### Output
+The script will output the predicted class labels for each input text, as shown below:
+
+```plaintext
+Predictions:
+Text: The patient was admitted to the hospital with symptoms of severe flu.
+Predicted Label: Explanation
+
+Text: The weather today is sunny and warm.
+Predicted Label: Transcription
+```
+
+#### Example
+If you want to classify two sentences:
+```bash
+python inference.py \
+    -m results/ \
+    -i "This document requires simplification for better readability." \
+       "The instructions were clear and concise." \
+    -l label_classes.npy
+```
+### **Notes**
+- Ensure the `class_weights.txt` is generated using `split_data.py`. This ensures the model effectively handles class imbalances.
+- The `label_classes.npy` file maps the numeric predictions from the model to their respective class names.
+- You can provide multiple input texts by separating them with spaces and enclosing each text in quotes.
 
 ### Citation
 The dataset and the script are fully described in our paper:
