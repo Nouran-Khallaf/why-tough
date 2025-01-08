@@ -199,10 +199,6 @@ python split_data.py \
 
 After training the model, you can use the `inference.py` script to classify new texts using the saved model and label classes.
 
-#### Prerequisites
-1. **Trained Model**: Ensure the trained model is saved in a directory (e.g., `results/`).
-2. **Label Classes File**: The `label_classes.npy` file must be generated during training and stored (e.g., in the `results/` directory).
-
 #### Usage
 Run the `inference.py` script as follows:
 
