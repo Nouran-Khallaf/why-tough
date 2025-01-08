@@ -1,7 +1,9 @@
 # Reading Between the Lines: A dataset and a study on why some texts are tougher than others
 
 This study is driven by the universal right to accessible information, see the full description of our project <https://idemproject.eu/en>, which aims at Text Simplification (TS) while leveraging strategies from both computational and translation studies. Particularly, intralingual translation, such as Diastratic Translation, focuses on shifting from Standard English to Easy-to-Read (E2R) English, making information accessible to audiences with reading difficulties, including people with disabilities and low literacy levels.
+The study's contributions include (1) an extended taxonomy of text simplification strategies that integrates insights from translation studies, (2) a corpus of complex and simplified texts sourced from public services in Scotland, (3) experiments using transformer-based models to predict simplification strategies, and (4) the use of Explainable AI (XAI) techniques, such as Integrated Gradients, to interpret model predictions. 
 
+### **1-Corpus of complex and simplified texts**
 This repository contains a novel dataset, which is driven by taxonomy for sentence-level TS tasks. The dataset is located in the dataset/ folder. Unlike previous resources like [WikiLarge](https://github.com/XingxingZhang/dress) and [ASSET](https://github.com/facebookresearch/asset), which emphasize word-level or predefined operations, this study focuses on **why** corrections are needed by providing annotations for lexical, syntactic, and semantic changes. The dataset itself stems from diverse public services in Scotland:
 
 <table>
@@ -67,11 +69,9 @@ This repository contains a novel dataset, which is driven by taxonomy for senten
 
 ---
 
-The study's contributions include (1) an extended taxonomy of text simplification strategies that integrates insights from translation studies, (2) a corpus of complex and simplified texts sourced from public services in Scotland, (3) experiments using transformer-based models to predict simplification strategies, and (4) the use of Explainable AI (XAI) techniques, such as Integrated Gradients, to interpret model predictions. 
 
 
-
-### **Text Simplification Macro-Strategies**
+### **2-Text Simplification Macro-Strategies**
 an extended taxonomy of text simplification strategies that integrates insights from translation studies
 
 | **Macro-Strategy**         | **Strategies**                                                                                                                                                                                                                                   |
@@ -90,7 +90,7 @@ an extended taxonomy of text simplification strategies that integrates insights 
 ---
 
 
-### Using the simplification stratigies Classification Model
+### **3-Using the simplification stratigies Classification Model**
 
 
 The annotated texts and necessary resources for training and evaluation are stored in the directory `texts/`.
