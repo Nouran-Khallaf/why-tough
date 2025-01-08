@@ -266,27 +266,6 @@ python inference.py \
 - `-i` or `--input_texts`: One or more input texts to classify. Provide each text in quotes, separated by spaces.
 - `-l` or `--label_classes_path`: Path to the label classes file (e.g., `label_classes.npy`), required to decode predictions.
 
-#### Output
-The script will output the predicted class labels for each input text, as shown below:
-
-```plaintext
-Predictions:
-Text: The patient was admitted to the hospital with symptoms of severe flu.
-Predicted Label: Explanation
-
-Text: The weather today is sunny and warm.
-Predicted Label: Transcription
-```
-
-#### Example
-If you want to classify two sentences:
-```bash
-python inference.py \
-    -m results/ \
-    -i "This document requires simplification for better readability." \
-       "The instructions were clear and concise." \
-    -l label_classes.npy
-```
 ### **Notes**
 - Ensure the `class_weights.txt` is generated using `split_data.py`. This ensures the model effectively handles class imbalances.
 - The `label_classes.npy` file maps the numeric predictions from the model to their respective class names.
