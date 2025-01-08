@@ -2,7 +2,7 @@
 
 This study is driven by the universal right to accessible information, see the full description of our project <https://idemproject.eu/en>, which aims at Text Simplification (TS) while leveraging strategies from both computational and translation studies. Particularly, intralingual translation, such as Diastratic Translation, focuses on shifting from Standard English to Easy-to-Read (E2R) English, making information accessible to audiences with reading difficulties, including people with disabilities and low literacy levels.
 
-This repository contains a novel dataset, which is driven by taxonomy for sentence-level TS tasks. Unlike previous resources like [WikiLarge](https://github.com/XingxingZhang/dress) and [ASSET](https://github.com/facebookresearch/asset), which emphasize word-level or predefined operations, this study focuses on **why** corrections are needed by providing annotations for lexical, syntactic, and semantic changes. The dataset itself stems from diverse public services in Scotland:
+This repository contains a novel dataset, which is driven by taxonomy for sentence-level TS tasks. The dataset is located in the dataset/ folder. Unlike previous resources like [WikiLarge](https://github.com/XingxingZhang/dress) and [ASSET](https://github.com/facebookresearch/asset), which emphasize word-level or predefined operations, this study focuses on **why** corrections are needed by providing annotations for lexical, syntactic, and semantic changes. The dataset itself stems from diverse public services in Scotland:
 
 <table>
   <thead>
