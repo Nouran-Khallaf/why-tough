@@ -1,6 +1,6 @@
 macro_to_original = {
     'Transcript': ['Transcript'],
-    'Transposition': [
+    'Synonymy': [
         'Synonymy', 'Anaph', 'SemStereo', 'SemStere', 'SemHype', 'Hypernyms', 'Hyponyms', 'Acronyms',
         'SemHypeÊ', 'SemStereÊ', 'SemHypo', 'SemHype\xa0', 'SemStere\xa0'
     ],
