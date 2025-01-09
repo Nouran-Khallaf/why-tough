@@ -2,9 +2,7 @@ macro_to_original = {
     'Transcript': ['Transcript'],
     'Synonymy': [
         'Synonymy', 'Anaph', 'SemStereo', 'SemStere', 'SemHype', 'Hypernyms', 'Hyponyms', 'Acronyms',
-        'SemHypeÊ', 'SemStereÊ', 'SemHypo', 'SemHype\xa0', 'SemStere\xa0'
-    ],
-    'Grammatical Adjustments': [
+        'SemHypeÊ', 'SemStereÊ', 'SemHypo', 'SemHype\xa0', 'SemStere\xa0',
         'GraPron', 'GraTens', 'GraSim', 'GraPass', 'Negations', 'Pronouns', 'PassiveVoice', 'GraPassÊ', 'GraPass\xa0'
     ],
     'Explanation': [
