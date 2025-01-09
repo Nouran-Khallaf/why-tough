@@ -1,6 +1,6 @@
 macro_to_original = {
     'Transcript': ['Transcript'],
-    'Substitution': [
+    'Transposition': [
         'Synonymy', 'Anaph', 'SemStereo', 'SemStere', 'SemHype', 'Hypernyms', 'Hyponyms', 'Acronyms',
         'SemHypeÊ', 'SemStereÊ', 'SemHypo', 'SemHype\xa0', 'SemStere\xa0'
     ],
@@ -23,7 +23,7 @@ macro_to_original = {
     'Omission': [
         'OmiSen', 'OmiWor', 'OmiClau', 'OmiRhet', 'OmiComp', 'OmiSubj', 'OmiSent', 'OmiVer', 'OmiRhe'
     ],
-    'Simplification': [
+    'Compression': [
         'SinGram', 'SinSem', 'SimGram', 'SinPrag', 'SimplifiedSyntax', 'SimplifiedTenses', 'S-V-O Structures'
     ],
     'Illocutionary Change': ['IllCh']
