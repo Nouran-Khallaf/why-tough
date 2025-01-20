@@ -1,28 +1,30 @@
 macro_to_original = {
-    'Transcript': ['Transcript'],
+    ],
+    'Transcript': [
+        'Trans'
+    ],
     'Synonymy': [
-        'Synonymy', 'Anaph', 'SemStereo', 'SemStere', 'SemHype', 'Hypernyms', 'Hyponyms', 'Acronyms',
-        'SemHypeÊ', 'SemStereÊ', 'SemHypo', 'SemHype\xa0', 'SemStere\xa0',
-        'GraPron', 'GraTens', 'GraSim', 'GraPass', 'Negations', 'Pronouns', 'PassiveVoice', 'GraPassÊ', 'GraPass\xa0'
+        'PraSyn', 'SemSyn', 'GraSyn', 'PraProp', 'PraCont', 'PrAcron', 'SemStere', 'SemHype', 'SemHypo',
+        'GraPron', 'GraTens', 'GraPass', 'GraNega'
     ],
     'Explanation': [
-        'ExplWor', 'WordExpl', 'ExplCont', 'ExplExpr', 'ExpExp', 'Tropes', 'Schemes', 'Deixis', 'HidGram',
-        'HidCont', 'WorExp', 'HidGra', 'HidCon', 'PraCont', 'PraExp', 'PraExpÊ', 'PrAcron', 'PraProp'
+        'WorExp', 'ExpExp', 'TroExp', 'SchExp', 'DeiExp', 'HidGra', 'HidCon'
     ],
     'Syntactic Changes': [
-        'SynChange', 'Clause2Word', 'WordsOrder', 'GroupOrder', 'LinearOrderSen', 'LinearOrderCla',
-        'SynW2G', 'SynG2W', 'SynC2W', 'SynG2T', 'SynW2C', 'SynW2S', 'SynC2S', 'SynG2C', 'SynG2WÊ',
-        'SynW2SÊ', 'SynSem', 'SynG2W\xa0', 'SynW2S\xa0'
+        'SynW2G', 'SynW2C', 'SynW2S', 'SynG2W', 'SynG2C', 'SynG2S', 'SynC2W', 'SynC2G', 'SynC2S', 'SynS2W', 'SynS2G', 'SynS2C'
     ],
-    'Transposition': ['TranspNoun', 'TraNou', 'TraVer', 'Trans'],
+    'Transposition': [
+        'TranNou', 'TraVer', 'TrAdje', 'TrAdve'
+    ],
     'Modulation': [
-        'ModInfo', 'ModInf', 'ClauseOrder', 'GroupOrder', 'WordOrder', 'ModClau', 'ModWord', 'ModGrou'
+        'ModInf', 'ModLin', 'ModClau', 'ModWord', 'ModGrou'
     ],
     'Omission': [
-        'OmiSen', 'OmiWor', 'OmiClau', 'OmiRhet', 'OmiComp', 'OmiSubj', 'OmiSent', 'OmiVer', 'OmiRhe'
+        'OmiEle', 'OmiRhe', 'OmiDia', 'OmiSubj', 'OmiVerb', 'OmiComp', 'OmiSent'
     ],
     'Compression': [
-        'SinGram', 'SinSem', 'SimGram', 'SinPrag', 'SimplifiedSyntax', 'SimplifiedTenses', 'S-V-O Structures'
+        'GraSim', 'SemSim'
     ],
-    'Illocutionary Change': ['IllCh']
+    'Illocutionary Change': [
+        'IllCh']
 }
