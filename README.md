@@ -234,9 +234,6 @@ Presented at **Writing Aids at the Crossroads of AI, Cognitive Science, and NLP 
   booktitle={Writing Aids at the Crossroads of AI, Cognitive Science and NLP WR-AI-CogS, at COLING'2025},
   address={Abu Dhabi},
   year={2025},
-  eprint={2501.01796},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL},
   url={https://aclanthology.org/2025.wraicogs-1.3/}
 }
 ```
