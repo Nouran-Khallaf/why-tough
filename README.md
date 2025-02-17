@@ -225,7 +225,7 @@ The dataset and the script are fully described in our paper:
 **Reading Between the Lines: A Dataset and a Study on Why Some Texts Are Tougher Than Others**,
 *Nouran Khallaf, Carlo Eugeni, and Serge Sharoff*  
 Presented at **Writing Aids at the Crossroads of AI, Cognitive Science, and NLP (WR-AI-CogS)**, COLING 2025, Abu Dhabi.  
-[arXiv:2501.01796](https://arxiv.org/abs/2501.01796)
+(https://aclanthology.org/2025.wraicogs-1.3/)
 
 ```
 @inproceedings{khallaf2025readinglinesdatasetstudy,
@@ -237,7 +237,7 @@ Presented at **Writing Aids at the Crossroads of AI, Cognitive Science, and NLP 
   eprint={2501.01796},
   archivePrefix={arXiv},
   primaryClass={cs.CL},
-  url={https://arxiv.org/abs/2501.01796}
+  url={https://aclanthology.org/2025.wraicogs-1.3/}
 }
 ```
 
