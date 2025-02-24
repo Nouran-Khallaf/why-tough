@@ -1,5 +1,5 @@
 macro_to_original = {
-    ],
+
     'Transcript': [
         'Trans'
     ],
