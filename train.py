@@ -91,20 +91,17 @@ def train_model(model_name, train_file, eval_file, weights_file, training_args):
     trainer.train()
     print("Training complete.")
 
-    # Save the model and tokenizer
-    model.save_pretrained(training_args.output_dir)
-    tokenizer.save_pretrained(training_args.output_dir)
-    print(f"Model saved to {training_args.output_dir}")
+    # Evaluate once to avoid redundant calls
+    eval_results = trainer.evaluate()
+    eval_f1 = eval_results.get("eval_f1", 0)  # Default to 0 if missing
 
+    # Save only if the new model has a better F1-score
+    if eval_f1 > train_model.best_f1:
+        train_model.best_f1 = eval_f1
+        model.save_pretrained(training_args.output_dir)
+        tokenizer.save_pretrained(training_args.output_dir)
+        print(f" New best model saved to {training_args.output_dir} with F1-score: {train_model.best_f1:.4f}")
 
-    # Train model
-    trainer.train()
-    print("Training complete.")
-
-    # Save the model and tokenizer
-    model.save_pretrained(training_args.output_dir)
-    tokenizer.save_pretrained(training_args.output_dir)
-    print(f"Model saved to {training_args.output_dir}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="A Transformer Model for Complexity Classification")
