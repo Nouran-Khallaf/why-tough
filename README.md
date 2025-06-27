@@ -169,8 +169,8 @@ python test.py -m <checkpoint_dir> -t <test_file>
 #### **Example Evaluation Command**
 ```bash
 python test.py \
-    -m ./results \
-    -t texts/test.csv
+    --model_path ./results \
+     --eval_file  texts/test.csv
 ```
 
 ---
