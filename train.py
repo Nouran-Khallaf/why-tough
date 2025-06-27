@@ -133,7 +133,7 @@ if __name__ == "__main__":
         learning_rate=args.learning_rate,
         weight_decay=args.weight_decay,
         logging_dir=f"{args.output_dir}/logs",
-        evaluation_strategy="epoch",
+        eval_strategy="epoch",
         save_strategy="epoch",
         save_total_limit=2,
         load_best_model_at_end=True,
