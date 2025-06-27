@@ -94,6 +94,8 @@ def train_model(model_name, train_file, eval_file, weights_file, training_args):
     # Evaluate once to avoid redundant calls
     eval_results = trainer.evaluate()
     eval_f1 = eval_results.get("eval_f1", 0)  # Default to 0 if missing
+    if not hasattr(train_model, "best_f1"):
+        train_model.best_f1 = 0
 
     # Save only if the new model has a better F1-score
     if eval_f1 > train_model.best_f1:
