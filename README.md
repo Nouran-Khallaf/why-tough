@@ -137,10 +137,11 @@ python train.py \
     -l ./results \
     -i texts/train.csv \
     --weights_file texts/class_weights.txt \
+    --eval_file texts/test.csv \
     --epochs 10 \
     --batch_size 16 \
     --learning_rate 5e-5 \
-    --eval_steps 500 \
+    
     --fp16 \
     --max_grad_norm 1.0
 ```
